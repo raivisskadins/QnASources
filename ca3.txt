@@ -10,27 +10,27 @@
 
  Studentu studiju kursā sasniegto rezultātu kopvērtējumu veido: Starppārbaudījumi: 1. Semināru tests par civilās aizsardzības (CA) sistēmas organizāciju (10%) 2. Semināru tests par katastrofu pārvaldīšanu (10%) 3. Semināru tests par bīstamajām ķīmiskajām vielām (10%) Noslēguma ieskaite: 1. daļa. Pirmā palīdzība (35%) 2. daļa. Civilās aizsardzības (CA) sistēma, uzdevumi un rīcība (35%) 
 
- 1. Tēma. Nosaukums: CIVILĀS AIZSARDZĪBAS SISTĒMA VALSTĪ. saturs: Valsts civilās aizsardzības sistēmas loma nacionālās drošības sistēmā; • Tiesiskais regulējums civilās aizsardzības sistēmas darbības nodrošināšanai; • Civilās aizsardzības pasākumi • Civilās aizsardzības sistēmas organizācija, struktūra, galvenie uzdevumi un vadība; • Pašvaldību uzdevumi un tiesības • Valsts ugunsdzēsības un glābšanas dienesta uzdevumi un tiesības • Iedzīvotāju tiesības un pienākumi civilajā aizsardzībā; • Valsts institūciju, pašvaldību un komersantu uzdevumi un tiesības civilajā aizsardzībā; • Prakses piemēri 
+ 1. Tēma. Nosaukums: Civilās aizsardzības sistēma valstī. saturs: Valsts civilās aizsardzības sistēmas loma nacionālās drošības sistēmā; • Tiesiskais regulējums civilās aizsardzības sistēmas darbības nodrošināšanai; • Civilās aizsardzības pasākumi • Civilās aizsardzības sistēmas organizācija, struktūra, galvenie uzdevumi un vadība; • Pašvaldību uzdevumi un tiesības • Valsts ugunsdzēsības un glābšanas dienesta uzdevumi un tiesības • Iedzīvotāju tiesības un pienākumi civilajā aizsardzībā; • Valsts institūciju, pašvaldību un komersantu uzdevumi un tiesības civilajā aizsardzībā; • Prakses piemēri 
 
- 2. Tēma. Nosaukums: KATASTROFU PĀRVALDĪŠANA, PLĀNOŠANA UN PASĀKUMU ĪSTENOŠANA. saturs: Katastrofu pārvaldīšanas pasākumu plānošana – preventīvie, gatavības, reaģēšanas un seku likvidēšanas neatliekamie pasākumi; • Riska novērtēšana • Civilās aizsardzības plānu nepieciešamība • Paaugstinātas bīstamības objekti • Risku novērtēšanas paņēmieni • Agrīnā brīdināšana Glābšanas darbi • Atjaunošanas pasākumi • Valsts materiālās rezerves 
+ 2. Tēma. Nosaukums: Katastrofu pārvaldīšana, plānošana un pasākumu īstenošana. saturs: Katastrofu pārvaldīšanas pasākumu plānošana – preventīvie, gatavības, reaģēšanas un seku likvidēšanas neatliekamie pasākumi; • Riska novērtēšana • Civilās aizsardzības plānu nepieciešamība • Paaugstinātas bīstamības objekti • Risku novērtēšanas paņēmieni • Agrīnā brīdināšana Glābšanas darbi • Atjaunošanas pasākumi • Valsts materiālās rezerves 
 
- 3. Tēma. Nosaukums: IESPĒJAMĀS KATASTROFAS UN TO SEKAS. saturs: Katastrofas jēdziens • Katastrofu veidi un mērogi • Katastrofu piemēri, rīcība un preventīvie pasākumi 
+ 3. Tēma. Nosaukums: Iespējamās katastrofas un to sekas. saturs: Katastrofas jēdziens • Katastrofu veidi un mērogi • Katastrofu piemēri, rīcība un preventīvie pasākumi 
 
- 4. Tēma. Nosaukums: CIVILĀS TRAUKSMES UN APZIŅOŠANAS SISTĒMA VALSTĪ, PLAŠSAZIŅU LĪDZEKĻU LOMA ĀRKĀRTAS SITUĀCIJĀS UN KATASTROFĀS. saturs: Civilās trauksmes un apziņošanas sistēma • Alternatīvas apziņošanas iespējas – šūnu apraide (Cell broadcast) • Informācijas līdzekļu (elektronisko plašsaziņu un sociālo tīklu) loma un ietekme uz informācijas pieejamību krīžu situācijās katastrofās 
+ 4. Tēma. Nosaukums: Civilās trauksmes un apziņošanas sistēma valstī, plašsaziņu līdzekļu loma ārkārtas situācijās un katastrofās. saturs: Civilās trauksmes un apziņošanas sistēma • Alternatīvas apziņošanas iespējas – šūnu apraide (Cell broadcast) • Informācijas līdzekļu (elektronisko plašsaziņu un sociālo tīklu) loma un ietekme uz informācijas pieejamību krīžu situācijās katastrofās 
 
- 5. Tēma. Nosaukums: CIVILĀ AIZSARDZĪBA EIROPAS SAVIENĪBAS UN NATO KONTEKSTĀ, HUMĀNĀS PALĪDZĪBAS SNIEGŠANA UN SAŅEMŠANA. saturs: Civilās aizsardzības sadarbība divpusējo līgumu ietvaros, sadarbība Baltijas jūras reģionā • Eiropas Savienības civilās aizsardzības mehānisms Civilās aizsardzības loma ANO, ES un NATO kontekstā • Humānās palīdzības pieprasīšana un sniegšana
+ 5. Tēma. Nosaukums: Civilā aizsardzība Eiropas Savienības un NATO kontekstā, humānās palīdzības sniegšana un saņemšana. saturs: Civilās aizsardzības sadarbība divpusējo līgumu ietvaros, sadarbība Baltijas jūras reģionā • Eiropas Savienības civilās aizsardzības mehānisms Civilās aizsardzības loma ANO, ES un NATO kontekstā • Humānās palīdzības pieprasīšana un sniegšana
 
- 6. Tēma. Nosaukums: PIRMĀ PALĪDZĪBA UN NEATLIEKAMĀ MEDICĪNISKĀ PALĪDZĪBA. KATASTROFU MEDICĪNAS SISTĒMAS ORGANIZĒŠANA VALSTĪ. saturs: Pirmā palīdzība un neatliekamā medicīniskā palīdzība • Juridiskā atbildība tās sniedzējiem • Katastrofu medicīnas izveidošanas iemesli un tapšanas grūtības • Pieaugošā aktualitāte • Katastrofu medicīnas kā vienas no ārstu medicīnas specializācijas jomām • Attīstība Eiropā un pasaulē 
+ 6. Tēma. Nosaukums: Pirmā palīdzība un neatliekamā medicīniskā palīdzība. Katastrofu medicīnas sistēmas organizēšana valstī. saturs: Pirmā palīdzība un neatliekamā medicīniskā palīdzība • Juridiskā atbildība tās sniedzējiem • Katastrofu medicīnas izveidošanas iemesli un tapšanas grūtības • Pieaugošā aktualitāte • Katastrofu medicīnas kā vienas no ārstu medicīnas specializācijas jomām • Attīstība Eiropā un pasaulē 
 
- 7. Tēma. Nosaukums: DZĪVĪBAS GLĀBŠANAS ABC ALGORITMS, ĀRĒJĀS SIRDS MASĀŽAS UN MĀKSLĪGĀS PLAUŠU VENTILĀCIJAS PAŅĒMIENU PRAKTISKĀ ĪSTENOŠANA. saturs: Dzīvības glābšanas ABC algoritma sastāvdaļas • Tā nozīme un vieta dzīvības glābšanas ķēdē • ABC shēma • Rīcība negadījuma vietā • ABC praktiskais demonstrējums
+ 7. Tēma. Nosaukums: Dzīvības glābšanas ABC algoritms, ārējās sirds masāžas un mākslīgās plaušu ventilācijas paņēmienu praktiskā īstenošana. saturs: Dzīvības glābšanas ABC algoritma sastāvdaļas • Tā nozīme un vieta dzīvības glābšanas ķēdē • ABC shēma • Rīcība negadījuma vietā • ABC praktiskais demonstrējums
 
- 8. Tēma. Nosaukums: PIRMĀS PALĪDZĪBAS SNIEGŠANA. saturs: Juridiskais pamatojums pirmās palīdzības sniegšanai • Pirmās palīdzības pamatprincipi • Pirmās palīdzības aptieciņa • Rīcības secība negadījuma vietā • Asiņošana • Šoks • Termiskie bojājumi • Ķīmisko vielu izraisītie nelaimes gadījumi • Elektrotrauma • Slīkšana • Traumas • Dzīvnieku izraisītie nelaimes gadījumi • Svešķermeņi • Daudz cietušo vienlaicīgi • Slimības
+ 8. Tēma. Nosaukums: Pirmās palīdzības sniegšana. saturs: Juridiskais pamatojums pirmās palīdzības sniegšanai • Pirmās palīdzības pamatprincipi • Pirmās palīdzības aptieciņa • Rīcības secība negadījuma vietā • Asiņošana • Šoks • Termiskie bojājumi • Ķīmisko vielu izraisītie nelaimes gadījumi • Elektrotrauma • Slīkšana • Traumas • Dzīvnieku izraisītie nelaimes gadījumi • Svešķermeņi • Daudz cietušo vienlaicīgi • Slimības
 
- 9. Tēma. Nosaukums: RADIĀCIJAS, BĪSTAMO ĶĪMISKO VIELU UN BIOLOĢISKO AĢENTU IETEKME UZ CILVĒKA ORGANISMU, BĪSTAMO ĶĪMISKO VIELU KLASIFIKĀCIJA, UZGLABĀŠANA UN PĀRVADĀŠANA. saturs: REACH regula • Drošības datu lapas • Rīcība ķīmiskās vielas noplūdes gadījumā • Rīcība radiācijas gadījumā 
+ 9. Tēma. Nosaukums: Radiācijas, bīstamo ķīmisko vielu un bioloģisko aģentu ietekme uz cilvēka organismu, bīstamo ķīmisko vielu klasifikācija, uzglabāšana un pārvadāšana. saturs: REACH regula • Drošības datu lapas • Rīcība ķīmiskās vielas noplūdes gadījumā • Rīcība radiācijas gadījumā 
 
- 10. Tēma. Nosaukums: RĪCĪBA UGUNSGRĒKA GADĪJUMĀ UN EVAKUĀCIJA. saturs: Ugunsdrošība • Rīcība ugunsgrēka gadījumā; • Dūmu detektori; • Ugunsdzēšamie aprāti; • Evakuācijas pasākumi (mājās, sabiedriskā vai publiskā ēkā, katastrofu gadījumā)
+ 10. Tēma. Nosaukums: Rīcība ugunsgrēka gadījumā un evakuācija. saturs: Ugunsdrošība • Rīcība ugunsgrēka gadījumā; • Dūmu detektori; • Ugunsdzēšamie aprāti; • Evakuācijas pasākumi (mājās, sabiedriskā vai publiskā ēkā, katastrofu gadījumā)
 
- 11. Tēma. Nosaukums: LABĀS PRAKSES PIEMĒRI UN PIEREDZE NO STARPTAUTISKAJĀM MISIJĀM. saturs: Praktiskās pieredzes atziņas no starptautiskām misijām, misiju iespējām, kompetences prasībām, mandātu problēmām un izaicinājumiem • Dalība kādā no starptautiskajām misijām – katastrofu palīdzības sniegšanas misija, misija karadarbības zonā, miera uzturēšanas misija, humānās palīdzības misija, brīvprātīgais darbs ANO sistēmā vai citā organizācijā 
+ 11. Tēma. Nosaukums: Labās prakses piemēri un pieredze no starptautiskajām misijām. saturs: Praktiskās pieredzes atziņas no starptautiskām misijām, misiju iespējām, kompetences prasībām, mandātu problēmām un izaicinājumiem • Dalība kādā no starptautiskajām misijām – katastrofu palīdzības sniegšanas misija, misija karadarbības zonā, miera uzturēšanas misija, humānās palīdzības misija, brīvprātīgais darbs ANO sistēmā vai citā organizācijā 
 
  Obligāti izmantojamie informācijas avoti : 1. Pirmās palīdzības sniegšanas pamatzināšanu apmācības programmas vadlīnijas. Tiešsaite: http://www.nmpd.gov.lv 2. Drošības padomi. Tiešsaite: http://vugd.gov.lv 3. Komisijas dienestu 2010.gada 12.decembra darba dokuments SEC(2010) 1626 galīgā redakcija “Riska novērtēšanas un kartēšanas vadlīnijas katastrofu pārvaldībai”, Brisele, 2010., 43.lpp. Tiešsaite: http://ec.europa.eu/echo/index_en 
 
@@ -280,11 +280,11 @@
 
  Tēmas un tēmas apraksta '3. tēma' jautājuma piemērs ir : Kāda ir pareiza rīcība pērkona (zibens) laikā? 
 
- Tēmas un tēmas apraksta ' Kāda ir ...' jautājuma piemērs ir : mp;nbsp;Kāda ir pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām? 
+ Tēmas un tēmas apraksta ' Kāda ir ...' jautājuma piemērs ir : Kāda ir pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām? 
 
- Tēmas un tēmas apraksta '3. tēma' jautājuma piemērs ir : mp;nbsp;Kāda ir pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām? 
+ Tēmas un tēmas apraksta '3. tēma' jautājuma piemērs ir : Kāda ir pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām? 
 
- Tēmas un tēmas apraksta '3. tēma' jautājuma piemērs ir : mp;nbsp;Kāda ir pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām? 
+ Tēmas un tēmas apraksta '3. tēma' jautājuma piemērs ir : Kāda ir pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām? 
 
  Tēmas un tēmas apraksta '4. tests Kādi Latvijā...' jautājuma piemērs ir : Kādi Latvijā ir paziņošanas veidi par apdraudējumu? 
 
@@ -310,27 +310,27 @@
 
  Tēmas un tēmas apraksta '4. tests' jautājuma piemērs ir : Vai pastāv iespēja informēt par apdraudējumu lokāli, izmantojot sms risinājumu? 
 
- Tēmas un tēmas apraksta '7. tests 1.' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '7. tests 1.' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : 1. Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : 1. Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta 'Kura no ...' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta 'Kura no ...' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
 
  Tēmas un tēmas apraksta '2. jautājums' jautājuma piemērs ir : Ja cietušais nereaģē/neatbild, uzskatot, ka viņš ir zaudējis samaņu, pirmām kārtām nepieciešams: 
 
@@ -356,35 +356,35 @@
 
  Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Ja cietušais ir bezsamaņā, bet elpo labi, nepieciešams: 
 
- Tēmas un tēmas apraksta '4. jautājums' jautājuma piemērs ir : ārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
+ Tēmas un tēmas apraksta '4. jautājums' jautājuma piemērs ir : Lai pārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
 
- Tēmas un tēmas apraksta 'Lai ...' jautājuma piemērs ir : ārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
+ Tēmas un tēmas apraksta 'Lai ...' jautājuma piemērs ir : Lai pārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : ārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Lai pārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : ārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Lai pārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : ārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Lai pārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: 
 
- Tēmas un tēmas apraksta '5. jautājums' jautājuma piemērs ir : zīvības glābšanas ABC algoritma sastāvdaļas ir: 
+ Tēmas un tēmas apraksta '5. jautājums' jautājuma piemērs ir : Dzīvības glābšanas ABC algoritma sastāvdaļas ir: 
 
- Tēmas un tēmas apraksta 'Dzīvības ...' jautājuma piemērs ir : zīvības glābšanas ABC algoritma sastāvdaļas ir: 
+ Tēmas un tēmas apraksta 'Dzīvības ...' jautājuma piemērs ir : Dzīvības glābšanas ABC algoritma sastāvdaļas ir: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvības glābšanas ABC algoritma sastāvdaļas ir: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Dzīvības glābšanas ABC algoritma sastāvdaļas ir: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvības glābšanas ABC algoritma sastāvdaļas ir: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Dzīvības glābšanas ABC algoritma sastāvdaļas ir: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvības glābšanas ABC algoritma sastāvdaļas ir: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Dzīvības glābšanas ABC algoritma sastāvdaļas ir: 
 
- Tēmas un tēmas apraksta '6. jautājums' jautājuma piemērs ir : ošanas ceļu atbrīvošana tiek veikta: 
+ Tēmas un tēmas apraksta '6. jautājums' jautājuma piemērs ir : Elpošanas ceļu atbrīvošana tiek veikta: 
 
- Tēmas un tēmas apraksta 'Elpošanas ...' jautājuma piemērs ir : ošanas ceļu atbrīvošana tiek veikta: 
+ Tēmas un tēmas apraksta 'Elpošanas ...' jautājuma piemērs ir : Elpošanas ceļu atbrīvošana tiek veikta: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : ošanas ceļu atbrīvošana tiek veikta: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Elpošanas ceļu atbrīvošana tiek veikta: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : ošanas ceļu atbrīvošana tiek veikta: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Elpošanas ceļu atbrīvošana tiek veikta: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : ošanas ceļu atbrīvošana tiek veikta: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Elpošanas ceļu atbrīvošana tiek veikta: 
 
  Tēmas un tēmas apraksta '7. jautājums' jautājuma piemērs ir : Ja pēc pirmā elpināšana mēģinājuma krūškurvis nepaceļas, tad pirms nākošas elpināšanas: 
 
@@ -406,83 +406,83 @@
 
  Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Ja pēc pirmā elpināšanas mēģinājuma krūškurvis nepaceļas, tad pirms nākamās elpināšanas: 
 
- Tēmas un tēmas apraksta '8. jautājums' jautājuma piemērs ir : zīvināšanas pasākumi sastāv no: 
+ Tēmas un tēmas apraksta '8. jautājums' jautājuma piemērs ir : Atdzīvināšanas pasākumi sastāv no: 
 
- Tēmas un tēmas apraksta 'Atdzīvināšan...' jautājuma piemērs ir : zīvināšanas pasākumi sastāv no: 
+ Tēmas un tēmas apraksta 'Atdzīvināšan...' jautājuma piemērs ir : Atdzīvināšanas pasākumi sastāv no: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvināšanas pasākumi sastāv no: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Atdzīvināšanas pasākumi sastāv no: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvināšanas pasākumi sastāv no: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Atdzīvināšanas pasākumi sastāv no: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvināšanas pasākumi sastāv no: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Atdzīvināšanas pasākumi sastāv no: 
 
- Tēmas un tēmas apraksta '9. jautājums' jautājuma piemērs ir : masāžas tempam un dziļumam ir jābūt: 
+ Tēmas un tēmas apraksta '9. jautājums' jautājuma piemērs ir : Sirds masāžas tempam un dziļumam ir jābūt: 
 
- Tēmas un tēmas apraksta 'Sirds ...' jautājuma piemērs ir : masāžas tempam un dziļumam ir jābūt: 
+ Tēmas un tēmas apraksta 'Sirds ...' jautājuma piemērs ir : Sirds masāžas tempam un dziļumam ir jābūt: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : masāžas tempam un dziļumam ir jābūt: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Sirds masāžas tempam un dziļumam ir jābūt: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : masāžas tempam un dziļumam ir jābūt: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Sirds masāžas tempam un dziļumam ir jābūt: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : masāžas tempam un dziļumam ir jābūt: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Sirds masāžas tempam un dziļumam ir jābūt: 
 
- Tēmas un tēmas apraksta '10. jautājums' jautājuma piemērs ir : zīvināšanas pasākumus pārtrauc tikai tad, ja: 
+ Tēmas un tēmas apraksta '10. jautājums' jautājuma piemērs ir : Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: 
 
- Tēmas un tēmas apraksta 'Atdzīvināšan...' jautājuma piemērs ir : zīvināšanas pasākumus pārtrauc tikai tad, ja: 
+ Tēmas un tēmas apraksta 'Atdzīvināšan...' jautājuma piemērs ir : Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvināšanas pasākumus pārtrauc tikai tad, ja: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvināšanas pasākumus pārtrauc tikai tad, ja: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : zīvināšanas pasākumus pārtrauc tikai tad, ja: 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: 
 
- Tēmas un tēmas apraksta '8. tests 8. tests' jautājuma piemērs ir : contrast="auto" xml:lang="LV-LV" lang="LV-LV">Kā var droši atpazīt nelaimes gadījumus?  
+ Tēmas un tēmas apraksta '8. tests 8. tests' jautājuma piemērs ir : Kā var droši atpazīt nelaimes gadījumus? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="auto" xml:lang="LV-LV" lang="LV-LV">Kā var droši atpazīt nelaimes gadījumus?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kā var droši atpazīt nelaimes gadījumus? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="auto" xml:lang="LV-LV" lang="LV-LV">Kā var droši atpazīt nelaimes gadījumus?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kā var droši atpazīt nelaimes gadījumus? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kāda ir pareiza rīcība bīstamas asiņošanas apturēšanā?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kāda ir pareiza rīcība bīstamas asiņošanas apturēšanā? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kāda ir pareiza rīcība bīstamas asiņošanas apturēšanā?  
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kāda ir pareiza rīcība bīstamas asiņošanas apturēšanā? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : contrast="none" xml:lang="LV-LV" lang="LV-LV">Kāda ir pareiza rīcība bīstamas asiņošanas apturēšanā?  
-
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir kļūdaina glābēja rīcība šoka gadījumā?   
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kāda ir pareiza rīcība bīstamas asiņošanas apturēšanā? 
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir kļūdaina glābēja rīcība šoka gadījumā? 
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir kļūdaina glābēja rīcība šoka gadījumā? 
 
- Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kāda palīdzība jāsniedz pārkāršanas gadījumā?  
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir kļūdaina glābēja rīcība šoka gadījumā? 
+
+ Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kāda palīdzība jāsniedz pārkāršanas gadījumā? 
 
  Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kāda palīdzība jāsniedz pārkāršanas gadījumā?
 
  Tēmas un tēmas apraksta '8. tests' jautājuma piemērs ir : Kāda palīdzība jāsniedz pārkāršanas gadījumā?
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā pirmā palīdzība pie apdegumiem?  
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā pirmā palīdzība pie apdegumiem? 
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā pirmā palīdzība pie apdegumiem?
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā pirmā palīdzība pie apdegumiem?
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība ķermeņa atdzišanas gadījumā?  
-
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība ķermeņa atdzišanas gadījumā? 
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība ķermeņa atdzišanas gadījumā? 
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā Pirmā palīdzība pie apsaldējumiem?  
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība ķermeņa atdzišanas gadījumā? 
+
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā Pirmā palīdzība pie apsaldējumiem? 
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā Pirmā palīdzība pie apsaldējumiem?
 
@@ -490,19 +490,19 @@
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā Pirmā palīdzība pie apsaldējumiem?
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela?  
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela? 
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela?  
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela? 
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela?  
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela? 
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela?  
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela? 
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela?   
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela? 
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela?   
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela? 
 
- Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela?   
+ Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela? 
 
  Tēmas un tēmas apraksta '8. tēma' jautājuma piemērs ir : Kura ir pareizā rīcība, ja svešķermenis ir elpceļos un sākas smakšana? 
 
@@ -546,17 +546,11 @@
 
  Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Kas regulē ķīmisko vielu reģistrēšanu, marķēšanu, risku apzināšanu un pārvaldīšanu?
 
- Tēmas un tēmas apraksta 'Iegādājos ...' jautājuma piemērs ir : ādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā? 
+ Tēmas un tēmas apraksta 'Iegādājos ...' jautājuma piemērs ir : Iegādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā? 
 
- Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : ādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā? 
+ Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Iegādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā? 
 
- Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : ādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā? 
-
- Tēmas un tēmas apraksta 'Ko nozīmē šī...' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
-
- Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
-
- Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
+ Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Iegādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā? 
 
  Tēmas un tēmas apraksta 'Ko nozīmē šī...' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
 
@@ -564,9 +558,15 @@
 
  Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
 
- Tēmas un tēmas apraksta 'Ko apzīmē H ...' jautājuma piemērs ir : !--[if !supportLists]-->  Ko apzīmē H riska frāze?   
+ Tēmas un tēmas apraksta 'Ko nozīmē šī...' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
 
- Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : !--[if !supportLists]-->  Ko apzīmē H riska frāze?   
+ Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
+
+ Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Ko nozīmē šī piktogramma? 
+
+ Tēmas un tēmas apraksta 'Ko apzīmē H ...' jautājuma piemērs ir :   Ko apzīmē H riska frāze?   
+
+ Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir :   Ko apzīmē H riska frāze?   
 
  Tēmas un tēmas apraksta '9. tēma' jautājuma piemērs ir : Ko apzīmē H riska frāze?
 
@@ -628,21 +628,21 @@
 
  Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Operatīva koncepcija par civiliedzīvotāju aizsardzību Apvienoto Nāciju Organizācijas miera uzturēšanā operācijās piedāvā trīs līmeņu pieeju:
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : ES civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : ES civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : ES civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : ES civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” ( European Emergency Response Capacity (EERC)) uzdevumi ir: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” (  European Emergency Response Capacity  (EERC)) uzdevumi ir: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : ES civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” (  European Emergency Response Capacity  (EERC)) uzdevumi ir: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : opas Savienības Civilās aizsardzības mehānisms sevī ietver: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Eiropas Savienības Civilās aizsardzības mehānisms sevī ietver: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : opas Savienības Civilās aizsardzības mehānisms sevī ietver:
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Eiropas Savienības Civilās aizsardzības mehānisms sevī ietver:
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : opas Savienības Civilās aizsardzības mehānisms sevī ietver:
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Eiropas Savienības Civilās aizsardzības mehānisms sevī ietver:
 
  Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Kāds ir NATO vai ārkārtīgas ieinteresētības efektīvā civilā aizsardzībā dalībvalsts vadošais iemesls? 
 
@@ -666,11 +666,11 @@
 
  Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Kurš no uzskaitītajiem kritērijiem NATO tiek izmantots civilās gatavības pakāpes novērtēšanai?
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : vijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : vijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: 
 
- Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : vijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: 
+ Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: 
 
  Tēmas un tēmas apraksta '5. tēma' jautājuma piemērs ir : Kura no minētajām valsts institūcijām ir humānās palīdzības pieprasīšanas iniciators? 
 
@@ -690,13 +690,13 @@
 
  Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Kurš drīkst sniegt cietušajam pirmo palīdzību katastrofas vai negadījuma vietā?
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : kamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Neatliekamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : kamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Neatliekamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : kamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Neatliekamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : kamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Neatliekamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: 
 
  Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Juridiskai atbildībai par savu darbību vai bezdarbību un šādas darbības vai bezdarbības sekām, sniedzot palīdzību cietušajam, pakļauti: 
 
@@ -706,11 +706,11 @@
 
  Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Juridiskai atbildībai par savu darbību vai bezdarbību un šādas darbības vai bezdarbības sekām, sniedzot palīdzību cietušajam, pakļauti:
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : ods par cietušā atstāšanu bez palīdzības tiek paredzēts: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Sods par cietušā atstāšanu bez palīdzības tiek paredzēts: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : ods par cietušā atstāšanu bez palīdzības tiek paredzēts:
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Sods par cietušā atstāšanu bez palīdzības tiek paredzēts:
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : ods par cietušā atstāšanu bez palīdzības tiek paredzēts:
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Sods par cietušā atstāšanu bez palīdzības tiek paredzēts:
 
  Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Cik tālu sniedzas pirmās palīdzības sniegšana negadījuma vietā? 
 
@@ -724,23 +724,23 @@
 
  Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Cik tālu sniedzas pirmās palīdzības sniegšana negadījuma vietā?
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : zdzīvošanas ķēde uz ielas ietver sevī: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Izdzīvošanas ķēde uz ielas ietver sevī: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : zdzīvošanas ķēde uz ielas ietver sevī: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Izdzīvošanas ķēde uz ielas ietver sevī: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : zdzīvošanas ķēde uz ielas ietver sevī: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Izdzīvošanas ķēde uz ielas ietver sevī: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : īno atdzīvināšanas pasākumu galvenais mērķis ir: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Agrīno atdzīvināšanas pasākumu galvenais mērķis ir: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : īno atdzīvināšanas pasākumu galvenais mērķis ir:
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Agrīno atdzīvināšanas pasākumu galvenais mērķis ir:
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : īno atdzīvināšanas pasākumu galvenais mērķis ir:
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Agrīno atdzīvināšanas pasākumu galvenais mērķis ir:
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : kaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Saskaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : kaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Saskaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 
 
- Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : kaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 
+ Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Saskaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 
 
  Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Katastrofu medicīna ir disciplīna, kas izriet no: 
 
@@ -754,49 +754,49 @@
 
  Tēmas un tēmas apraksta '6. tēma' jautājuma piemērs ir : Katastrofu pārvaldīšanas cikls secīgi sastāv no: 
 
- Tēmas un tēmas apraksta '11. tēma 11. tēma' jautājuma piemērs ir : vienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: 
+ Tēmas un tēmas apraksta '11. tēma 11. tēma' jautājuma piemērs ir : Apvienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : vienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Apvienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : vienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: 
-
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kas ir Miera korpuss (  Peace Corps  )? 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Apvienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: 
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kas ir Miera korpuss (  Peace Corps  )? 
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kas ir Miera korpuss (  Peace Corps  )? 
 
-  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : !--[if !supportAnnotations]-->    bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kas ir Miera korpuss (  Peace Corps  )? 
 
- styleSheets.dynCom.addRule(".msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.
+  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir :      bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.styleSheets.dynCom.addRule(".
 
- styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos?                     [DB1]   Undiņa, domāju, ka šim un nākamajam jautājumam jāliek Multiple choice un pareizā atbilde jāsadala atsevišķi - katra pareizā operācija kā atsevišķa atbilde, lai jautājums daudzskaitlī nesaka priekšā, kura ir pareizā atbilde.
+ msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".
 
-  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : !--[if !supportAnnotations]-->    bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.
+ msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos?                     [DB1]   Undiņa, domāju, ka šim un nākamajam jautājumam jāliek Multiple choice un pareizā atbilde jāsadala atsevišķi - katra pareizā operācija kā atsevišķa atbilde, lai jautājums daudzskaitlī nesaka priekšā, kura ir pareizā atbilde.
 
- styleSheets.dynCom.addRule(".msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.
+  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir :      bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.styleSheets.dynCom.addRule(".
 
- styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos?
+ msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".
 
-  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : !--[if !supportAnnotations]-->    bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.
+ msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos?
 
- styleSheets.dynCom.addRule(".msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.
+  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir :      bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.styleSheets.dynCom.addRule(".
 
- styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos?
+ msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos? 
-
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos? 
+ msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos?
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos? 
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos? 
 
-  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : !--[if !supportAnnotations]-->    bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos? 
 
- styleSheets.dynCom.addRule(".msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos? 
 
- styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītajam personālam ir tiesības piedalīties karadarbībā?
+  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir :      bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.styleSheets.dynCom.addRule(".
+
+ msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".
+
+ msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // -->    Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītajam personālam ir tiesības piedalīties karadarbībā?
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītajam personālam ir tiesības piedalīties karadarbībā?
 
@@ -804,25 +804,25 @@
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītajam personālam ir tiesības piedalīties karadarbībā?
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251707">Kura no nosauktajām ir starptautiskā glābšanas operācija, kuru mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana?   
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā glābšanas operācija, kuru mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251707">Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana?   
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251707">Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251707">Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251707">Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251707">Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana? 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251842">Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ? 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ? 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251842">Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ?
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ?
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251842">Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ?
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ?
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : me="_Hlk126251842">Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ?
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā ?
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Ko NATO nodrošināja ANO humānas palīdzības misijā pēc 2005. gada zemestrīces Kašmirā? 
 
@@ -838,19 +838,19 @@
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuri faktori noteica Ebolas epidēmijas sākumu Rietumāfrikā, 2014. gada februārī?
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:   
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Lai apturētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:   
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Lai apturētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Lai apturētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Lai apturētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : VO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi: 
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : PVO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi: 
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : VO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : PVO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi:
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : VO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : PVO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi:
 
 Tēmas nosaukums ir: "Pirmās palīdzības sniegšana" Tēmas nosaukums ir: "Pirmās palīdzības sniegšana" Virsraksts ir: "Asiņošana": Saturs ir: " Asiņošana ir asins zudums no asinsrites sistēmas, ko izraisa bojāti asinsvadi. Cilvēka ķermeņa asinsrites sistēma nodrošina orgānu šūnām skābekli un uzturvielas. Pieaugušam cilvēkam ir 4-6 litri asiņu. Parasti veselam cilvēkam bez nopietnām medicīniskām grūtībām ir iespējams izturēt 10-15% zudumu no kopējā asins tilpuma. Asiņu zaudējums lielākos apjomos var izraisīt nopietnus orgānu bojājumus, it īpaši galvas smadzeņu bojājumus, kas var novest pie bezsamaņas un nāves. Jebkurā stipras asiņošanas gadījumā jārīkojas kā dzīvībai bīstamā asiņošanas gadījumā! Dzīvībai bīstamas asiņošanas pazīmes:redzams daudz asiņu; ir asiņainas drēbes; asinis tek ar straumi. Attēls: bīstamas stipras asiņošanas apturēšana apakšdelmā.
 
