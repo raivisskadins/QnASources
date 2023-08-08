@@ -1,22 +1,38 @@
-   Saturs ir: "Kursa mērķis ir sniegt zināšanas studentiem par civilās aizsardzības (CA) jautājumiem Latvijā. Kursā tiek apskatīta Latvijas CA sistēmas loma (arī ES un NATO ietvaros), organizācija, vadība un struktūra, kā arī CA sistēmas subjektu galvenie uzdevumi. Tiek apskatīti katastrofu pārvaldīšanas principi un to plānošana, analizētas valsts un pašvaldību iestāžu sadarbības iespējas katastrofu situācijās, resursu iesaistīšana." Saturs ir: "Kursā ir apskatītas ikdienā iespējamās bīstamās situācijas, drošas uzvedības principi, izvērtēta rīcība dažādos apdraudējumos un katastrofu situācijās, kā arī iedzīvotāju brīdināšanas un apziņošanas sistēmas loma. " Saturs ir: "Kursā ir apskatīta plašsaziņu (sociālo tīklu) loma un ietekme informācijas izplatīšanā ārkārtas situācijās un katastrofās.
+  Kursa mērķis ir sniegt zināšanas studentiem par civilās aizsardzības (CA) jautājumiem Latvijā. Kursā tiek apskatīta Latvijas CA sistēmas loma (arī ES un NATO ietvaros), organizācija, vadība un struktūra, kā arī CA sistēmas subjektu galvenie uzdevumi. Tiek apskatīti katastrofu pārvaldīšanas principi un to plānošana, analizētas valsts un pašvaldību iestāžu sadarbības iespējas katastrofu situācijās, resursu iesaistīšana.
 
- Nodrošinātas vispārējas zināšanas par katastrofu medicīnas sistēmas lomu un pirmās palīdzības sniegšanu. " Saturs ir: "Kursa uzdevumi ir veidot studentu prasmju un attieksmju kopumu par civilās aizsardzības sistēmas darbību un pirmās palīdzības sniegšanu. Kurss izstrādāts, ņemot vērā Ministru kabineta 2017. gada 5. decembra noteikumus Nr. 716 “Minimālās prasības obligātā civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam” prasības. Kurss palīdz apgūt un pilnveidot DigComp ietvarstruktūrā definēto kompetences jomu "Drošība" 5. apguves līmenī." Saturs ir: "Kursa apguvei nepieciešamās priekšzināšanas atbilst studiju programmas uzņemšanas nosacījumiem un vispārējām zināšanām, prasmēm un kompetencēm, kas apgūtas iepriekšējā izglītības līmenī.
+ Kursā ir apskatītas ikdienā iespējamās bīstamās situācijas, drošas uzvedības principi, izvērtēta rīcība dažādos apdraudējumos un katastrofu situācijās, kā arī iedzīvotāju brīdināšanas un apziņošanas sistēmas loma. 
 
- " Saturs ir: "Studentu studiju kursā sasniegto rezultātu kopvērtējumu veido: Starppārbaudījumi: 1. Semināru tests par civilās aizsardzības (CA) sistēmas organizāciju (10%) 2. Semināru tests par katastrofu pārvaldīšanu (10%) 3. Semināru tests par bīstamajām ķīmiskajām vielām (10%) Noslēguma ieskaite: 1. daļa. Pirmā palīdzība (35%) 2. daļa. Civilās aizsardzības (CA) sistēma, uzdevumi un rīcība (35%) " Saturs ir: "1.
+ Kursā ir apskatīta plašsaziņu (sociālo tīklu) loma un ietekme informācijas izplatīšanā ārkārtas situācijās un katastrofās. Nodrošinātas vispārējas zināšanas par katastrofu medicīnas sistēmas lomu un pirmās palīdzības sniegšanu. 
 
- Tēma: CIVILĀS AIZSARDZĪBAS SISTĒMA VALSTĪ saturs: Valsts civilās aizsardzības sistēmas loma nacionālās drošības sistēmā; • Tiesiskais regulējums civilās aizsardzības sistēmas darbības nodrošināšanai; • Civilās aizsardzības pasākumi • Civilās aizsardzības sistēmas organizācija, struktūra, galvenie uzdevumi un vadība; • Pašvaldību uzdevumi un tiesības • Valsts ugunsdzēsības un glābšanas dienesta uzdevumi un tiesības • Iedzīvotāju tiesības un pienākumi civilajā aizsardzībā; • Valsts institūciju, pašvaldību un komersantu uzdevumi un tiesības civilajā aizsardzībā; • Prakses piemēri " Saturs ir: "2.
+ Kursa uzdevumi ir veidot studentu prasmju un attieksmju kopumu par civilās aizsardzības sistēmas darbību un pirmās palīdzības sniegšanu. Kurss izstrādāts, ņemot vērā Ministru kabineta 2017. gada 5. decembra noteikumus Nr. 716 “Minimālās prasības obligātā civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam” prasības. Kurss palīdz apgūt un pilnveidot DigComp ietvarstruktūrā definēto kompetences jomu "Drošība" 5. apguves līmenī.
 
- Tēma: KATASTROFU PĀRVALDĪŠANA, PLĀNOŠANA UN PASĀKUMU ĪSTENOŠANA saturs: Katastrofu pārvaldīšanas pasākumu plānošana – preventīvie, gatavības, reaģēšanas un seku likvidēšanas neatliekamie pasākumi; • Riska novērtēšana • Civilās aizsardzības plānu nepieciešamība • Paaugstinātas bīstamības objekti • Risku novērtēšanas paņēmieni • Agrīnā brīdināšana Glābšanas darbi • Atjaunošanas pasākumi • Valsts materiālās rezerves " Saturs ir: "3. Tēma: IESPĒJAMĀS KATASTROFAS UN TO SEKAS saturs: Katastrofas jēdziens • Katastrofu veidi un mērogi • Katastrofu piemēri, rīcība un preventīvie pasākumi " Saturs ir: "4.
+ Kursa apguvei nepieciešamās priekšzināšanas atbilst studiju programmas uzņemšanas nosacījumiem un vispārējām zināšanām, prasmēm un kompetencēm, kas apgūtas iepriekšējā izglītības līmenī.
 
- Tēma: CIVILĀS TRAUKSMES UN APZIŅOŠANAS SISTĒMA VALSTĪ, PLAŠSAZIŅU LĪDZEKĻU LOMA ĀRKĀRTAS SITUĀCIJĀS UN KATASTROFĀS saturs: Civilās trauksmes un apziņošanas sistēma • Alternatīvas apziņošanas iespējas – šūnu apraide (Cell broadcast) • Informācijas līdzekļu (elektronisko plašsaziņu un sociālo tīklu) loma un ietekme uz informācijas pieejamību krīžu situācijās katastrofās " Saturs ir: "5. Tēma: CIVILĀ AIZSARDZĪBA EIROPAS SAVIENĪBAS UN NATO KONTEKSTĀ, HUMĀNĀS PALĪDZĪBAS SNIEGŠANA UN SAŅEMŠANA saturs: Civilās aizsardzības sadarbība divpusējo līgumu ietvaros, sadarbība Baltijas jūras reģionā • Eiropas Savienības civilās aizsardzības mehānisms Civilās aizsardzības loma ANO, ES un NATO kontekstā • Humānās palīdzības pieprasīšana un sniegšana" Saturs ir: "6. Tēma: PIRMĀ PALĪDZĪBA UN NEATLIEKAMĀ MEDICĪNISKĀ PALĪDZĪBA.
+ Studentu studiju kursā sasniegto rezultātu kopvērtējumu veido: Starppārbaudījumi: 1. Semināru tests par civilās aizsardzības (CA) sistēmas organizāciju (10%) 2. Semināru tests par katastrofu pārvaldīšanu (10%) 3. Semināru tests par bīstamajām ķīmiskajām vielām (10%) Noslēguma ieskaite: 1. daļa. Pirmā palīdzība (35%) 2. daļa. Civilās aizsardzības (CA) sistēma, uzdevumi un rīcība (35%) 
 
- KATASTROFU MEDICĪNAS SISTĒMAS ORGANIZĒŠANA VALSTĪ saturs: Pirmā palīdzība un neatliekamā medicīniskā palīdzība • Juridiskā atbildība tās sniedzējiem • Katastrofu medicīnas izveidošanas iemesli un tapšanas grūtības • Pieaugošā aktualitāte • Katastrofu medicīnas kā vienas no ārstu medicīnas specializācijas jomām • Attīstība Eiropā un pasaulē " Saturs ir: "7. Tēma: DZĪVĪBAS GLĀBŠANAS ABC ALGORITMS, ĀRĒJĀS SIRDS MASĀŽAS UN MĀKSLĪGĀS PLAUŠU VENTILĀCIJAS PAŅĒMIENU PRAKTISKĀ ĪSTENOŠANA saturs: Dzīvības glābšanas ABC algoritma sastāvdaļas • Tā nozīme un vieta dzīvības glābšanas ķēdē • ABC shēma • Rīcība negadījuma vietā • ABC praktiskais demonstrējums" Saturs ir: "8.
+ 1. Tēma. Nosaukums: CIVILĀS AIZSARDZĪBAS SISTĒMA VALSTĪ. saturs: Valsts civilās aizsardzības sistēmas loma nacionālās drošības sistēmā; • Tiesiskais regulējums civilās aizsardzības sistēmas darbības nodrošināšanai; • Civilās aizsardzības pasākumi • Civilās aizsardzības sistēmas organizācija, struktūra, galvenie uzdevumi un vadība; • Pašvaldību uzdevumi un tiesības • Valsts ugunsdzēsības un glābšanas dienesta uzdevumi un tiesības • Iedzīvotāju tiesības un pienākumi civilajā aizsardzībā; • Valsts institūciju, pašvaldību un komersantu uzdevumi un tiesības civilajā aizsardzībā; • Prakses piemēri 
 
- Tēma: PIRMĀS PALĪDZĪBAS SNIEGŠANA saturs: Juridiskais pamatojums pirmās palīdzības sniegšanai • Pirmās palīdzības pamatprincipi • Pirmās palīdzības aptieciņa • Rīcības secība negadījuma vietā • Asiņošana • Šoks • Termiskie bojājumi • Ķīmisko vielu izraisītie nelaimes gadījumi • Elektrotrauma • Slīkšana • Traumas • Dzīvnieku izraisītie nelaimes gadījumi • Svešķermeņi • Daudz cietušo vienlaicīgi • Slimības" Saturs ir: "9. Tēma: RADIĀCIJAS, BĪSTAMO ĶĪMISKO VIELU UN BIOLOĢISKO AĢENTU IETEKME UZ CILVĒKA ORGANISMU, BĪSTAMO ĶĪMISKO VIELU KLASIFIKĀCIJA, UZGLABĀŠANA UN PĀRVADĀŠANA saturs: REACH regula • Drošības datu lapas • Rīcība ķīmiskās vielas noplūdes gadījumā • Rīcība radiācijas gadījumā " Saturs ir: "10.
+ 2. Tēma. Nosaukums: KATASTROFU PĀRVALDĪŠANA, PLĀNOŠANA UN PASĀKUMU ĪSTENOŠANA. saturs: Katastrofu pārvaldīšanas pasākumu plānošana – preventīvie, gatavības, reaģēšanas un seku likvidēšanas neatliekamie pasākumi; • Riska novērtēšana • Civilās aizsardzības plānu nepieciešamība • Paaugstinātas bīstamības objekti • Risku novērtēšanas paņēmieni • Agrīnā brīdināšana Glābšanas darbi • Atjaunošanas pasākumi • Valsts materiālās rezerves 
 
- Tēma: RĪCĪBA UGUNSGRĒKA GADĪJUMĀ UN EVAKUĀCIJA saturs: Ugunsdrošība • Rīcība ugunsgrēka gadījumā; • Dūmu detektori; • Ugunsdzēšamie aprāti; • Evakuācijas pasākumi (mājās, sabiedriskā vai publiskā ēkā, katastrofu gadījumā)" Saturs ir: "11. Tēma: LABĀS PRAKSES PIEMĒRI UN PIEREDZE NO STARPTAUTISKAJĀM MISIJĀM saturs: Praktiskās pieredzes atziņas no starptautiskām misijām, misiju iespējām, kompetences prasībām, mandātu problēmām un izaicinājumiem • Dalība kādā no starptautiskajām misijām – katastrofu palīdzības sniegšanas misija, misija karadarbības zonā, miera uzturēšanas misija, humānās palīdzības misija, brīvprātīgais darbs ANO sistēmā vai citā organizācijā " Saturs ir: " Obligāti izmantojamie informācijas avoti : 1. Pirmās palīdzības sniegšanas pamatzināšanu apmācības programmas vadlīnijas. Tiešsaite: http://www.nmpd.gov.
+ 3. Tēma. Nosaukums: IESPĒJAMĀS KATASTROFAS UN TO SEKAS. saturs: Katastrofas jēdziens • Katastrofu veidi un mērogi • Katastrofu piemēri, rīcība un preventīvie pasākumi 
 
- lv 2. Drošības padomi. Tiešsaite: http://vugd.gov.lv 3. Komisijas dienestu 2010.gada 12.decembra darba dokuments SEC(2010) 1626 galīgā redakcija “Riska novērtēšanas un kartēšanas vadlīnijas katastrofu pārvaldībai”, Brisele, 2010., 43.lpp. Tiešsaite: http://ec.europa.
+ 4. Tēma. Nosaukums: CIVILĀS TRAUKSMES UN APZIŅOŠANAS SISTĒMA VALSTĪ, PLAŠSAZIŅU LĪDZEKĻU LOMA ĀRKĀRTAS SITUĀCIJĀS UN KATASTROFĀS. saturs: Civilās trauksmes un apziņošanas sistēma • Alternatīvas apziņošanas iespējas – šūnu apraide (Cell broadcast) • Informācijas līdzekļu (elektronisko plašsaziņu un sociālo tīklu) loma un ietekme uz informācijas pieejamību krīžu situācijās katastrofās 
+
+ 5. Tēma. Nosaukums: CIVILĀ AIZSARDZĪBA EIROPAS SAVIENĪBAS UN NATO KONTEKSTĀ, HUMĀNĀS PALĪDZĪBAS SNIEGŠANA UN SAŅEMŠANA. saturs: Civilās aizsardzības sadarbība divpusējo līgumu ietvaros, sadarbība Baltijas jūras reģionā • Eiropas Savienības civilās aizsardzības mehānisms Civilās aizsardzības loma ANO, ES un NATO kontekstā • Humānās palīdzības pieprasīšana un sniegšana
+
+ 6. Tēma. Nosaukums: PIRMĀ PALĪDZĪBA UN NEATLIEKAMĀ MEDICĪNISKĀ PALĪDZĪBA. KATASTROFU MEDICĪNAS SISTĒMAS ORGANIZĒŠANA VALSTĪ. saturs: Pirmā palīdzība un neatliekamā medicīniskā palīdzība • Juridiskā atbildība tās sniedzējiem • Katastrofu medicīnas izveidošanas iemesli un tapšanas grūtības • Pieaugošā aktualitāte • Katastrofu medicīnas kā vienas no ārstu medicīnas specializācijas jomām • Attīstība Eiropā un pasaulē 
+
+ 7. Tēma. Nosaukums: DZĪVĪBAS GLĀBŠANAS ABC ALGORITMS, ĀRĒJĀS SIRDS MASĀŽAS UN MĀKSLĪGĀS PLAUŠU VENTILĀCIJAS PAŅĒMIENU PRAKTISKĀ ĪSTENOŠANA. saturs: Dzīvības glābšanas ABC algoritma sastāvdaļas • Tā nozīme un vieta dzīvības glābšanas ķēdē • ABC shēma • Rīcība negadījuma vietā • ABC praktiskais demonstrējums
+
+ 8. Tēma. Nosaukums: PIRMĀS PALĪDZĪBAS SNIEGŠANA. saturs: Juridiskais pamatojums pirmās palīdzības sniegšanai • Pirmās palīdzības pamatprincipi • Pirmās palīdzības aptieciņa • Rīcības secība negadījuma vietā • Asiņošana • Šoks • Termiskie bojājumi • Ķīmisko vielu izraisītie nelaimes gadījumi • Elektrotrauma • Slīkšana • Traumas • Dzīvnieku izraisītie nelaimes gadījumi • Svešķermeņi • Daudz cietušo vienlaicīgi • Slimības
+
+ 9. Tēma. Nosaukums: RADIĀCIJAS, BĪSTAMO ĶĪMISKO VIELU UN BIOLOĢISKO AĢENTU IETEKME UZ CILVĒKA ORGANISMU, BĪSTAMO ĶĪMISKO VIELU KLASIFIKĀCIJA, UZGLABĀŠANA UN PĀRVADĀŠANA. saturs: REACH regula • Drošības datu lapas • Rīcība ķīmiskās vielas noplūdes gadījumā • Rīcība radiācijas gadījumā 
+
+ 10. Tēma. Nosaukums: RĪCĪBA UGUNSGRĒKA GADĪJUMĀ UN EVAKUĀCIJA. saturs: Ugunsdrošība • Rīcība ugunsgrēka gadījumā; • Dūmu detektori; • Ugunsdzēšamie aprāti; • Evakuācijas pasākumi (mājās, sabiedriskā vai publiskā ēkā, katastrofu gadījumā)
+
+ 11. Tēma. Nosaukums: LABĀS PRAKSES PIEMĒRI UN PIEREDZE NO STARPTAUTISKAJĀM MISIJĀM. saturs: Praktiskās pieredzes atziņas no starptautiskām misijām, misiju iespējām, kompetences prasībām, mandātu problēmām un izaicinājumiem • Dalība kādā no starptautiskajām misijām – katastrofu palīdzības sniegšanas misija, misija karadarbības zonā, miera uzturēšanas misija, humānās palīdzības misija, brīvprātīgais darbs ANO sistēmā vai citā organizācijā 
+
+ Obligāti izmantojamie informācijas avoti : 1. Pirmās palīdzības sniegšanas pamatzināšanu apmācības programmas vadlīnijas. Tiešsaite: http://www.nmpd.gov.lv 2. Drošības padomi. Tiešsaite: http://vugd.gov.lv 3. Komisijas dienestu 2010.gada 12.decembra darba dokuments SEC(2010) 1626 galīgā redakcija “Riska novērtēšanas un kartēšanas vadlīnijas katastrofu pārvaldībai”, Brisele, 2010., 43.lpp. Tiešsaite: http://ec.europa.eu/echo/index_en 
 
   Tēmas un tēmas apraksta 'top SD_CA noklusējuma kategorija "SD_CA" kontekstā koplietoto jautājumu noklusējuma kategorija. Kas raksturo valsts gatavību ārkārtas situācijām?' jautājuma piemērs ir : Kas raksturo valsts gatavību ārkārtas situācijām?
 
@@ -294,27 +310,27 @@
 
  Tēmas un tēmas apraksta '4. tests' jautājuma piemērs ir : Vai pastāv iespēja informēt par apdraudējumu lokāli, izmantojot sms risinājumu? 
 
- Tēmas un tēmas apraksta '7. tests 1.' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '7. tests 1.' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : US">1. Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1.' jautājuma piemērs ir : 1. Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '1. jautājums' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta 'Kura no ...' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta 'Kura no ...' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā? 
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
 
- Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : US">Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
+ Tēmas un tēmas apraksta '7. tēma' jautājuma piemērs ir : Kura  no nosauktajām darbībām jāveic vispirms, nonākot negadījuma vietā?
 
  Tēmas un tēmas apraksta '2. jautājums' jautājuma piemērs ir : Ja cietušais nereaģē/neatbild, uzskatot, ka viņš ir zaudējis samaņu, pirmām kārtām nepieciešams: 
 
@@ -822,13 +838,13 @@
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : Kuri faktori noteica Ebolas epidēmijas sākumu Rietumāfrikā, 2014. gada februārī?
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : urētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:   
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:   
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : urētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : urētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
 
- Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : urētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
+ Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : ētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:
 
  Tēmas un tēmas apraksta '11. tēma' jautājuma piemērs ir : VO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi: 
 
