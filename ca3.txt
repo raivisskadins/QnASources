@@ -36,111 +36,111 @@
 
   Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 1. jautājums ir: "Kura ir atbildīgā ministrija militāra iebrukuma vai kara gadījumā valstī?" 1.testa 1. jautājuma Pareizā atbilde ir: "Aizsardzības ministrija ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Aizsardzības ministrija ir atbildīgā ministrija militāra iebrukuma vai kara gadījumā valstī."
+ Saturs ir: "Aizsardzības ministrija ir atbildīgā ministrija militāra iebrukuma vai kara gadījumā valstī."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 2. jautājums ir: "Kura ir atbildīgā valsts institūcija dabas rezervāta ugunsgrēka likvidēšanā? " 1.testa 2. jautājuma Pareizā atbilde ir: "Valsts meža dienests ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Valsts meža dienests ir atbildīgā valsts institūcija dabas rezervāta ugunsgrēka likvidēšanā."
+ Saturs ir: " Valsts meža dienests ir atbildīgā valsts institūcija dabas rezervāta ugunsgrēka likvidēšanā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 3. jautājums ir: "Kura ir atbildīgā valsts institūcija augu masveida saslimšanas gadījumā? " 1.testa 3. jautājuma Pareizā atbilde ir: "Valsts augu aizsardzības dienests ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Valsts augu aizsardzības dienests ir atbildīgā valsts institūcija augu masveida saslimšanas gadījumā."
+ Saturs ir: "Valsts augu aizsardzības dienests ir atbildīgā valsts institūcija augu masveida saslimšanas gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 4. jautājums ir: "Kura ir atbildīgā ministrija par vēstniecību infrastruktūru valstī un ārvalstīs? " 1.testa 4. jautājuma Pareizā atbilde ir: "Ārlietu ministrija ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Ārlietu ministrija ir atbildīgā ministrija par vēstniecību infrastruktūru valstī un ārvalstīs."
+ Saturs ir: "Ārlietu ministrija ir atbildīgā ministrija par vēstniecību infrastruktūru valstī un ārvalstīs."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 5. jautājums ir: "Kura ir atbildīgā valsts institūcija, veicot glābšanas darbus iekšējos ūdeņos no bāzes līnijas līdz jūras krasta līnijai?" 1.testa 5. jautājuma Pareizā atbilde ir: "VUGD ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: VUGD ir atbildīgā valsts institūcija, veicot glābšanas darbus iekšējos ūdeņos no bāzes līnijas līdz jūras krasta līnijai."
+ Saturs ir: "VUGD ir atbildīgā valsts institūcija, veicot glābšanas darbus iekšējos ūdeņos no bāzes līnijas līdz jūras krasta līnijai."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 6. jautājums ir: "Kura ir atbildīgā valsts institūcija sabiedrisko nekārtību gadījumā? " 1.testa 6. jautājuma Pareizā atbilde ir: "Valsts policija ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Valsts policija ir atbildīgā valsts institūcija sabiedrisko nekārtību gadījumā."
+ Saturs ir: "Valsts policija ir atbildīgā valsts institūcija sabiedrisko nekārtību gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 7. jautājums ir: "Kura ir atbildīgā ministrija katastrofu gadījumā, kuras saistītas ar enerģijas ražošanas vai distribūcijas infrastruktūru? " 1.testa 7. jautājuma Pareizā atbilde ir: "Ekonomikas ministrija ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Ekonomikas ministrija ir atbildīgā ministrija katastrofu gadījumā, kuras saistītas ar enerģijas ražošanas vai distribūcijas infrastruktūru."
+ Saturs ir: "Ekonomikas ministrija ir atbildīgā ministrija katastrofu gadījumā, kuras saistītas ar enerģijas ražošanas vai distribūcijas infrastruktūru."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 8. jautājums ir: "Kura ir atbildīgā valsts institūcija cilvēku masveida saslimšanas gadījumā? " 1.testa 8. jautājuma Pareizā atbilde ir: "NMPD vai SPKC ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: NMPD vai SPKC ir atbildīgā valsts institūcija cilvēku masveida saslimšanas gadījumā."
+ Saturs ir: "NMPD vai SPKC ir atbildīgā valsts institūcija cilvēku masveida saslimšanas gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 1. testa atbildes: 9. jautājums ir: "Kura ir atbildīgā valsts institūcija terora akta gadījumā? " 1.testa 9. jautājuma Pareizā atbilde ir: "Valsts drošības dienests ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Valsts drošības dienests ir atbildīgā valsts institūcija terora akta gadījumā."
+ Saturs ir: "Valsts drošības dienests ir atbildīgā valsts institūcija terora akta gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 1. jautājums ir: "Kura ir atbildīgā ministrija valstī notiekošu katastrofu gadījumā? " 2.testa 1. jautājuma Pareizā atbilde ir: "Iekšlietu ministrija""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Iekšlietu ministrija ir atbildīgā ministrija valstī notiekošu katastrofu gadījumā"
+ Saturs ir: "Iekšlietu ministrija ir atbildīgā ministrija valstī notiekošu katastrofu gadījumā"
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 2. jautājums ir: "Kura ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu noplūdes gadījumā jūrā? " 2.testa 2. jautājuma Pareizā atbilde ir: "NBS""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: NBS ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu noplūdes gadījumā jūrā."
+ Saturs ir: "NBS ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu noplūdes gadījumā jūrā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 3. jautājums ir: "Kura ir atbildīgā valsts institūcija iekšēju nemieru gadījumā? " 2.testa 3. jautājuma Pareizā atbilde ir: "Valsts policija""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Valsts policija ir atbildīgā valsts institūcija iekšēju nemieru gadījumā."
+ Saturs ir: "Valsts policija ir atbildīgā valsts institūcija iekšēju nemieru gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 4. jautājums ir: "Kura ir atbildīgā ministrija par dažādu dabas izraisītu katastrofu seku novēršanu? " 2.testa 4. jautājuma Pareizā atbilde ir: "VARAM""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: VARAM ir atbildīgā ministrija par dažādu dabas izraisītu katastrofu seku novēršanu."
+ Saturs ir: "VARAM ir atbildīgā ministrija par dažādu dabas izraisītu katastrofu seku novēršanu."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 5. jautājums ir: "Kura ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu noplūdes gadījumā iekšējos ūdeņos? " 2.testa 5. jautājuma Pareizā atbilde ir: "VUGD""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: VUGD ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu noplūdes gadījumā iekšējos ūdeņos."
+ Saturs ir: "VUGD ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu noplūdes gadījumā iekšējos ūdeņos."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 6. jautājums ir: "Kura ir atbildīgā valsts institūcija avāriju siltumapgādes, ūdensapgādes un kanalizācijas sistēmās likvidēšanā? " 2.testa 6. jautājuma Pareizā atbilde ir: "Pašvaldība""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Pašvaldība ir atbildīgā valsts institūcija avāriju siltumapgādes, ūdensapgādes un kanalizācijas sistēmās likvidēšanā."
+ Saturs ir: "Pašvaldība ir atbildīgā valsts institūcija avāriju siltumapgādes, ūdensapgādes un kanalizācijas sistēmās likvidēšanā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 7. jautājums ir: "Kura ir atbildīgā ministrija katastrofu gadījumā, kuras saistītas ar dzelzceļa vai aviācijas transporta un to infrastruktūras avāriju seku likvidēšanu? " 2.testa 7. jautājuma Pareizā atbilde ir: "Satiksmes ministrija""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Satiksmes ministrija ir atbildīgā ministrija katastrofu gadījumā, kuras saistītas ar dzelzceļa vai aviācijas transporta un to infrastruktūras avāriju seku likvidēšanu."
+ Saturs ir: "Satiksmes ministrija ir atbildīgā ministrija katastrofu gadījumā, kuras saistītas ar dzelzceļa vai aviācijas transporta un to infrastruktūras avāriju seku likvidēšanu."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 8. jautājums ir: "Kura ir atbildīgā valsts institūcija dzīvnieku masveida saslimšanas gadījumā? " 2.testa 8. jautājuma Pareizā atbilde ir: "PVD""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: PVD ir atbildīgā valsts institūcija dzīvnieku masveida saslimšanas gadījumā."
+ Saturs ir: "PVD ir atbildīgā valsts institūcija dzīvnieku masveida saslimšanas gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 2. testa atbildes: 9. jautājums ir: "Kura ir atbildīgā valsts institūcija zemestrīces gadījumā? " 2.testa 9. jautājuma Pareizā atbilde ir: "VUGD""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: VUGD ir atbildīgā valsts institūcija zemestrīces gadījumā."
+ Saturs ir: "VUGD ir atbildīgā valsts institūcija zemestrīces gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 1. jautājums ir: "Kura ir atbildīgā ministrija valstī notiekošas epidēmijas gadījumā? " 3.testa 1. jautājuma Pareizā atbilde ir: "Veselības ministrija""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Veselības ministrija ir atbildīgā ministrija valstī notiekošas epidēmijas gadījumā."
+ Saturs ir: "Veselības ministrija ir atbildīgā ministrija valstī notiekošas epidēmijas gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 2. jautājums ir: "Kura ir atbildīgā valsts institūcija industriāla ugunsgrēka dzēšana gadījumā? " 3.testa 2. jautājuma Pareizā atbilde ir: "VUGD""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: VUGD ir atbildīgā valsts institūcija industriāla ugunsgrēka dzēšana gadījumā."
+ Saturs ir: "VUGD ir atbildīgā valsts institūcija industriāla ugunsgrēka dzēšana gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 3. jautājums ir: "Kas ir atbildīgs par civilās aizsardzības sistēmas darbību un tās uzdevumu izpildi Latvijā? " 3.testa 3. jautājuma Pareizā atbilde ir: "Ministru prezidents ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Ministru prezidents ir atbildīgs par civilās aizsardzības sistēmas darbību un tās uzdevumu izpildi Latvijā."
+ Saturs ir: "Ministru prezidents ir atbildīgs par civilās aizsardzības sistēmas darbību un tās uzdevumu izpildi Latvijā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 4. jautājums ir: "Kura ir atbildīgā ministrija par katastrofās, kas saistītas ar meža un kūdras purvu ugunsgrēkiem, darbu koordinēšanu? " 3.testa 4. jautājuma Pareizā atbilde ir: "Zemkopības ministrija ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Zemkopības ministrija ir atbildīgā ministrija par katastrofās, kas saistītas ar meža un kūdras purvu ugunsgrēkiem, darbu koordinēšanu."
+ Saturs ir: "Zemkopības ministrija ir atbildīgā ministrija par katastrofās, kas saistītas ar meža un kūdras purvu ugunsgrēkiem, darbu koordinēšanu."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 5. jautājums ir: "Kura ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu piesārņojuma gadījumā jūras krastā? " 3.testa 5. jautājuma Pareizā atbilde ir: "Valsts vides dienests ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Valsts vides dienests ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu piesārņojuma gadījumā jūras krastā."
+ Saturs ir: "Valsts vides dienests ir atbildīgā valsts institūcija bīstamo ķīmisko vielu vai maisījumu piesārņojuma gadījumā jūras krastā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 6. jautājums ir: "Kura ir atbildīgā valsts institūcija avārijas gāzes apgādes sistēmā likvidēšanā?" 3.testa 6. jautājuma Pareizā atbilde ir: "Latvijas gāze ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Latvijas gāze ir atbildīgā valsts institūcija avārijas gāzes apgādes sistēmā likvidēšanā."
+ Saturs ir: "Latvijas gāze ir atbildīgā valsts institūcija avārijas gāzes apgādes sistēmā likvidēšanā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 7. jautājums ir: "Kura ir atbildīgā valsts institūcija par plūdu seku novēršanu pašvaldības administratīvajā teritorijā?" 3.testa 7. jautājuma Pareizā atbilde ir: "Pašvaldība ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Pašvaldība ir atbildīgā valsts institūcija par plūdu seku novēršanu pašvaldības administratīvajā teritorijā."
+ Saturs ir: "Pašvaldība ir atbildīgā valsts institūcija par plūdu seku novēršanu pašvaldības administratīvajā teritorijā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 8. jautājums ir: "Kura ir atbildīgā valsts institūcija radiācijas gadījumā?" 3.testa 8. jautājuma Pareizā atbilde ir: "Valsts vides dienesta Radiācijas drošības centrs ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Valsts vides dienesta Radiācijas drošības centrs ir atbildīgā valsts institūcija radiācijas gadījumā."
+ Saturs ir: "Valsts vides dienesta Radiācijas drošības centrs ir atbildīgā valsts institūcija radiācijas gadījumā."
 
  Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: 3. testa atbildes: 9. jautājums ir: "Kura ir atbildīgā valsts institūcija elektrotīklu bojājumu gadījumā? " 3.testa 9. jautājuma Pareizā atbilde ir: "Sadales tīkls ""
 
- Saturs ir: "Minecraft spēles pašpārbaudes uzdevumu atbildes: Sadales tīkls ir atbildīgā valsts institūcija elektrotīklu bojājumu gadījumā."
+ Saturs ir: "Sadales tīkls ir atbildīgā valsts institūcija elektrotīklu bojājumu gadījumā."
 
   Saturs ir: "Minecraft Education pamatdarbību instrukcija: Pārvietošanās spēlē - W: Kustība uz priekšu, A: Pagriezties pa kreisi, S: Kustība atpakaļ, D: Pagriezties pa labi, H: Būs redzami vadības taustiņu paskaidrojumi ekrānā, SPACE: atstarpes taustiņš ļauj palekties. "
 
