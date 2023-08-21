@@ -156,6 +156,12 @@
 
  Saturs ir: "Minecraft spēles Atbalsta datnes, Video saites: "
 
+  Saturs ir: "Minecraft 2. spēle. Katastrofu pārvaldīšana, plānošana un pasākumu īstenošana: Īss apraksts par otro pasauli: Spēlē kopā ir 6 teritorijas, kuras jāiziet secīgi. Tiklīdz 1. teritorijā viss nepieciešamais paveikts, jādodas uz nākamo teritoriju. Teritorijās, kur esat bijis, vairs atgriezties nevarēsiet. Spēle virza tikai secībā uz priekšu. Paredzēts darboties tikai tajās teritorijās un ēkās, kurās ir instruktori un gidi. Kad kādā teritorijā esat veikuši, jūsuprāt, visas nepieciešamās darbības, atgriezieties sākumposmā un ar labo peles taustiņu aktivizējiet “pogu”, lai nokļūtu nākamajā teritorijā. Pēc katras aktīvās teritorijas, kur varējāt darboties, nonāksiet atbilžu teritorijā, kur pārliecināsieties, vai visu veicāt pareizi un neko neaizmirsāt izdarīt."
+
+ Saturs ir: "Minecraft 2. spēle. Spēles secība, teritorijas: 1. Preventīvie un sagatavošanās pasākumi. 2. Atbilžu teritorija – uz to dodieties tikai tad, kad šķiet, ka visu nepieciešamo esat izdarījuši. 3. Gatavības un reaģēšanas pasākumi. 4. Atbilžu teritorija. 5. Seku likvidēšanas pasākumi. 6. Spēles noslēgums. Pie visiem objektiem, ar kuriem spēlētājiem ir jādarbojas, ir pievienotas norādes. Ja norāžu nav, tad objekts ir tikai vizuāls elements."
+
+ Saturs ir: "Minecraft 2. spēle. Spēles elementi: ✓ instruktori un gidi sniedz informāciju par spēles gaitu, tos aktivizē ar peles labo taustiņu; ✓ tāfeles – uz tām var rakstīt, vispirms aktivizējot ar peles labo taustiņu; ✓ trauksmes poga un zvana veikšana 112 – aktivizē ar peles labo taustiņu; ✓ lādes atver ar labo peles taustiņu, atrastās lietas pārvieto uz leju pie sava inventāra (lai to veiktu ātrāk, izmantojiet tastatūras taustiņu SHIFT). Apakšējā joslā atrodas aktīvi nepieciešamais inventārs, ko izvēlas ar tastatūras taustiņu cipariem 1-9 un pēc tam ar labo peles klikšķi ievieto spēlē ar kursoru norādītajā vietā. Spēli iespējams saglabāt un atgriezties saglabātajā spēlētāja pozīcijā. Ja nepieciešams sākt no sākuma, tad spēles fails ir jāpievieno no jauna. Esiet vērīgi un sekojiet norādēm! "
+
   kursa saturs: 'top SD_CA noklusējuma kategorija "SD_CA" kontekstā koplietoto jautājumu noklusējuma kategorija. Kas raksturo valsts gatavību ārkārtas situācijām?' jautājuma piemērs ir : Kas raksturo valsts gatavību ārkārtas situācijām?
 
  kursa saturs: 'Kādi ir Civilās aizsardzības sistēmas uzdevumi valstī?' jautājuma piemērs ir : Kādi ir Civilās aizsardzības sistēmas uzdevumi valstī?
