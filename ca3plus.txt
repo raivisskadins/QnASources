@@ -1,0 +1,67 @@
+ID: 1
+
+URL: https://edu.lu.lv/course/view.php?id=2277#section-0
+
+TITLE: Par kursu
+
+Autori: Kristīne Parasiga-Parasiņa un Romualds Ražuks
+
+Kursa mērķis ir sniegt zināšanas studentiem par civilās aizsardzības (CA) jautājumiem Latvijā. Kursā tiek apskatīta Latvijas CA sistēmas loma (arī ES un NATO ietvaros), organizācija, vadība un struktūra, kā arī CA sistēmas subjektu galvenie uzdevumi. Tiek apskatīti katastrofu pārvaldīšanas principi un to plānošana, analizētas valsts un pašvaldību iestāžu sadarbības iespējas katastrofu situācijās, resursu iesaistīšana. Apskatītas ikdienā iespējamās bīstamās situācijas, drošas uzvedības principi, izvērtēta rīcība dažādos apdraudējumos un katastrofu situācijās, kā arī iedzīvotāju brīdināšanas un apziņošanas sistēmas loma. Apskatīta plašsaziņu (sociālo tīklu) loma un ietekme informācijas izplatīšanā ārkārtas situācijās un katastrofās. Nodrošinātas vispārējas zināšanas par katastrofu medicīnas sistēmas lomu un pirmās palīdzības sniegšanu. 
+
+Kursa uzdevumi ir veidot studentu prasmju un attieksmju kopumu par civilās aizsardzības sistēmas darbību un pirmās palīdzības sniegšanu. 
+
+Kurss izstrādāts, ņemot vērā Ministru kabineta 2017. gada 5. decembra noteikumus Nr. 716 “Minimālās prasības obligātā civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam” prasības. 
+
+Kurss palīdz apgūt un pilnveidot DigComp ietvarstruktūrā definēto kompetences jomu "Drošība" 5. apguves līmenī.
+
+ID: 2
+
+URL: https://edu.lu.lv/pluginfile.php/643957/mod_resource/content/6/1_Studiju%20kursa%20apraksts_CivilaAizsardziba_v4%20%282%29.pdf
+
+TITLE: Studiju kursa apraksts
+
+Studiju kursa nosaukums ir Civilā aizsardzība
+
+Kredītpunkti: 1 kredītpunkts (1.50 ECTS)
+
+Akadēmisko stundu skaits: 40, kas ietver lekcijas (Praktiskie darbi ir 16, Patstāvīgie darbi ir 24)
+
+Studiju kursa docēšanas valoda ir Latviešu
+
+Nepieciešamās priekšzināšanas: Kursa apguvei nepieciešamās priekšzināšanas atbilst studiju programmas uzņemšanas nosacījumiem un vispārējām zināšanām, prasmēm un kompetencēm, kas apgūtas iepriekšējā izglītības līmenī.
+
+Studiju kursa mērķis, anotācija: Kursa mērķis ir sniegt zināšanas studentiem par civilās aizsardzības (CA) jautājumiem Latvijā. Kursā tiek apskatīta Latvijas CA sistēmas loma (arī ES un NATO ietvaros), organizācija, vadība un struktūra, kā arī CA sistēmas subjektu galvenie uzdevumi. Tiek apskatīti katastrofu pārvaldīšanas principi un to plānošana, analizētas valsts un pašvaldību iestāžu sadarbības iespējas katastrofu situācijās, resursu iesaistīšana. 
+
+Apskatītas ikdienā iespējamās bīstamās situācijas, drošas uzvedības principi, izvērtēta rīcība dažādos apdraudējumos un katastrofu situācijās, kā arī iedzīvotāju brīdināšanas un apziņošanas sistēmas loma. 
+
+Apskatīta plašsaziņu (sociālo tīklu) loma un ietekme informācijas izplatīšanā ārkārtas situācijās un katastrofās. 
+
+Nodrošinātas vispārējas zināšanas par katastrofu medicīnas sistēmas lomu un pirmās palīdzības sniegšanu. Kursa uzdevumi ir veidot studentu prasmju un attieksmju kopumu par civilās aizsardzības sistēmas darbību un pirmās palīdzības sniegšanu.
+
+Kurss izstrādāts, ņemot vērā Ministru kabineta 2017. gada 5. decembra noteikumus Nr. 716 “Minimālās prasības obligātā civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam” prasības 
+
+Prasības kredītpunktu iegūšanai: Studentu studiju kursā sasniegto rezultātu kopvērtējumu veido: Pašpārbaudes tests katras tēmas beigās (20%) plus noslēguma tests (80%)
+
+ID: 3
+
+URL: https://edu.lu.lv/course/view.php?id=2277#section-1
+
+TITLE: Civilās aizsardzības sistēma valstī
+
+1. Civilā aizsardzība - iepriekš un mūsdienās
+
+Iepriekš - civiliedzīvotāju aizsardzība pret masu iznīcināšanas līdzekļiem un tautsaimniecības darbības nodrošināšana kara laikā, kā arī iedzīvotāju iesaiste avārijas seku likvidēšanā (Civildefence).
+
+Šodien - sagatavotība iespējamiem apdraudējumiem un katastrofām (dabas un cilvēka izraisītajām), preventīvo, gatavības, reaģēšanas, seku likvidēšanas un atkopšanās pasākumu plānošana, sadarbība un palīdzība šo pasākumu īstenošanā.
+
+2. Ko pēta civilā aizsardzība? Civilās aizsardzības jautājumi: Kā iespējami efektīvi pasargāt valsts iedzīvotājus no dažādu katastrofu postošajām sekām? Kā samazināt tautsaimniecībai nodarītos zaudējumus? Kā izdzīvot ekstremālās situācijās? 
+
+Ikgadējie pasaules statistikas apkopojumu dati: Katastrofu, avāriju, ugunsgrēku, sprādzienu u.c. nelaimes gadījumu rezultātā iet bojā ap 2 milj. cilvēku; Desmitiem milj. cieš no saindēšanās, gūst traumas, zaudē pajumti; Dažādu katastrofu nodarītos materiālos zaudējumus vērtē kā 4-5% no pasaules bruto kopprodukta.
+
+Civilās aizsardzības sistēmas uzdevumi: Veikt katastrofu pārvaldīšanu; Sniegt palīdzību katastrofās cietušajiem; Samazināt katastrofu radīto un iespējamo kaitējumu īpašumam un videi; Ja noticis militārs iebrukums vai sācies karš, - atbalstīt ar resursiem Nacionālos bruņotos spēkus.
+
+Valsts civilās aizsardzības struktūra: Valsts iestādes; Pašvaldības; Komersanti; Visi darbspējīgie Latvijas pilsoņi un nepilsoņi.
+
+Valsts gatavību ārkārtas situācijām raksturo: Glābšanas un speciālo dienestu tehniskais nodrošinājums un teritoriālais izvietojums; Valsts infrastruktūras elementu attīstības līmenis; Iedzīvotāju informēšanas un apmācības sistēmas efektivitāte; Valsts materiālo rezervju nodrošinājums. 
+
+Izdzīvošanas nosacījumi ekspertu skatījumā: Dzīvotgriba – cilvēka pašsaglabāšanās instinkts; Zināšanas – jo vairāk zinām, jo vieglāk dzīvot; Prasmes – jāvingrinās iegūtās zināšanas izmantot praktiski; Ekipējums – pieejamais aprīkojums cilvēka dzīvības procesu nodrošināšanai.
