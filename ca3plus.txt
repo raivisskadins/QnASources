@@ -161,3 +161,23 @@ Nodarbināto apmācību CA jautājumos organizē darba devējs – paaugstināta
 CA sistēmas gatavības pārbaudes nodrošināšanai valsts un pašvaldību institūcijas organizē CA un katastrofas pārvaldīšanas mācības. (Civilās aizsardzības un katastrofas pārvaldīšanas likums)
 
 Piemērs - CA mācības Daugavpilī
+
+ID: 4
+
+URL: https://edu.lu.lv/course/view.php?id=2277#section-2
+
+TITLE: Katastrofu pārvaldīšana, plānošana un pasākumu īstenošana
+
+1. Kas ir katastrofas pārvaldīšana?
+
+Katastrofas pārvaldīšanas koordinēšana
+
+Ministrijas un pašvaldības īsteno katastrofu pārvaldīšanas koordinēšanu attiecīgajiem apdraudējumiem, sadarbībā ar citām ministrijām, valsts un pašvaldību institūcijām:
+
+Veic risku novērtēšanu (Riska novērtēšanas metodoloģiju izstrādā VUGD);
+
+Nosaka preventīvos, gatavības, reaģēšanas un seku likvidēšanas pasākumus, izstrādā tiesību aktus, attīstības plānošanas dokumentus un citus dokumentus;
+
+Apzina un plāno resursus.
+
+Vadītu un koordinētu preventīvo, gatavības, reaģēšanas, seku likvidēšanas pasākumu, kā arī atjaunošanas pasākumu kopums, kuri tiek veikti, lai nodrošinātu civilās aizsardzības uzdevumu izpildi.
