@@ -181,3 +181,71 @@ Nosaka preventīvos, gatavības, reaģēšanas un seku likvidēšanas pasākumus
 Apzina un plāno resursus.
 
 Vadītu un koordinētu preventīvo, gatavības, reaģēšanas, seku likvidēšanas pasākumu, kā arī atjaunošanas pasākumu kopums, kuri tiek veikti, lai nodrošinātu civilās aizsardzības uzdevumu izpildi.
+
+2. Katastrofas pārvaldīšanas vadība
+
+Aizsardzības ministrija – katastrofas jūrā vai valdījumā esošā militārā infrastruktūrā; valstī militāra iebrukuma vai kara gadījumā, kā arī incidentus, kas saistīti ar informācijas tehnoloģiju drošību.
+
+Ārlietu ministrija – katastrofas LR pārstāvniecību un vēstniecību infrastruktūrā ārvalstīs un ārvalstu pārstāvniecību un vēstniecību infrastruktūrā LR.
+
+Klimata un enerģētikas ministrija – katastrofas, kuras saistītas ar enerģijas ražošanas vai distribūcijas infrastruktūru (piemēram, gāzes noplūde maģistrālajos gāzes vados, enerģijas ražošanas iekārtu, HES infrastruktūras avārija, elektrotīklu bojājumi).
+
+Iekšlietu ministrija – katastrofas, kuras saistītas ar ugunsgrēku, zemestrīci, terora aktu, sabiedriskām nekārtībām, transporta avāriju uz autoceļiem un iekšējos ūdeņos.
+
+VARAM – katastrofas, kuras saistītas ar naftas, naftas produktu un citu bīstamu ķīmisko vielu noplūdi, radiācijas avāriju, negadījumu un kodolavāriju, kā arī ar vētrām, viesuļiem, lietusgāzēm, paliem, plūdiem, krusu, stipru salu, sniega vētrām, apledojumu, sniega sanesumiem un ledus sastrēgumiem, lielu karstumu un sausumu reģionālā un valsts mērogā.
+
+Satiksmes ministrija – katastrofas, kuras saistītas ar dzelzceļa vai aviācijas transporta un to infrastruktūras avāriju, kā arī avārijām vai negadījumiem ostu un jūras hidrotehnisko būvju infrastruktūrā.
+
+Veselības ministrija – epidēmijas, kuras saistītas ar cilvēku infekcijas slimību.
+
+Zemkopības ministrija – katastrofas, kuras saistītas ar meža un kūdras purvu ugunsgrēkiem, hidrotehnisko būvju infrastruktūras, izņemot HES, ostu un jūras hidrotehnisko būvju infrastruktūras. Epizootijas un epifitotijas.
+
+Pašvaldības – katastrofas pašvaldības administratīvajā teritorijā, kuras saistītas ar vētrām, viesuļiem, lietusgāzēm, paliem, plūdiem, krusu, stipru salu, sniega vētrām, apledojumu, sniega sanesumiem un ledus sastrēgumiem, lielu karstumu, sausumu, ēku un būvju sabrukšanu un citas infrastruktūras avāriju, kā arī ar avāriju siltumapgādes, ūdensapgādes un kanalizācijas sistēmās.
+
+3. Valsts iestādes, kas veic katastrofu pārvaldīšanu
+
+Valsts ugunsdzēsības un glābšanas dienests
+	
+Valsts robežsardze
+
+Neatliekamās medicīniskās palīdzības dienests
+
+Valsts vides dienests
+
+Nacionālie bruņotie spēki
+	
+Valsts meža dienests
+
+Valsts policija
+	
+VAS “Latvijas radio un televīzijas centrs”
+
+Valsts drošības dienests
+
+VSIA “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs”
+
+Pārtikas un veterinārais dienests
+	
+VA “Latvijas Infektoloģijas centrs”
+
+VSIA “Rīgas psihiatrijas un narkoloģijas centrs”
+	
+Pašvaldības
+
+AS “Sadales tīkls”
+	
+Valsts augu aizsardzības dienests
+
+Valsts darba inspekcija
+	
+VAS “Latvijas dzelzceļš”
+
+VA “Civilās aviācijas aģentūra”
+
+AS “Pasažieru vilciens”
+
+VSIA “Latvijas televīzija”
+	
+VSIA “Latvijas radio”
+
+VSIA “Paula Stradiņa klīniskā universitātes slimnīca”
