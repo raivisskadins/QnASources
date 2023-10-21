@@ -111,3 +111,43 @@ veikt civilās aizsardzības prasību ievērošanas pārbaudes;
 plānot un organizēt sadarbības teritoriju civilās aizsardzības komisiju apmācību;
 
 norīkot VUGD amatpersonu darbam sadarbības teritorijas civilās aizsardzības komisijā.
+
+7. Iekļūšana privātīpašumā.
+
+VUGD ir tiesīgs iekļūt jebkurā teritorijā, ēkā un telpā, lai apturētu un novērstu ugunsgrēka un ar to saistīto bīstamo faktoru izplatīšanos, kas apdraud fiziskās personas, materiālās vērtības un vidi, vai likvidētu šķēršļus, kas traucē ugunsgrēka dzēšanu un glābšanas darbu veikšanu (Ugunsdrošības un ugunsdzēsības likuma 15.pants).
+
+VP stihisko nelaimju un citu ārkārtēju notikumu gadījumos, kad apdraudēta personu un sabiedrības drošība ir tiesības jebkurā diennakts laikā iekļūt nedzīvojamās zonās un zemes gabalu teritorijā (ja nepieciešams, lietojot fizisku spēku), izņemot tās nedzīvojamās telpas un zemes gabalu teritoriju, kam ir eksteritoriāls vai speciālā režīma statuss (Likums «Par Policiju» 12.panta 16.punkts).
+
+PVD ir tiesības epizootiju uzliesmojuma gadījumā noteiktajā riska zonā bez iepriekšēja brīdinājuma iekļūt privātā īpašumā epizootijas apkarošanas pasākumu īstenošanai (Veterinārmedicīnas likuma 8.panta 8.punkts).
+
+Privātīpašuma demontēšana, pārvietošana, nojaukšana vai iznīcināšana
+
+VUGD ir tiesīgs pārvietot, nojaukt vai iznīcināt ēkas, būves un to daļas, demontēt iekārtas, pārvietot transportlīdzekļus, lai apturētu un novērstu ugunsgrēka un ar to saistīto bīstamo faktoru izplatīšanos, kas apdraud fiziskās personas, materiālās vērtības un vidi, vai likvidētu šķēršļus, kas traucē ugunsgrēka dzēšanu un glābšanas darbu veikšanu (Ugunsdrošības un ugunsdzēsības likuma 15.pants).
+
+8. Iedzīvotāju tiesības un pienākumi CA
+
+Iedzīvotāju tiesības: saņemt informāciju un brīdinājumu par katastrofām valstī vai attiecīgajā administratīvajā teritorijā un ieteikumus par rīcību katastrofu gadījumos;  saņemt iespējamo palīdzību katastrofu gadījumos. 
+
+Iedzīvotāju pienākumi: nekavējoties ziņot attiecīgajām valsts iestādēm un pašvaldībai par katastrofu vai tās draudiem; katastrofas gadījumā rīkoties saskaņā ar plašsaziņas līdzekļu sniegto informāciju, kā arī operatīvo un avārijas dienestu amatpersonu norādījumiem notikuma vietā; līdz operatīvo un avārijas dienestu ierašanās brīdim iespēju robežās veikt darbības katastrofas seku mazināšanai.
+
+9. Civilās aizsardzības vadība un struktūra
+
+Ministru prezidents atbildīgs par CA sistēmas darbību un tās uzdevumu izpildi
+
+VUGD vada, koordinē un kontrolē CA sistēmas darbību.
+
+Ministrijas nodrošina civilās aizsardzības uzdevumu izpildi, nozarei nepieciešamo tiesību aktu projektu izstrādi un katastrofas pārvaldīšanas koordinēšanu valsts, reģionālā un vietējā mērogā.
+
+Reaģēšanas un seku likvidēšanas neatliekamos pasākumus notikuma vietā vada glābšanas darbu vadītājs
+
+Glābšanas darbu vadītājs var būt: VUGD amatpersona, Valsts CA plānā vai pašvaldību CA plānos norādītās valsts iestādes amatpersona
+
+*Par CA iestādēs ir atbildīgs iestādes vadītājs!
+
+10. Civilās aizsardzības plānošana
+
+Valsts CA plāns - izstrādā VUGD sadarbībā ar citām institūcijām. Sadarbības teritorijas CA plāns - pašvaldības dome apstiprina ne retāk kā 1 x 4 gados.
+
+Paaugstinātas bīstamības objekta CA plāns - objekta īpašnieks vai tiesiskais valdītājs apstiprina ne retāk kā 1 x 4 gados. Plāni ir dokumenti, kuri sagatavoti, ņemot vērā risku novērtējumu, un kuros noteikti katastrofas pārvaldīšanas pasākumi un to īstenotāji.
+
+Civilās aizsardzības sistēmas finansēšana (CA uzdevumu izpildei): Valsts iestādes – no tām iedalītajiem valsts budžeta līdzekļiem; Pašvaldības – no saviem budžetiem; Komersanti – no saviem līdzekļiem.
