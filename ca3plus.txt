@@ -65,3 +65,49 @@ Valsts civilās aizsardzības struktūra: Valsts iestādes; Pašvaldības; Komer
 Valsts gatavību ārkārtas situācijām raksturo: Glābšanas un speciālo dienestu tehniskais nodrošinājums un teritoriālais izvietojums; Valsts infrastruktūras elementu attīstības līmenis; Iedzīvotāju informēšanas un apmācības sistēmas efektivitāte; Valsts materiālo rezervju nodrošinājums. 
 
 Izdzīvošanas nosacījumi ekspertu skatījumā: Dzīvotgriba – cilvēka pašsaglabāšanās instinkts; Zināšanas – jo vairāk zinām, jo vieglāk dzīvot; Prasmes – jāvingrinās iegūtās zināšanas izmantot praktiski; Ekipējums – pieejamais aprīkojums cilvēka dzīvības procesu nodrošināšanai.
+
+3. Termini. Civilā aizsardzība (CA) - organizatorisku, inženiertehnisku, ekonomisku, finansiālu, sociālu, izglītojošu un zinātnisku pasākumu kopums, kuru īsteno, lai nodrošinātu reaģēšanu katastrofu gadījumos vai pastāvot katastrofas draudiem.
+
+Katastrofa – notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus.
+
+Katastrofas draudi – situācija, kad risku novērtējums, prognozes, informācija vai citi apstākļi pamatoti liecina par katastrofas iespējamību.
+
+4. Civilās aizsardzības pasākumi - reaģēšana. Atbalsta un vadošās institūcijas biežāk sastopamajās katastrofās Latvijā. 
+
+Atkarībā no katastrofas veida reaģēšanas un seku likvidēšanas neatliekamos pasākumus notikuma vietā vada VUGD amatpersona vai atbilstoši kompetencei — Valsts civilās aizsardzības plānā vai pašvaldību civilās aizsardzības plānos norādītās valsts iestādes amatpersona (glābšanas darbu vadītājs) (Civilās aizsardzības likuma 6.panta 4. daļa).
+
+Militāra iebrukuma vai kara gadījumā visos tabulā minētajos apdraudējumos vadošā institūcija būs Iekšlietu ministrija.
+
+Koordināciju valsts vai reģionāla mēroga katastrofās nodrošina Krīzes vadības padome, bet vietēja mēroga katastrofās attiecīgā pašvaldības civilās aizsardzības komisija (valstī izveidotas 71 šādas komisijas).
+
+5. Pašvaldību uzdevumi un tiesības. Apstiprina sadarbības teritorijas civilās aizsardzības komisijas nolikumu un sastāvu.
+
+Apstiprina sadarbības teritorijas civilās aizsardzības plānu.
+
+Nodrošina iedzīvotāju evakuāciju no katastrofas apdraudētajām vai skartajām teritorijām, kā arī šo iedzīvotāju uzskaiti, pagaidu izmitināšanu, ēdināšanu un sociālo aprūpi.
+
+Savu iespēju robežas nodrošina katastrofas pārvaldīšanā iesaistītajām valsts un pašvaldības institūciju amatpersonām, juridiskajām un fiziskajām personām piemērotus darba un sadzīves apstākļus.
+
++ Piedalās un organizē CA mācības.
+
+Izstrādā un sniedz rekomendācijas valsts un pašvaldības institūcijām, objektu un paaugstinātas bīstamības objektu īpašniekiem un tiesiskajiem valdītājiem;
+
+sniedz iedzīvotājiem ieteikumus par katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību;
+
+ir tiesības rakstveidā slēgt pakalpojumu un sadarbības līgumus vai vienošanās CA un katastrofas pārvaldīšanas jomā ar citām valsts vai pašvaldības institūcijām, juridiskajām vai fiziskajām personām.
+
+6. Valsts ugunsdzēsības un glābšanas dienesta uzdevumi un tiesības
+
+VUGD uzdevumi ir šādi:
+
+vadīt, koordinēt un kontrolēt civilās aizsardzības sistēmas darbību;
+
+izskatīt un saskaņot objektu un paaugstinātas bīstamības objektu civilās aizsardzības plānu projektus;
+
+izveidot un uzturēt savā rīcībā esošo, kā arī juridisko un fizisko personu īpašumā vai valdījumā esošo ugunsdzēsības un glābšanas darbos izmantojamo resursu sarakstu;
+
+veikt civilās aizsardzības prasību ievērošanas pārbaudes;
+
+plānot un organizēt sadarbības teritoriju civilās aizsardzības komisiju apmācību;
+
+norīkot VUGD amatpersonu darbam sadarbības teritorijas civilās aizsardzības komisijā.
