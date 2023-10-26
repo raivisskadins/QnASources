@@ -1,0 +1,251 @@
+ID: 1
+
+URL: https://edu.lu.lv/course/view.php?id=2277#section-0
+
+TITLE: Par kursu
+
+Autori: Kristīne Parasiga-Parasiņa un Romualds Ražuks
+
+Kursa mērķis ir sniegt zināšanas studentiem par civilās aizsardzības (CA) jautājumiem Latvijā. Kursā tiek apskatīta Latvijas CA sistēmas loma (arī ES un NATO ietvaros), organizācija, vadība un struktūra, kā arī CA sistēmas subjektu galvenie uzdevumi. Tiek apskatīti katastrofu pārvaldīšanas principi un to plānošana, analizētas valsts un pašvaldību iestāžu sadarbības iespējas katastrofu situācijās, resursu iesaistīšana. Apskatītas ikdienā iespējamās bīstamās situācijas, drošas uzvedības principi, izvērtēta rīcība dažādos apdraudējumos un katastrofu situācijās, kā arī iedzīvotāju brīdināšanas un apziņošanas sistēmas loma. Apskatīta plašsaziņu (sociālo tīklu) loma un ietekme informācijas izplatīšanā ārkārtas situācijās un katastrofās. Nodrošinātas vispārējas zināšanas par katastrofu medicīnas sistēmas lomu un pirmās palīdzības sniegšanu. 
+
+Kursa uzdevumi ir veidot studentu prasmju un attieksmju kopumu par civilās aizsardzības sistēmas darbību un pirmās palīdzības sniegšanu. 
+
+Kurss izstrādāts, ņemot vērā Ministru kabineta 2017. gada 5. decembra noteikumus Nr. 716 “Minimālās prasības obligātā civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam” prasības. 
+
+Kurss palīdz apgūt un pilnveidot DigComp ietvarstruktūrā definēto kompetences jomu "Drošība" 5. apguves līmenī.
+
+ID: 2
+
+URL: https://edu.lu.lv/pluginfile.php/643957/mod_resource/content/6/1_Studiju%20kursa%20apraksts_CivilaAizsardziba_v4%20%282%29.pdf
+
+TITLE: Studiju kursa apraksts
+
+Studiju kursa nosaukums ir Civilā aizsardzība
+
+Kredītpunkti: 1 kredītpunkts (1.50 ECTS)
+
+Akadēmisko stundu skaits: 40, kas ietver lekcijas (Praktiskie darbi ir 16, Patstāvīgie darbi ir 24)
+
+Studiju kursa docēšanas valoda ir Latviešu
+
+Nepieciešamās priekšzināšanas: Kursa apguvei nepieciešamās priekšzināšanas atbilst studiju programmas uzņemšanas nosacījumiem un vispārējām zināšanām, prasmēm un kompetencēm, kas apgūtas iepriekšējā izglītības līmenī.
+
+Studiju kursa mērķis, anotācija: Kursa mērķis ir sniegt zināšanas studentiem par civilās aizsardzības (CA) jautājumiem Latvijā. Kursā tiek apskatīta Latvijas CA sistēmas loma (arī ES un NATO ietvaros), organizācija, vadība un struktūra, kā arī CA sistēmas subjektu galvenie uzdevumi. Tiek apskatīti katastrofu pārvaldīšanas principi un to plānošana, analizētas valsts un pašvaldību iestāžu sadarbības iespējas katastrofu situācijās, resursu iesaistīšana. 
+
+Apskatītas ikdienā iespējamās bīstamās situācijas, drošas uzvedības principi, izvērtēta rīcība dažādos apdraudējumos un katastrofu situācijās, kā arī iedzīvotāju brīdināšanas un apziņošanas sistēmas loma. 
+
+Apskatīta plašsaziņu (sociālo tīklu) loma un ietekme informācijas izplatīšanā ārkārtas situācijās un katastrofās. 
+
+Nodrošinātas vispārējas zināšanas par katastrofu medicīnas sistēmas lomu un pirmās palīdzības sniegšanu. Kursa uzdevumi ir veidot studentu prasmju un attieksmju kopumu par civilās aizsardzības sistēmas darbību un pirmās palīdzības sniegšanu.
+
+Kurss izstrādāts, ņemot vērā Ministru kabineta 2017. gada 5. decembra noteikumus Nr. 716 “Minimālās prasības obligātā civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam” prasības 
+
+Prasības kredītpunktu iegūšanai: Studentu studiju kursā sasniegto rezultātu kopvērtējumu veido: Pašpārbaudes tests katras tēmas beigās (20%) plus noslēguma tests (80%)
+
+ID: 3
+
+URL: https://edu.lu.lv/course/view.php?id=2277#section-1
+
+TITLE: Civilās aizsardzības sistēma valstī
+
+1. Civilā aizsardzība - iepriekš un mūsdienās
+
+Iepriekš - civiliedzīvotāju aizsardzība pret masu iznīcināšanas līdzekļiem un tautsaimniecības darbības nodrošināšana kara laikā, kā arī iedzīvotāju iesaiste avārijas seku likvidēšanā (Civildefence).
+
+Šodien - sagatavotība iespējamiem apdraudējumiem un katastrofām (dabas un cilvēka izraisītajām), preventīvo, gatavības, reaģēšanas, seku likvidēšanas un atkopšanās pasākumu plānošana, sadarbība un palīdzība šo pasākumu īstenošanā.
+
+2. Ko pēta civilā aizsardzība? Civilās aizsardzības jautājumi: Kā iespējami efektīvi pasargāt valsts iedzīvotājus no dažādu katastrofu postošajām sekām? Kā samazināt tautsaimniecībai nodarītos zaudējumus? Kā izdzīvot ekstremālās situācijās? 
+
+Ikgadējie pasaules statistikas apkopojumu dati: Katastrofu, avāriju, ugunsgrēku, sprādzienu u.c. nelaimes gadījumu rezultātā iet bojā ap 2 milj. cilvēku; Desmitiem milj. cieš no saindēšanās, gūst traumas, zaudē pajumti; Dažādu katastrofu nodarītos materiālos zaudējumus vērtē kā 4-5% no pasaules bruto kopprodukta.
+
+Civilās aizsardzības sistēmas uzdevumi: Veikt katastrofu pārvaldīšanu; Sniegt palīdzību katastrofās cietušajiem; Samazināt katastrofu radīto un iespējamo kaitējumu īpašumam un videi; Ja noticis militārs iebrukums vai sācies karš, - atbalstīt ar resursiem Nacionālos bruņotos spēkus.
+
+Valsts civilās aizsardzības struktūra: Valsts iestādes; Pašvaldības; Komersanti; Visi darbspējīgie Latvijas pilsoņi un nepilsoņi.
+
+Valsts gatavību ārkārtas situācijām raksturo: Glābšanas un speciālo dienestu tehniskais nodrošinājums un teritoriālais izvietojums; Valsts infrastruktūras elementu attīstības līmenis; Iedzīvotāju informēšanas un apmācības sistēmas efektivitāte; Valsts materiālo rezervju nodrošinājums. 
+
+Izdzīvošanas nosacījumi ekspertu skatījumā: Dzīvotgriba – cilvēka pašsaglabāšanās instinkts; Zināšanas – jo vairāk zinām, jo vieglāk dzīvot; Prasmes – jāvingrinās iegūtās zināšanas izmantot praktiski; Ekipējums – pieejamais aprīkojums cilvēka dzīvības procesu nodrošināšanai.
+
+3. Termini. Civilā aizsardzība (CA) - organizatorisku, inženiertehnisku, ekonomisku, finansiālu, sociālu, izglītojošu un zinātnisku pasākumu kopums, kuru īsteno, lai nodrošinātu reaģēšanu katastrofu gadījumos vai pastāvot katastrofas draudiem.
+
+Katastrofa – notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus.
+
+Katastrofas draudi – situācija, kad risku novērtējums, prognozes, informācija vai citi apstākļi pamatoti liecina par katastrofas iespējamību.
+
+4. Civilās aizsardzības pasākumi - reaģēšana. Atbalsta un vadošās institūcijas biežāk sastopamajās katastrofās Latvijā. 
+
+Atkarībā no katastrofas veida reaģēšanas un seku likvidēšanas neatliekamos pasākumus notikuma vietā vada VUGD amatpersona vai atbilstoši kompetencei — Valsts civilās aizsardzības plānā vai pašvaldību civilās aizsardzības plānos norādītās valsts iestādes amatpersona (glābšanas darbu vadītājs) (Civilās aizsardzības likuma 6.panta 4. daļa).
+
+Militāra iebrukuma vai kara gadījumā visos tabulā minētajos apdraudējumos vadošā institūcija būs Iekšlietu ministrija.
+
+Koordināciju valsts vai reģionāla mēroga katastrofās nodrošina Krīzes vadības padome, bet vietēja mēroga katastrofās attiecīgā pašvaldības civilās aizsardzības komisija (valstī izveidotas 71 šādas komisijas).
+
+5. Pašvaldību uzdevumi un tiesības. Apstiprina sadarbības teritorijas civilās aizsardzības komisijas nolikumu un sastāvu.
+
+Apstiprina sadarbības teritorijas civilās aizsardzības plānu.
+
+Nodrošina iedzīvotāju evakuāciju no katastrofas apdraudētajām vai skartajām teritorijām, kā arī šo iedzīvotāju uzskaiti, pagaidu izmitināšanu, ēdināšanu un sociālo aprūpi.
+
+Savu iespēju robežas nodrošina katastrofas pārvaldīšanā iesaistītajām valsts un pašvaldības institūciju amatpersonām, juridiskajām un fiziskajām personām piemērotus darba un sadzīves apstākļus.
+
++ Piedalās un organizē CA mācības.
+
+Izstrādā un sniedz rekomendācijas valsts un pašvaldības institūcijām, objektu un paaugstinātas bīstamības objektu īpašniekiem un tiesiskajiem valdītājiem;
+
+sniedz iedzīvotājiem ieteikumus par katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību;
+
+ir tiesības rakstveidā slēgt pakalpojumu un sadarbības līgumus vai vienošanās CA un katastrofas pārvaldīšanas jomā ar citām valsts vai pašvaldības institūcijām, juridiskajām vai fiziskajām personām.
+
+6. Valsts ugunsdzēsības un glābšanas dienesta uzdevumi un tiesības
+
+VUGD uzdevumi ir šādi:
+
+vadīt, koordinēt un kontrolēt civilās aizsardzības sistēmas darbību;
+
+izskatīt un saskaņot objektu un paaugstinātas bīstamības objektu civilās aizsardzības plānu projektus;
+
+izveidot un uzturēt savā rīcībā esošo, kā arī juridisko un fizisko personu īpašumā vai valdījumā esošo ugunsdzēsības un glābšanas darbos izmantojamo resursu sarakstu;
+
+veikt civilās aizsardzības prasību ievērošanas pārbaudes;
+
+plānot un organizēt sadarbības teritoriju civilās aizsardzības komisiju apmācību;
+
+norīkot VUGD amatpersonu darbam sadarbības teritorijas civilās aizsardzības komisijā.
+
+7. Iekļūšana privātīpašumā.
+
+VUGD ir tiesīgs iekļūt jebkurā teritorijā, ēkā un telpā, lai apturētu un novērstu ugunsgrēka un ar to saistīto bīstamo faktoru izplatīšanos, kas apdraud fiziskās personas, materiālās vērtības un vidi, vai likvidētu šķēršļus, kas traucē ugunsgrēka dzēšanu un glābšanas darbu veikšanu (Ugunsdrošības un ugunsdzēsības likuma 15.pants).
+
+VP stihisko nelaimju un citu ārkārtēju notikumu gadījumos, kad apdraudēta personu un sabiedrības drošība ir tiesības jebkurā diennakts laikā iekļūt nedzīvojamās zonās un zemes gabalu teritorijā (ja nepieciešams, lietojot fizisku spēku), izņemot tās nedzīvojamās telpas un zemes gabalu teritoriju, kam ir eksteritoriāls vai speciālā režīma statuss (Likums «Par Policiju» 12.panta 16.punkts).
+
+PVD ir tiesības epizootiju uzliesmojuma gadījumā noteiktajā riska zonā bez iepriekšēja brīdinājuma iekļūt privātā īpašumā epizootijas apkarošanas pasākumu īstenošanai (Veterinārmedicīnas likuma 8.panta 8.punkts).
+
+Privātīpašuma demontēšana, pārvietošana, nojaukšana vai iznīcināšana
+
+VUGD ir tiesīgs pārvietot, nojaukt vai iznīcināt ēkas, būves un to daļas, demontēt iekārtas, pārvietot transportlīdzekļus, lai apturētu un novērstu ugunsgrēka un ar to saistīto bīstamo faktoru izplatīšanos, kas apdraud fiziskās personas, materiālās vērtības un vidi, vai likvidētu šķēršļus, kas traucē ugunsgrēka dzēšanu un glābšanas darbu veikšanu (Ugunsdrošības un ugunsdzēsības likuma 15.pants).
+
+8. Iedzīvotāju tiesības un pienākumi CA
+
+Iedzīvotāju tiesības: saņemt informāciju un brīdinājumu par katastrofām valstī vai attiecīgajā administratīvajā teritorijā un ieteikumus par rīcību katastrofu gadījumos;  saņemt iespējamo palīdzību katastrofu gadījumos. 
+
+Iedzīvotāju pienākumi: nekavējoties ziņot attiecīgajām valsts iestādēm un pašvaldībai par katastrofu vai tās draudiem; katastrofas gadījumā rīkoties saskaņā ar plašsaziņas līdzekļu sniegto informāciju, kā arī operatīvo un avārijas dienestu amatpersonu norādījumiem notikuma vietā; līdz operatīvo un avārijas dienestu ierašanās brīdim iespēju robežās veikt darbības katastrofas seku mazināšanai.
+
+9. Civilās aizsardzības vadība un struktūra
+
+Ministru prezidents atbildīgs par CA sistēmas darbību un tās uzdevumu izpildi
+
+VUGD vada, koordinē un kontrolē CA sistēmas darbību.
+
+Ministrijas nodrošina civilās aizsardzības uzdevumu izpildi, nozarei nepieciešamo tiesību aktu projektu izstrādi un katastrofas pārvaldīšanas koordinēšanu valsts, reģionālā un vietējā mērogā.
+
+Reaģēšanas un seku likvidēšanas neatliekamos pasākumus notikuma vietā vada glābšanas darbu vadītājs
+
+Glābšanas darbu vadītājs var būt: VUGD amatpersona, Valsts CA plānā vai pašvaldību CA plānos norādītās valsts iestādes amatpersona
+
+*Par CA iestādēs ir atbildīgs iestādes vadītājs!
+
+10. Civilās aizsardzības plānošana
+
+Valsts CA plāns - izstrādā VUGD sadarbībā ar citām institūcijām. Sadarbības teritorijas CA plāns - pašvaldības dome apstiprina ne retāk kā 1 x 4 gados.
+
+Paaugstinātas bīstamības objekta CA plāns - objekta īpašnieks vai tiesiskais valdītājs apstiprina ne retāk kā 1 x 4 gados. Plāni ir dokumenti, kuri sagatavoti, ņemot vērā risku novērtējumu, un kuros noteikti katastrofas pārvaldīšanas pasākumi un to īstenotāji.
+
+Civilās aizsardzības sistēmas finansēšana (CA uzdevumu izpildei): Valsts iestādes – no tām iedalītajiem valsts budžeta līdzekļiem; Pašvaldības – no saviem budžetiem; Komersanti – no saviem līdzekļiem.
+
+11. Civilās aizsardzības mācības
+
+Izglītības iestādes nodrošina obligātā CA kursa pasniegšanu izglītojamajiem augstākajā, vispārējā un profesionālajā izglītībā.
+
+Nodarbināto apmācību CA jautājumos organizē darba devējs – paaugstinātas bīstamības objektos. (MK. Noteikumi Nr. 716)
+
+CA sistēmas gatavības pārbaudes nodrošināšanai valsts un pašvaldību institūcijas organizē CA un katastrofas pārvaldīšanas mācības. (Civilās aizsardzības un katastrofas pārvaldīšanas likums)
+
+Piemērs - CA mācības Daugavpilī
+
+ID: 4
+
+URL: https://edu.lu.lv/course/view.php?id=2277#section-2
+
+TITLE: Katastrofu pārvaldīšana, plānošana un pasākumu īstenošana
+
+1. Kas ir katastrofas pārvaldīšana?
+
+Katastrofas pārvaldīšanas koordinēšana
+
+Ministrijas un pašvaldības īsteno katastrofu pārvaldīšanas koordinēšanu attiecīgajiem apdraudējumiem, sadarbībā ar citām ministrijām, valsts un pašvaldību institūcijām:
+
+Veic risku novērtēšanu (Riska novērtēšanas metodoloģiju izstrādā VUGD);
+
+Nosaka preventīvos, gatavības, reaģēšanas un seku likvidēšanas pasākumus, izstrādā tiesību aktus, attīstības plānošanas dokumentus un citus dokumentus;
+
+Apzina un plāno resursus.
+
+Vadītu un koordinētu preventīvo, gatavības, reaģēšanas, seku likvidēšanas pasākumu, kā arī atjaunošanas pasākumu kopums, kuri tiek veikti, lai nodrošinātu civilās aizsardzības uzdevumu izpildi.
+
+2. Katastrofas pārvaldīšanas vadība
+
+Aizsardzības ministrija – katastrofas jūrā vai valdījumā esošā militārā infrastruktūrā; valstī militāra iebrukuma vai kara gadījumā, kā arī incidentus, kas saistīti ar informācijas tehnoloģiju drošību.
+
+Ārlietu ministrija – katastrofas LR pārstāvniecību un vēstniecību infrastruktūrā ārvalstīs un ārvalstu pārstāvniecību un vēstniecību infrastruktūrā LR.
+
+Klimata un enerģētikas ministrija – katastrofas, kuras saistītas ar enerģijas ražošanas vai distribūcijas infrastruktūru (piemēram, gāzes noplūde maģistrālajos gāzes vados, enerģijas ražošanas iekārtu, HES infrastruktūras avārija, elektrotīklu bojājumi).
+
+Iekšlietu ministrija – katastrofas, kuras saistītas ar ugunsgrēku, zemestrīci, terora aktu, sabiedriskām nekārtībām, transporta avāriju uz autoceļiem un iekšējos ūdeņos.
+
+VARAM – katastrofas, kuras saistītas ar naftas, naftas produktu un citu bīstamu ķīmisko vielu noplūdi, radiācijas avāriju, negadījumu un kodolavāriju, kā arī ar vētrām, viesuļiem, lietusgāzēm, paliem, plūdiem, krusu, stipru salu, sniega vētrām, apledojumu, sniega sanesumiem un ledus sastrēgumiem, lielu karstumu un sausumu reģionālā un valsts mērogā.
+
+Satiksmes ministrija – katastrofas, kuras saistītas ar dzelzceļa vai aviācijas transporta un to infrastruktūras avāriju, kā arī avārijām vai negadījumiem ostu un jūras hidrotehnisko būvju infrastruktūrā.
+
+Veselības ministrija – epidēmijas, kuras saistītas ar cilvēku infekcijas slimību.
+
+Zemkopības ministrija – katastrofas, kuras saistītas ar meža un kūdras purvu ugunsgrēkiem, hidrotehnisko būvju infrastruktūras, izņemot HES, ostu un jūras hidrotehnisko būvju infrastruktūras. Epizootijas un epifitotijas.
+
+Pašvaldības – katastrofas pašvaldības administratīvajā teritorijā, kuras saistītas ar vētrām, viesuļiem, lietusgāzēm, paliem, plūdiem, krusu, stipru salu, sniega vētrām, apledojumu, sniega sanesumiem un ledus sastrēgumiem, lielu karstumu, sausumu, ēku un būvju sabrukšanu un citas infrastruktūras avāriju, kā arī ar avāriju siltumapgādes, ūdensapgādes un kanalizācijas sistēmās.
+
+3. Valsts iestādes, kas veic katastrofu pārvaldīšanu
+
+Valsts ugunsdzēsības un glābšanas dienests
+	
+Valsts robežsardze
+
+Neatliekamās medicīniskās palīdzības dienests
+
+Valsts vides dienests
+
+Nacionālie bruņotie spēki
+	
+Valsts meža dienests
+
+Valsts policija
+	
+VAS “Latvijas radio un televīzijas centrs”
+
+Valsts drošības dienests
+
+VSIA “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs”
+
+Pārtikas un veterinārais dienests
+	
+VA “Latvijas Infektoloģijas centrs”
+
+VSIA “Rīgas psihiatrijas un narkoloģijas centrs”
+	
+Pašvaldības
+
+AS “Sadales tīkls”
+	
+Valsts augu aizsardzības dienests
+
+Valsts darba inspekcija
+	
+VAS “Latvijas dzelzceļš”
+
+VA “Civilās aviācijas aģentūra”
+
+AS “Pasažieru vilciens”
+
+VSIA “Latvijas televīzija”
+	
+VSIA “Latvijas radio”
+
+VSIA “Paula Stradiņa klīniskā universitātes slimnīca”
