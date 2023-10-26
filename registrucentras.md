@@ -65,4 +65,36 @@ Teikiant prašymą popieriniu būdu, mažoji bendrija bus įregistruota ne vėli
 
 Atlyginimas už mažosios bendrijos įregistravimą - 17,13 euro.
 
+## Kokia tvarka keičiama juridinio asmens buveinė? Ar yra galimybė juridinio asmens buveinės adresą pakeisti elektroniniu būdu per Registrų centro savitarną?
 
+#### URL: https://info.registrucentras.lt/node/753
+
+Civilinio kodekso 2.49 straipsnyje yra nurodyta, kad juridinio asmens buveine laikoma ta vieta, kurioje yra nuolatinis jo valdymo organas. Juridinio asmens buveinė apibūdinama, nurodant patalpų adresą. Patalpa, kurioje registruojama juridinio asmens buveinė, turi būti įregistruota Nekilnojamojo turto registre. Teisės aktai nenustato, kokios paskirties patalpose gali būti registruojama juridinio asmens buveinė.
+
+Juridinių asmenų registre yra įrašomi šie duomenys, identifikuojantys juridinio asmens buveinę: adresas bei nekilnojamojo daikto, kuriame registruota buveinė, unikalus numeris Nekilnojamojo turto registre, todėl patalpos suteikiamos juridinio asmens buveinei turi būti  įregistruotos Nekilnojamojo turto registre. 
+
+Pasikeitus buveinei,  Juridinių asmenų registro tvarkytojui (registruotis vizitui galima čia) teikiama:
+
+1. Prašymas įregistruoti pakeitimus forma JAR-1.
+
+2. Visuotinio dalyvių susirinkimo, priėmusio sprendimą dėl buveinės pakeitimo, protokolas (sprendimas). 
+
+3. Jeigu juridinis asmuo nėra patalpų, suteikiamų juridinio asmens, jo filialo ar atstovybės buveinei registruoti, savininkas arba patalpos juridiniam asmeniui priklauso bendrosios nuosavybės teise, teikiamas rašytinis savininko arba bendraturčio sutikimas suteikti patalpas juridinio asmens buveinei registruoti.
+
+4. Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantis dokumentas. Jeigu dokumentų ir duomenų teikėjas veikia per atstovą, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas Įgaliojimų posistemėje. Siunčiant prašymą paštu, kartu pridedama vadovo asmens dokumento kopija. Ši kopija notaro netvirtinama.
+
+Prašymą pakeisti juridinio asmens buveinę galima pateikti ir elektroniniu būdu per Registrų centro klientų savitarnos sistemą.  Dokumentų ir duomenų teikėjas (vadovas ar jo įgaliotas asmuo), kvalifikuotu elektroniniu parašu turi prisijungti prie Registrų centro klientų savitarnos sistemos, horizontaliame meniu pasirinkti skiltį Juridinių asmenų registras bei kairėje esančiame vertikaliame meniu paspausti nuorodas: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, iš keičiamų duomenų sąrašo turės pasirinkti Juridinio asmens buveinė. Atsivėrus sistemos langui, skiltyje PRAŠYMO OBJEKTAS, reikės atlikti buveinės adreso paiešką pagal adresą, unikalų numerį arba savininką (jei buveinės patalpos yra nuosavas nekilnojamas turtas). 
+
+Skiltyje BUVEINĖS PATALPŲ SAVININKAI reikės įrašyti visus esamus patalpų savininkus.
+
+Atkreipiame dėmesį, kad jeigu patalpos buveinei registruoti nėra juridinio asmens nuosavybė, sistema sugeneruos Sutikimą suteikti patalpas juridinio asmens buveinei, kurį elektroniniu parašu turi pasirašyti visi esami patalpų savininkai. Patalpų savininkai gali pasirašyti Sutikimą suteikti patalpas juridinio asmens buveinei, prisijungę prie Registrų centro savitarnos sistemos ir pasirinkę - Juridinių asmenų registras. Paspaudus nuorodą Mano dokumentai, bus matomas nustatytos formos Sutikimas suteikti patalpas Juridinio asmens buveinei, kuris turi būti patvirtintas patalpų savininko elektroniniu parašu (pasirašyti sutikimą patalpų savininkai turi ne vienu metu, bet vienas po kito).
+
+Išsaugojus duomenis ir informaciją, reikia spausti nuorodą Tęsti ir sistema sugeneruos prašymą forma JAR-1-E, kurį  duomenų teikėjui reikės pasirašyti elektroniniu parašu. Dokumentams pasirašyti reikia spustelti šalia nepasirašyto dokumento esančią aktyvią nuorodą Pasirašyti. Svarbu pažymėti, kad keičiant buveinę elektroniniu būdu, prieš pasirašant prašymą pakeisti duomenis (JAR-1-E), būtina įkelti PDF arba ADOC formatu išsaugotą visuotinio dalyvių susirinkimo protokolą (sprendimą). 
+
+Pasirašius prašymo formą JAR-1-E, paslaugą reikia įdėti į krepšelį ir atlikti tiesioginį apmokėjimą  savitarnos svetainėje per elektroninę bankininkystę. Apmokėjus krepšelį, prašymas keisti duomenis ir dokumentus pateikiamas Juridinių asmenų registro tvarkytojui, o prašymo būsena taps Vykdomas.
+
+Už  buveinės adreso pakeitimo įregistravimą mokamas 4,15 Eur atlyginimas.
+
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys įregistruojami ne vėliau kaip per 3 darbo dienas.
+
+Kai buveinės adresas yra nurodytas juridinio asmens steigimo dokumente (įstatuose, nuostatuose, statute), pasikeitus juridinio asmens buveinės adresui, kartu turi būti keičiamas steigimo dokumentas (naujame steigimo dokumente buveinės adresas gali būti neįrašomas).
