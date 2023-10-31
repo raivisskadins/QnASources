@@ -142,21 +142,83 @@ Atkreipiame Jūsų dėmesį, kad visais atvejais keičiant akcinės bendrovės a
 #### URL: https://info.registrucentras.lt/node/458
 
 Bendrovės vadovas keičiamas Akcinių bendrovių įstatymo 37 straipsnio nustatyta tvarka.
+
 Apie bendrovės vadovo išrinkimą ar atšaukimą bei sutarties su juo pasibaigimą kitais pagrindais naujai išrinktas vadovas arba įgaliotas asmuo Juridinių asmenų registro tvarkytojui privalo pranešti ne vėliau kaip per 5 dienas.
+
 Norint pakeisti duomenis apie bendrovės vadovą, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui turi pateikti:
 
  *  Prašymą įregistruoti pakeitimus forma JAR-1.
+   
  *  Vienasmenio valdymo organo duomenų formą JAR-VO-V.
+   
  *  Kontaktinių duomenų formą KD-1.
- *  Visuotinio akcininkų susirinkimo (stebėtojų tarybos ar valdybos, kai šie organai renka vadovą) protokolą dėl vadovo atšaukimo ir naujo vadovo išrinkimo kartu su protokolo priedais. 
+   
+ *  Visuotinio akcininkų susirinkimo (stebėtojų tarybos ar valdybos, kai šie organai renka vadovą) protokolą dėl vadovo atšaukimo ir naujo vadovo išrinkimo kartu su protokolo priedais.
+   
  *  Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus pateikia ne juridinio asmens vadovas, o atstovas, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas sistemoje. Kai dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
 
 Naujasis vadovas prašymą įregistruoti gali pateikti ir per E. pristatymo dėžutę. Šiuo atveju kiekvienas dokumentas turi būti pasirašytas kvalifikuotu sertifikatu patvirtintu elektroniniu pasirašančiojo asmens parašu (vadovas pasirašo formas JAR-1 ir KD-1, posėdžio pirmininkas ir sekretorius bei dalyviai pasirašo protokolą).
 
 Juridinio asmens prašymas dėl duomenų apie vadovą pakeitimo taip pat gali būti pateiktas elektroniniu būdu per Registrų centro klientų savitarnos sistemą, jeigu duomenis teikia  įgaliotas asmuo (duomenų apie naują vadovą nėra duomenų bazėje, todėl sistema jo neatpažins), kuriam yra išduotas ir Juridinių asmenų registre įregistruotas įgaliojimas  teikti duomenis ir pasirašyti dokumentus.
+
 Dokumentų ir duomenų teikėjas, kvalifikuotu sertifikatu patvirtinto elektroninio parašo pagalba prisijungęs prie Registrų centro klientų savitarnos sistemos, horizontaliame meniu spustelėjęs nuorodą Juridinių asmenų registras ir kairėje meniu pusėje pasirinkęs laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinęs, kad kontaktiniai duomenys teisingi arba įrašęs pakeistus kontaktinius duomenis, iš keičiamų duomenų sąrašo pasirinkęs Vadovas, galės išregistruoti buvusio vadovo duomenis ir įrašyti naujo vadovo duomenis. Jeigu kitai kadencijai išrenkamas tas pats vadovas, reikės pasirinkti laukelį Pratęsti. Keičiant duomenis apie vadovą, turi būti pridėtas PDF arba ADOC formatu suformuotas visuotinio akcininkų susirinkimo arba kito vadovą išrinkusio organo protokolas dėl vadovo atšaukimo ir naujo vadovo išrinkimo arba vadovo išrinkimo kitai kadencijai kartu su protokolo priedais.
+
 Įkėlus dokumentą,  sistema leis jį pasirašyti ir pasirašyti prašymo keisti duomenis formą JAR-1-E. Dokumentams pasirašyti reikia spustelti šalia nepasirašyto dokumento esančią aktyvią nuorodą Pasirašyti. Pasirašius formą JAR-1-E, paslaugą reikia įdėti į krepšelį ir atlikti tiesioginį apmokėjimą  savitarnos svetainėje per elektroninę bankininkystę. Apmokėjus krepšelį, prašymas keisti duomenis pateikiamas Juridinių asmenų registro tvarkytojui ir jo būsena tampa Vykdomas.
 
 Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys įregistruojami ne vėliau kaip per 3 darbo dienas.
 
 Už duomenų apie naują vadovą įregistravimą mokamas 8,30 euro atlyginimas. Kontaktiniai duomenys keičiami neatlygintinai. Atsiskaitomąsias sąskaitas rasite čia.
+
+## Kokia tvarka užsakoma ir išduodama Jungtinė pažyma (Pažyma, patvirtinanti jungtinius kompetentingų institucijų tvarkomus duomenis apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją)? Ar gali prašymą pateikti įgaliotas asmuo?
+
+#### URL: https://info.registrucentras.lt/node/446
+
+Jungtinė pažyma rengiama vadovaujantis Lietuvos Respublikos Vyriausybės 2008 m. gruodžio 3 d. Nr. 1286 nutarimu "Dėl Kompetentingų institucijų tvarkomų jungtinių duomenų apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją pažymos išdavimo taisyklių  patvirtinimo". 
+
+Asmuo, norintis gauti Jungtinę pažymą, patvirtinančią jungtinius kompetentingų institucijų tvarkomus duomenis apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją, turi pateikti Registrų centrui nustatytos formos prašymą vienu iš dviejų būdų:
+
+1. Pateikiant nustatytos formos prašymą  asmeniškai arba siunčiant paštu bet kuriam Registrų centro klientų aptarnavimo padaliniui (galite iš anksto užsiregistruoti vizitui). Siunčiant prašymą paštu pridedama vadovo asmens dokumento kopija. Ši kopija notaro netvirtinama.
+   
+Tik šiuo būdu užsakyta Jungtinė pažyma bus spausdinama popieriniu būdu ir pasirašoma Juridinių asmenų registro tvarkytojo fiziniu parašu.
+
+Pažymėtina, kad nustatytos formos prašymą išduoti Jungtinę pažymą gali pateikti juridinio asmens vadovas arba jo įgaliotas asmuo, tačiau įgaliotiniui turi būti suteikta teisė pasirašyti ir sutikimą dėl įgaliotojo ypatingų duomenų tvarkymo ir teikimo. Buhalterio, kaip fizinio asmens, įgaliojimas pasirašyti sutikimą dėl ypatingų duomenų tvarkymo ir teikimo turi būti patvirtintas notaro. Taip yra todėl, kad Jungtinėje pažymoje nurodomi ypatingi vadovo ir buhalterio (jei išduodama Jungtinė pažyma apie juridinį asmenį) ar fizinio asmens (jei išduodama Jungtinė pažyma apie fizinį asmenį) duomenys, tvarkomi Informatikos ir ryšių departamento prie Vidaus reikalų ministerijos.
+
+Įgaliojimo patvirtinti notariškai nereikia, jei įgaliotinis yra įgaliotas tik pateikti prašymą ir atsiimti Jungtinę pažymą apie viešųjų pirkimų procedūroje dalyvaujantį tiekėją,  prašymą pasirašo vadovas ir buhalteris ir toks įgaliojimas yra įregistruotas Įgaliojimų registre.
+
+2. Elektroniniu būdu per Registrų centro klientų savitarnos sistemą, jeigu juridinio asmens vadovas ir buhalteris (kai pažymoje turi būti ir buhalterio duomenys) turi kvalifikuotą elektroninį parašą.  Įgaliotas asmuo negali teikti prašymo elektroniniu būdu. Parengta pažyma nespausdinama popieriuje ir nesiunčiama, o  elektroniniu parašu pasirašytą Jungtinę pažymą vadovas ar fizinis asmuo turės surasti savitarnos sistemoje ir ją atsispausdinti. Pažyma sugeneruojama PDF formatu. Jeigu reikalinga pažyma ADOC formatu, prašymą reikia teikti popieriniu būdu, pasirinkti atsiėmimo būdą elektroniniu paštu ir nurodyti pažymos formatą.
+   
+Apibendrintą Jungtinės pažymos užsakymo ir atsiėmimo tvarką rasite šioje nuorodoje.
+
+Teikiant prašymą elektroniniu būdu per Registrų centro klientų savitarnos sistemą,  juridinio asmens vadovas, jei prašoma išduoti Jungtinę pažymą juridiniam asmeniui, ar fizinis asmuo, jei prašoma išduoti Jungtinę pažymą fiziniam asmeniui, turi kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungti prie savitarnos sistemos.
+
+Šiuo metu galima naudotis:
+
+- Registrų centro išduotu kvalifikuotu elektroniniu parašu (daugiau apie Registrų centro išduodamą elektroninį parašą sužinosite svetainėje www.elektroninis.lt);
+  
+- mobiliojo ryšio operatorių - Bitė, Telia, Tele2 ir Teledema - išduotais kvalifikuotais sertifikatais (mobiliuoju parašu);
+  
+- Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos išduota asmens tapatybės kortele, kurioje įrašyti asmens atpažinimo elektroninėje erdvėje ir kvalifikuoto parašo sertifikatai.
+
+Kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungęs prie Registrų centro klientų savitarnos sistemos, juridinio asmens vadovas ar fizinis asmuo turi pasirinkti skiltį Juridinių asmenų registras ir kairėje lango pusėje esančiame meniu spausti nuorodas: Jungtinės pažymos. 
+
+Teikiant prašymą išduoti pažymą apie juridinį asmenį, jo vadovą ir buhalterį, sistemoje reikia pasirinkti pažymos tipą -  Viešųjų pirkimų procedūroje dalyvaujantį tiekėją – juridinį asmenį, jo vadovą ir buhalterį ir spausti mygtuką Pildyti prašymą.
+
+Teikiant prašymą išduoti pažymą apie juridinį asmenį ir jo vadovą, sistemoje reikia pasirinkti pažymos tipą - Viešųjų pirkimų procedūroje dalyvaujantį tiekėją – juridinį asmenį ir jo vadovą. Atsivėrus duomenų langui, reikia nurodyti pažymos egzempliorių skaičių.  Jeigu teikiamas prašymas pasirenkant pažymos tipą - Viešųjų pirkimų procedūroje dalyvaujantį tiekėją – juridinį asmenį ir jo vadovą, spustelėjęs šalia prašymo esančią nuorodą - Tęsti, vadovas turės įsidėti prekę į krepšelį ir apmokėti paslaugą tiesiogiai per savitarną, per pasirinkto banko el. bankininkystę. Atlikus apmokėjimą užsakymas taps Vykdomas.
+
+Kai užsakoma pažyma su buhalterio duomenimis, prašyme vadovas, prisijungęs elektroninio parašo pagalba prie Registrų centro klientų savitarnos sistemos, turi įrašyti buhalterio vardą, pavardę, asmens kodą, pasirašyti prašymą ir atsijungti nuo sistemos, pasirinkęs funkciją Baigti darbą. Nurodytas buhalteris turi savo elektroniniu parašu (nesvarbu, iš kurio kompiuterio) prisijungti prie Registrų centro klientų savitarnos sistemos (kaip fizinis asmuo), vertikaliajame meniu pasirinkti - Juridinių asmenų registras  ir kairėje pusėje esančiame meniu pasirinkti - Mano dokumentai. Suradęs ir kvalifikuotu elektroniniu prašu pasirašęs Prašymą išduoti jungtinę pažymą, buhalteris turi atsijungti nuo sistemos, pasirinkęs funkciją Baigti darbą. Tuomet juridinio asmens vadovas, prisijungęs prie savitarnos sistemos, turi pasirinkti - Juridinių asmenų registras ir kairėje lango pusėje esančiame meniu spausti nuorodas: Jungtinės pažymos užsakymas, Prašymų išduoti jungtinę pažymą peržiūra. Spustelėjęs šalia prašymo esančią nuorodą - Tęsti, vadovas turės įsidėti prekę į krepšelį ir apmokėti paslaugą tiesiogiai per savitarną, per pasirinkto banko el. bankininkystę. Atlikus apmokėjimą, užsakymas taps Vykdomas.
+
+Teikiant prašymą išduoti pažymą apie fizinį asmenį, atsivėrus duomenų langui, reikia nurodyti pažymos egzempliorių skaičių bei pasirinkti dokumento pristatymo būdą. Galimas tik vienas pažymos pristatymo būdas - elektroniniu būdu (Jungtinė pažyma sugeneruojama savitarnos sistemoje). Spustelėjęs šalia prašymo esančią nuorodą - Tęsti, fizinis asmuo  turės įsidėti prekę į krepšelį ir apmokėti paslaugą tiesiogiai per savitarną, per pasirinkto banko el. bankininkystę. Atlikus apmokėjimą užsakymas taps Vykdomas.
+
+Dėmesio! Duomenys apie tiekėjo atsiskaitymą su Valstybinio socialinio draudimo fondo valdyba gaunami automatiškai – interaktyviai. Jeigu juridinis ar fizinis asmuo turi įsiskolinimų, jam bus išduota pažyma, kad jis yra skolingas, nenurodant įsiskolinimo sumos, kuri gali būti ir keli euro centai. Todėl rekomenduojame juridiniams ir fiziniams asmenims apie savo atsiskaitymą pasitikrinti Valstybinio socialinio draudimo fondo valdybos interneto svetainėje.
+
+Kai savitarnos sistemoje užsakyta Jungtinė pažyma bus parengta (prašymo būsena taps Įvykdytas), elektroniniu parašu pasirašytą dokumentą surasite savitarnos sistemoje. Kvalifikuotu sertifikatu patvirtintu elektroniniu parašu prisijungęs prie Registrų centro klientų savitarnos sistemos, juridinio asmens vadovas ar fizinis asmuo, užsakęs Jungtinę pažymą,  turi pasirinkti skiltį Juridinių asmenų registras ir kairėje lango pusėje esančiame meniu spausti nuorodas: Jungtinės pažymos, Jungtinių pažymą sąrašas. Pasirenkamas veiksmas Peržiūrėti. Atsidariusiame lange Gauti rezultatai spaudžiama Parsisiųsti. Suradę parengtą Jungtinę pažymą, ją galėsite parsisiųsti, išsaugoti kompiuterio laikmenoje ir atsispausdinti.
+
+Dėmesio! Dokumentas savitarnos sistemoje saugomas 30 kalendorinių dienų. Po šio termino Jungtinės pažymos rasti negalima.
+
+Registrų centras neturi galimybės išduoti juridiniam asmeniui Jungtinę pažymą, kurioje būtų nurodyti duomenys pagal Viešųjų pirkimų įstatymo 33 straipsnio 1 dalies 3 punkto reikalavimus, t. y. ar juridinio asmens dalyvis, turintis balsų daugumą dalyvių susirinkime, neturi neišnykusio ar nepanaikinto teistumo už nusikalstamą bankrotą.
+
+Pažymas apie fizinio asmens teistumą išduoda Informatikos ir ryšių departamentas prie Vidaus reikalų ministerijos, taip pat šie duomenys nurodomi Registrų centro išduodamoje Jungtinėje pažymoje apie fizinį asmenį. Įstatymai nenumato juridinio asmens baudžiamosios atsakomybės už nusikalstamą bankrotą.
+
+Jungtinės pažymos galiojimo terminas nenustatomas. Jungtinėje pažymoje nurodoma jos atspausdinimo data ir visų institucijų, teikiančių informaciją, informacijos pateikimo datos. Viešųjų pirkimų organizatorius ar institucija, kuriai teikiama Jungtinė pažyma ar Juridinių asmenų registro išrašas, gali nustatyti datą, iki kurios išduota pažyma būtų tinkama pateikti.
+
+Informaciją apie  atlyginimo dydžius  rasite nuorodoje.
