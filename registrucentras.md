@@ -222,3 +222,46 @@ Pažymas apie fizinio asmens teistumą išduoda Informatikos ir ryšių departam
 Jungtinės pažymos galiojimo terminas nenustatomas. Jungtinėje pažymoje nurodoma jos atspausdinimo data ir visų institucijų, teikiančių informaciją, informacijos pateikimo datos. Viešųjų pirkimų organizatorius ar institucija, kuriai teikiama Jungtinė pažyma ar Juridinių asmenų registro išrašas, gali nustatyti datą, iki kurios išduota pažyma būtų tinkama pateikti.
 
 Informaciją apie  atlyginimo dydžius  rasite nuorodoje.
+
+## Kokiu būdu galima pakeisti akcinės bendrovės ar uždarosios akcinės bendrovės įstatinio kapitalo ir akcijų nominalios vertės išraišką iš litų į eurus?
+
+#### URL: https://info.registrucentras.lt/node/8962
+
+ Norint pakeisti akcinės bendrovės ar uždarosios akcinės bendrovės įstatinio kapitalo ir akcijų nominalios vertės išraišką iš litų į eurus, turi būti pakeisti ir įregistruoti nauji bendrovės įstatai. Prašymą įregistruoti dėl įstatinio kapitalo ir akcijų nominalios vertės valiutos išraiškos keitimo pasikeitusius įstatus galima pateikti šiais būdais:
+
+ *  teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje.
+   
+ *  elektroniniu būdu per Registrų centro klientų savitarną (tik uždarosioms akcinėms bendrovėms).
+
+Teikiant dokumentus ir duomenis tiesiogiai Registrų centro klientų aptarnavimo padalinyje, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui notaro voke pateikia:
+
+1. Prašymą forma JAR-1 su notaro tvirtinamuoju įrašu;
+   
+3. Pakeistus įstatus;
+   
+5. Visuotinio akcininkų susirinkimo, priėmusio sprendimą dėl naujų įstatų patvirtinimo, protokolą (vienintelio akcininko sprendimą);
+   
+7. Dokumentus teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus teikia ne vadovas, o įgaliotas asmuo, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai.
+Jeigu dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
+
+Už  įstatų  įregistravimą  yra  mokamas 19,80 Eur atlyginimas. Atsiskaitomąsias sąskaitas rasite čia.
+
+Prašymas įregistruoti pakeistus uždarosios akcinės bendrovės įstatus elektroniniu būdu teikiamas, prisijungus prie Registrų centro klientų savitarnos sistemos kvalifikuotu sertifikatu patvirtintu elektroniniu parašu. Prašymą gali teikti bendrovės vadovas ar jo įgaliotas asmuo, kuriam nustatyta tvarka suteiktas įgaliojimas. Horizontaliame meniu reikia pasirinkti Juridinių asmenų registras, kairėje sistemos lango pusėje esančiame meniu reikės pasirinkti laukelius: Juridinio asmens, filialo ir duomenų registravimas> Juridinio asmens, filialo  duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis > Kapitalo duomenys> Keičiama tik įstatinio kapitalo išraiška eurais.
+
+Keičiant uždarosios akcinės bendrovės įstatus elektroniniu būdu per Registrų centro klientų savitarnos sistemą, įstatai bus sugeneruoti pagal Ūkio ministro patvirtintus pavyzdinius įstatus, todėl reikia užpildyti visus privalomus laukus. Sistemoje veiklos tikslai įrašomi tik į tam skirtą lauką, todėl reikės išregistruoti pagal EVRK įregistruotas veiklos sritis ir rūšis. Pasirinkus funkciją Redaguoti, iš klasifikatoriaus reikia pasirinkti veiklą, kurią bendrovė vykdo ar ketina vykdyti. Nepriklausomai nuo to, kokie veiklos tikslai bus įrašyti, sistema visada įstatuose sugeneruos sakinį: Bendrovė gali užsiimti bet kokia kita veikla, kuri neprieštarauja Lietuvos Respublikos teisės aktams.
+
+Nors ir pažymėtas laukas  Keičiama tik įstatinio kapitalo išraiška eurais, galima keisti ir kitas įstatų nuostatas bei už atskirą atlyginimą pagal poreikį keisti kitus duomenis (pav., kontaktinius duomenis). Atlikus sistemos nurodytus ir kitus veiksmus ir įrašius privalomus duomenis, sistema sugeneruos naujus įstatus ir prašymo formą JAR-1-E. Reikia atkreipti dėmesį, kad Steigimo dokumento patvirtinimo data yra įrašoma vienintelio akcininko  sprendimo dėl naujų įstatų patvirtinimo priėmimo data ar visuotinio akcininkų susirinkimo protokolo data. Siūlome prieš pasirašant įstatus, juos atidaryti ir įdėmiai perskaityti. Įstatus prieš pasirašymą būtų pravartu atsispausdinti. Jeigu būtų reikalingi kitų duomenų pakeitimai, yra galimybė pasirinkti funkciją Keisti prašymo duomenis ir įrašyti reikiamus pakeitimus. Atkreipiame dėmesį, kad yra galimybė atlikti tik tuos duomenų pakeitimus, kuriuos keisti leidžia sistema (pvz., įrašyti trūkstamas veiklas ar panaikinti per klaidą pasirinktas veiklas). Svarbu pažymėti, kad teikiant prašymą keisti įstatus elektroniniu būdu, būtina įkelti PDF arba ADOC formate išsaugotą vienintelio akcininko sprendimą dėl naujų įstatų patvirtinimo ar visuotinio akcininkų susirinkimo protokolą.
+
+Dokumentą galima įkelti, spustelėjus šalia nuorodos DOKUMENTO ĮKĖLIMAS esantį ženkliuką (+), kuris virs (-) ir  išsiskleis duomenų laukai. Tuomet reikės užpildyti privalomus laukus: pasirinkti dokumento tipą (pasirenkamas iš klasifikatoriaus tiksliai toks dokumentas, kuris įkeltas - vienintelio akcininko sprendimas, visuotinio akcininkų susirinkimo protokolas ar kt.) ir nurodyti jo datą (data sutaps su Steigimo dokumento patvirtinimo data), spustelti nuorodą Browse ir pasirinkti įkeliamą kompiuterio laikmenoje išsaugotą PDF arba ADOC formate sugeneruotą dokumentą.  Suradus dokumentą, jis įkeliamas spustelėjus nuorodą Įkelti.
+
+Norint įkelti PDF formatu sugeneruotą dokumentą, reikia prisijungti prie  Registrų centro klientų savitarnos sistemos  ir pasirinkti skiltį Juridinių asmenų registras bei kairėje pusėje esančiame meniu pasirinkti  Juridinio asmens, filialo ir duomenų registravimas> Juridinio asmens, filialo  duomenų registravimo sąrašas . Suradus teikiamą prašymą, reikia spustelti šalia prašymo esančią nuorodą Tęsti.
+
+Įkėlus dokumentą  ir pasirašius įstatus, sistema leis pasirašyti dokumentą (jeigu įkeliamas dokumentas nepasirašytas elektroniniu parašu), taip pat prašymo keisti duomenis formą JAR-1-E. Dokumentams pasirašyti reikia spustelti šalia nepasirašyto dokumento esančią aktyvią nuorodą Pasirašyti.
+ 
+Pasirašius įstatus ir formą JAR-1-E, paslaugą reikia įdėti į krepšelį ir atlikti tiesioginį apmokėjimą  savitarnos svetainėje per elektroninę bankininkystę. Apmokėjus krepšelį, prašymas keisti duomenis ir dokumentus pateikiamas Juridinių asmenų registro tvarkytojui. Už  įstatų  įregistravimą  elektroniniu būdu yra  mokamas 17,54 Eur atlyginimas. 
+
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, steigimo dokumentas įregistruojamas ne vėliau kaip per 3 darbo dienas.
+
+Prašymo būklę, įrašę prašymo numerį, galite peržiūrėti čia. Kai įstatai bus įregistruoti, prašymo būsena taps Įvykdytas. Jeigu Juridinių asmenų registro tvarkytojas nustatys trūkumus, prašymo būsena taps Atidėtas dėl trūkumų ir prisijungus prie sistemos bus galimybė atlikti reikiamus pakeitimus.
+
+Atkreipiame dėmesį, kad visuotinio akcininkų susirinkimo arba vienintelio akcininko sprendimas pakeisti bendrovės įstatus laikomas negaliojančiu, jeigu pakeisti bendrovės įstatai nebuvo pateikti Juridinių asmenų registro tvarkytojui per 6 mėnesius nuo visuotinio akcininkų susirinkimo arba vienintelio akcininko sprendimo padidinti įstatinį kapitalą, dienos.
