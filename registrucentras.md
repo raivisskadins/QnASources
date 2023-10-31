@@ -145,11 +145,11 @@ Bendrovės vadovas keičiamas Akcinių bendrovių įstatymo 37 straipsnio nustat
 Apie bendrovės vadovo išrinkimą ar atšaukimą bei sutarties su juo pasibaigimą kitais pagrindais naujai išrinktas vadovas arba įgaliotas asmuo Juridinių asmenų registro tvarkytojui privalo pranešti ne vėliau kaip per 5 dienas.
 Norint pakeisti duomenis apie bendrovės vadovą, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui turi pateikti:
 
-    Prašymą įregistruoti pakeitimus forma JAR-1.
-    Vienasmenio valdymo organo duomenų formą JAR-VO-V.
-    Kontaktinių duomenų formą KD-1.
-    Visuotinio akcininkų susirinkimo (stebėtojų tarybos ar valdybos, kai šie organai renka vadovą) protokolą dėl vadovo atšaukimo ir naujo vadovo išrinkimo kartu su protokolo priedais. 
-    Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus pateikia ne juridinio asmens vadovas, o atstovas, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas sistemoje. Kai dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
+ *  Prašymą įregistruoti pakeitimus forma JAR-1.
+ *  Vienasmenio valdymo organo duomenų formą JAR-VO-V.
+ *  Kontaktinių duomenų formą KD-1.
+ *  Visuotinio akcininkų susirinkimo (stebėtojų tarybos ar valdybos, kai šie organai renka vadovą) protokolą dėl vadovo atšaukimo ir naujo vadovo išrinkimo kartu su protokolo priedais. 
+ *  Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus pateikia ne juridinio asmens vadovas, o atstovas, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas sistemoje. Kai dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
 
 Naujasis vadovas prašymą įregistruoti gali pateikti ir per E. pristatymo dėžutę. Šiuo atveju kiekvienas dokumentas turi būti pasirašytas kvalifikuotu sertifikatu patvirtintu elektroniniu pasirašančiojo asmens parašu (vadovas pasirašo formas JAR-1 ir KD-1, posėdžio pirmininkas ir sekretorius bei dalyviai pasirašo protokolą).
 
