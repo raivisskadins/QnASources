@@ -105,9 +105,9 @@ Kai buveinės adresas yra nurodytas juridinio asmens steigimo dokumente (įstatu
 
  Kaip nurodyta Civilinio kodekso 2.46 straipsnyje, juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus, nuostatus, statutus ar kt., todėl kituose teisės aktuose vartojama sąvoka "steigimo dokumentas"  neapima steigimo akto ar steigimo sutarties. Juridinio asmens steigimo dokumentą  galima pakeisti šiais būdais:  
 
-    tiesiogiai teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje (registruotis vizitui galite čia); 
+ * tiesiogiai teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje (registruotis vizitui galite čia); 
     
-    uždarosioms akcinėms bendrovėms, individualioms įmonėms, asociacijoms, viešosioms įstaigoms, labdaros ir paramos fondams bei mažosioms bendrijoms yra sudaryta galimybė pateikti prašymą dėl naujo steigimo dokumento įregistravimo elektroniniu būdu per Registrų centro klientų savitarną.
+ * uždarosioms akcinėms bendrovėms, individualioms įmonėms, asociacijoms, viešosioms įstaigoms, labdaros ir paramos fondams bei mažosioms bendrijoms yra sudaryta galimybė pateikti prašymą dėl naujo steigimo dokumento įregistravimo elektroniniu būdu per Registrų centro klientų savitarną.
 
 Teikiant dokumentus popieriniu būdu tiesiogiai Juridinių asmenų registro tvarkytojui, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui notaro voke  tiesiogiai arba paštu pateikia:
 
@@ -136,3 +136,27 @@ Atlyginimas už steigimo dokumento įregistravimą - 19,80  euro.  Teikiant pra�
 Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti Juridinių asmenų registro tvarkytojui per šešis  mėnesius nuo sprendimo patvirtinti naujus steigimo dokumentus dienos, jeigu įstatymai nenustato kito termino.
 
 Atkreipiame Jūsų dėmesį, kad visais atvejais keičiant akcinės bendrovės ar uždarosios akcinės bendrovės įstatus, akcijos nominali vertė ir įstatinio kapitalo dydis turi būti nurodyti eurais. Žemės ūkio bendrovės įstatuose nustatytas minimalus pajinio įnašo dydis ir kooperatinės bendrovės (kooperatyvo) ar jų sąjungos įstatuose nustatyti minimalaus ir maksimalaus pajaus ir stojamojo mokesčio dydžiai turi būti išreikšti eurais.
+
+## Kokia tvarka keičiamas akcinės bendrovės ar uždarosios akcinės bendrovės vadovas?
+
+#### URL: https://info.registrucentras.lt/node/458
+
+Bendrovės vadovas keičiamas Akcinių bendrovių įstatymo 37 straipsnio nustatyta tvarka.
+Apie bendrovės vadovo išrinkimą ar atšaukimą bei sutarties su juo pasibaigimą kitais pagrindais naujai išrinktas vadovas arba įgaliotas asmuo Juridinių asmenų registro tvarkytojui privalo pranešti ne vėliau kaip per 5 dienas.
+Norint pakeisti duomenis apie bendrovės vadovą, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui turi pateikti:
+
+    Prašymą įregistruoti pakeitimus forma JAR-1.
+    Vienasmenio valdymo organo duomenų formą JAR-VO-V.
+    Kontaktinių duomenų formą KD-1.
+    Visuotinio akcininkų susirinkimo (stebėtojų tarybos ar valdybos, kai šie organai renka vadovą) protokolą dėl vadovo atšaukimo ir naujo vadovo išrinkimo kartu su protokolo priedais. 
+    Dokumentus ir duomenis teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus pateikia ne juridinio asmens vadovas, o atstovas, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas sistemoje. Kai dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
+
+Naujasis vadovas prašymą įregistruoti gali pateikti ir per E. pristatymo dėžutę. Šiuo atveju kiekvienas dokumentas turi būti pasirašytas kvalifikuotu sertifikatu patvirtintu elektroniniu pasirašančiojo asmens parašu (vadovas pasirašo formas JAR-1 ir KD-1, posėdžio pirmininkas ir sekretorius bei dalyviai pasirašo protokolą).
+
+Juridinio asmens prašymas dėl duomenų apie vadovą pakeitimo taip pat gali būti pateiktas elektroniniu būdu per Registrų centro klientų savitarnos sistemą, jeigu duomenis teikia  įgaliotas asmuo (duomenų apie naują vadovą nėra duomenų bazėje, todėl sistema jo neatpažins), kuriam yra išduotas ir Juridinių asmenų registre įregistruotas įgaliojimas  teikti duomenis ir pasirašyti dokumentus.
+Dokumentų ir duomenų teikėjas, kvalifikuotu sertifikatu patvirtinto elektroninio parašo pagalba prisijungęs prie Registrų centro klientų savitarnos sistemos, horizontaliame meniu spustelėjęs nuorodą Juridinių asmenų registras ir kairėje meniu pusėje pasirinkęs laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinęs, kad kontaktiniai duomenys teisingi arba įrašęs pakeistus kontaktinius duomenis, iš keičiamų duomenų sąrašo pasirinkęs Vadovas, galės išregistruoti buvusio vadovo duomenis ir įrašyti naujo vadovo duomenis. Jeigu kitai kadencijai išrenkamas tas pats vadovas, reikės pasirinkti laukelį Pratęsti. Keičiant duomenis apie vadovą, turi būti pridėtas PDF arba ADOC formatu suformuotas visuotinio akcininkų susirinkimo arba kito vadovą išrinkusio organo protokolas dėl vadovo atšaukimo ir naujo vadovo išrinkimo arba vadovo išrinkimo kitai kadencijai kartu su protokolo priedais.
+Įkėlus dokumentą,  sistema leis jį pasirašyti ir pasirašyti prašymo keisti duomenis formą JAR-1-E. Dokumentams pasirašyti reikia spustelti šalia nepasirašyto dokumento esančią aktyvią nuorodą Pasirašyti. Pasirašius formą JAR-1-E, paslaugą reikia įdėti į krepšelį ir atlikti tiesioginį apmokėjimą  savitarnos svetainėje per elektroninę bankininkystę. Apmokėjus krepšelį, prašymas keisti duomenis pateikiamas Juridinių asmenų registro tvarkytojui ir jo būsena tampa Vykdomas.
+
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys įregistruojami ne vėliau kaip per 3 darbo dienas.
+
+Už duomenų apie naują vadovą įregistravimą mokamas 8,30 euro atlyginimas. Kontaktiniai duomenys keičiami neatlygintinai. Atsiskaitomąsias sąskaitas rasite čia.
