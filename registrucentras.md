@@ -98,3 +98,41 @@ Už  buveinės adreso pakeitimo įregistravimą mokamas 4,15 Eur atlyginimas.
 Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, pakeisti duomenys įregistruojami ne vėliau kaip per 3 darbo dienas.
 
 Kai buveinės adresas yra nurodytas juridinio asmens steigimo dokumente (įstatuose, nuostatuose, statute), pasikeitus juridinio asmens buveinės adresui, kartu turi būti keičiamas steigimo dokumentas (naujame steigimo dokumente buveinės adresas gali būti neįrašomas).
+
+## Kaip pakeisti juridinio asmens steigimo dokumentą (įstatus, nuostatus)?
+
+#### URL: https://info.registrucentras.lt/node/753
+
+ Kaip nurodyta Civilinio kodekso 2.46 straipsnyje, juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus, nuostatus, statutus ar kt., todėl kituose teisės aktuose vartojama sąvoka "steigimo dokumentas"  neapima steigimo akto ar steigimo sutarties. Juridinio asmens steigimo dokumentą  galima pakeisti šiais būdais:  
+
+    tiesiogiai teikiant dokumentus ir duomenis Registrų centro klientų aptarnavimo padalinyje (registruotis vizitui galite čia); 
+    
+    uždarosioms akcinėms bendrovėms, individualioms įmonėms, asociacijoms, viešosioms įstaigoms, labdaros ir paramos fondams bei mažosioms bendrijoms yra sudaryta galimybė pateikti prašymą dėl naujo steigimo dokumento įregistravimo elektroniniu būdu per Registrų centro klientų savitarną.
+
+Teikiant dokumentus popieriniu būdu tiesiogiai Juridinių asmenų registro tvarkytojui, dokumentų ir duomenų teikėjas Juridinių asmenų registro tvarkytojui notaro voke  tiesiogiai arba paštu pateikia:
+
+1. Prašymą forma JAR-1 su notaro tvirtinamuoju įrašu. Notaro tvirtinimas  (ne)reikalingas, kai teikiamas prašymas įregistruoti Juridinių asmenų registro nuostatų 44, 45 punktuose nurodytų teisinių formų juridinių asmenų steigimo dokumentus.
+   
+3. Pakeistą steigimo dokumentą.
+   
+5. Juridinio asmens organo sprendimą pakeisti ir patvirtinti juridinio asmens steigimo dokumentą.
+    
+7. Dokumentus teikiančio asmens tapatybę patvirtinantį dokumentą. Jei dokumentus teikia įgaliotas asmuo, kartu su dokumentais Registro tvarkytojui turi būti pateikiami atstovo įgaliojimus patvirtinantys dokumentai, jeigu įgaliojimas neįregistruotas Įgaliojimų posistemėje. Jeigu dokumentai siunčiami paštu, pridedama vadovo asmens dokumento kopija.
+
+Teikiant prašymą įregistruoti naują steigimo dokumentą elektroniniu būdu per Registrų centro savitarnos sistemą, steigimo dokumentas bus sugeneruotas automatiškai pagal ūkio (šiuo metu - Ekonomikos ir inovacijų ministerija) ar teisingumo ministro įsakymu patvirtintus pavyzdinius steigimo dokumentus.
+
+Prisijungus prie Registrų centro savitarnos sistemos, horizontaliame meniu reikia pasirinkti skiltį Juridinių asmenų registras, kairėje sistemos lango pusėje esančiame meniu reikės pasirinkti laukelius: Juridinio asmens, filialo ir duomenų registravimas, Juridinio asmens, filialo duomenų registravimas, patvirtinus, kad kontaktiniai duomenys teisingi arba įrašius pakeistus kontaktinius duomenis, įrašyti keičiamus duomenis.
+
+Atlikus nurodytus veiksmus, sistema sugeneruos ir leis elektroniniu parašu pasirašyti naują steigimo dokumentą ir prašymo formą JAR-1-E.
+
+Svarbu pažymėti, kad teikiant prašymą keisti steigimo dokumentą elektroniniu būdu, būtina įkelti PDF arba ADOC formatu išsaugotą juridinio asmens organo sprendimą pakeisti juridinio asmens steigimo dokumentą.
+
+Pasirašius sistemos sugeneruotus dokumentus ir, neišėjus iš savitarnos sistemos, sumokėjus nustatyto dydžio atlyginimą per elektroninę bankininkystę, prašymas įregistruoti bus pateiktas Juridinių asmenų registro tvarkytojui.
+
+Juridinių asmenų registro tvarkytojui neradus kliūčių įregistruoti, steigimo dokumentas įregistruojamas ne vėliau kaip per 3 darbo dienas.
+
+Atlyginimas už steigimo dokumento įregistravimą - 19,80  euro.  Teikiant prašymą elektroniniu būdu, mokamas 17,54 euro atlyginimas.
+
+Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti Juridinių asmenų registro tvarkytojui per šešis  mėnesius nuo sprendimo patvirtinti naujus steigimo dokumentus dienos, jeigu įstatymai nenustato kito termino.
+
+Atkreipiame Jūsų dėmesį, kad visais atvejais keičiant akcinės bendrovės ar uždarosios akcinės bendrovės įstatus, akcijos nominali vertė ir įstatinio kapitalo dydis turi būti nurodyti eurais. Žemės ūkio bendrovės įstatuose nustatytas minimalus pajinio įnašo dydis ir kooperatinės bendrovės (kooperatyvo) ar jų sąjungos įstatuose nustatyti minimalaus ir maksimalaus pajaus ir stojamojo mokesčio dydžiai turi būti išreikšti eurais.
