@@ -67,7 +67,7 @@ Atlyginimas už mažosios bendrijos įregistravimą - 17,13 euro.
 
 ## Kokia tvarka keičiama juridinio asmens buveinė? Ar yra galimybė juridinio asmens buveinės adresą pakeisti elektroniniu būdu per Registrų centro savitarną?
 
-#### URL: https://info.registrucentras.lt/node/753
+#### URL: https://info.registrucentras.lt/node/549
 
 Civilinio kodekso 2.49 straipsnyje yra nurodyta, kad juridinio asmens buveine laikoma ta vieta, kurioje yra nuolatinis jo valdymo organas. Juridinio asmens buveinė apibūdinama, nurodant patalpų adresą. Patalpa, kurioje registruojama juridinio asmens buveinė, turi būti įregistruota Nekilnojamojo turto registre. Teisės aktai nenustato, kokios paskirties patalpose gali būti registruojama juridinio asmens buveinė.
 
@@ -101,7 +101,7 @@ Kai buveinės adresas yra nurodytas juridinio asmens steigimo dokumente (įstatu
 
 ## Kaip pakeisti juridinio asmens steigimo dokumentą (įstatus, nuostatus)?
 
-#### URL: https://info.registrucentras.lt/node/753
+#### URL: https://info.registrucentras.lt/node/593
 
  Kaip nurodyta Civilinio kodekso 2.46 straipsnyje, juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus, nuostatus, statutus ar kt., todėl kituose teisės aktuose vartojama sąvoka "steigimo dokumentas"  neapima steigimo akto ar steigimo sutarties. Juridinio asmens steigimo dokumentą  galima pakeisti šiais būdais:  
 
