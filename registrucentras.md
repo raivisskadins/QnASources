@@ -643,7 +643,7 @@ Duomenys apie uždarosios akcinės bendrovės akcininkus ir jų pasikeitimą, ne
 
 ## Kokia yra viešų pranešimų skelbimo Registrų centro elektroniniame leidinyje tvarka?
 
-#### URL: https://info.registrucentras.lt/content/843
+#### URL: https://info.registrucentras.lt/node/843
 
 Viešų pranešimų skelbimo elektroniniame leidinyje tvarka yra nustatyta Lietuvos Respublikos Vyriausybės 2010-07-21 nutarimu Nr. 1056.
 
@@ -659,7 +659,7 @@ Pranešimas paskelbiamas kitą kalendorinę dieną  po to, kai pateikiamas praš
 
 ## Kokius veiksmus reikia atlikti, norint įsteigti asociaciją?
 
-#### URL: https://info.registrucentras.lt/content/898
+#### URL: https://info.registrucentras.lt/node/898
 
 Asociacija steigiama ir veikia Lietuvos Respublikos asociacijų įstatymo nustatyta tvarka.
 
@@ -681,7 +681,7 @@ ESI galioja iki duomenų ar informacijos pakeitimo Juridinių asmenų registre. 
 
 ## Kokių veiksmų reikia imtis, gavus pranešimą, kad yra nutrauktas elektroninio sertifikuoto Juridinių asmenų registro išrašo (ESI) galiojimas?
 
-#### URL: https://info.registrucentras.lt/content/461
+#### URL: https://info.registrucentras.lt/node/461
 
 Juridinių asmenų registro elektroninis sertifikuotas išrašas (ESI) yra aktualių duomenų išrašas ir galioja iki duomenų, informacijos ar dokumentų pakeitimų įregistravimo Juridinių asmenų registre (pvz.: įregistravus naujo vadovo duomenis, pakeitus kitus registruojamus duomenis ir informaciją, įregistravus naujus ar pakeistus dokumentus).
  
@@ -693,7 +693,7 @@ Jeigu juridinis asmuo, filialas ar atstovybė naudojasi ESI (prieigos raktu), re
 
 ## Ar popieriuje atsispausdintą elektroninį sertifikuotą išrašą (ESI) galima pateikti tretiesiems asmenims kaip oficialų dokumentą?
 
-#### URL: https://info.registrucentras.lt/content/592
+#### URL: https://info.registrucentras.lt/node/592
 
 Elektroninis sertifikuotas Juridinių asmenų registro išrašas (ESI) yra oficialus dokumentas, kuris galioja elektroninėje erdvėje. Kaip reglamentuoja Civilinio kodekso 4.262 straipsnis, į viešą registrą įrašyti duomenys laikomi teisingais ir išsamiais. ESI (prieigos raktas) išduodamas atlygintinai (1,92 Eur), išskyrus teisės aktų nustatytas išimtis. Naujai įregistruotam juridiniam asmeniui ESI išduodamas neatlygintinai.
 
@@ -705,7 +705,7 @@ Jeigu yra reikalingas popieriuje atspausdintas ir Registro tvarkytojo spaudu ir 
 
 ## Kaip pasirašyti savininko sutikimą suteikti patalpas elektroniniu būdu steigiamo juridinio asmens buveinei registruoti arba keičiant juridinio asmens buveinę?
 
-#### URL: https://info.registrucentras.lt/content/922
+#### URL: https://info.registrucentras.lt/node/922
 
 Steigiant juridinį asmenį elektroniniu būdu, kai numatomos patalpos juridinio asmens buveinei registruoti vienasmeniškai nepriklauso steigėjui jo nuosavybės teise, turi būti  kvalifikuotu elektroniniu parašu pasirašytas patalpų savininko (visų savininkų ar bendraturčių)  Sutikimas suteikti patalpas juridinio asmens buveinei. Prašymą įregistruoti juridinį asmenį teikiantis steigėjas turi sistemoje pridėti visus patalpų savininkus, duomenis įrašydamas atitinkamose grafose. Patalpų savininkai gali pasirašyti Sutikimą suteikti patalpas juridinio asmens buveinei, prisijungę prie Registrų centro savitarnos sistemos (nesvarbu, prie kokio kompiuterio) ir pasirinkę - Juridinių asmenų registras. Paspaudus nuorodą Mano dokumentai, bus matomas nustatytos formos Sutikimas suteikti patalpas Juridinio asmens buveinei, kurį patalpų savininkas turi pasirašyti elektroniniu parašu (kai yra keli patalpų savininkai, pasirašyti sutikimą patalpų savininkai turi ne vienu metu, bet vienas po kito).
 
@@ -721,7 +721,7 @@ Sutikimas suteikti patalpas Juridinio asmens buveinei tokiu pat būdu pasirašom
 
 ## Kokius veiksmus reikia atlikti, norint įsteigti individualią įmonę?
 
-#### URL: https://info.registrucentras.lt/content/468
+#### URL: https://info.registrucentras.lt/node/468
 
 Individuali įmonė steigiama ir veikia Lietuvos Respublikos individualių įmonių įstatymo nustatyta tvarka.
 
@@ -753,7 +753,7 @@ Atlyginimas už individualios įmonės įregistravimą, teikiant prašymą popie
 
 ## Kaip išregistruoti juridinio asmens buveinę iš savininkui priklausančių patalpų?
 
-#### URL: https://info.registrucentras.lt/content/516
+#### URL: https://info.registrucentras.lt/node/516
 
 Patalpų, kuriose įregistruota juridinio asmens buveinė, savininkas turi teisę kreiptis į Juridinių asmenų registro tvarkytoją asmeniškai (iš anksto registruotis galite čia) arba  paštu  su prašymu išregistruoti iš Registro juridinio asmens buveinę iš jam nuosavybės teise priklausančių patalpų. Prašymą gavęs Registro tvarkytojas, išsiunčia pranešimą apie numatomą buveinės išregistravimą Registre nurodytais valdymo organų narių adresais ir Registro tvarkytojo leidžiamame elektroniniame informaciniame leidinyje paskelbia informaciją apie gautą patalpų savininko prašymą dėl buveinės išregistravimo. Pranešime apie numatomą buveinės išregistravimą taip pat pateikiama informacija apie galimą juridinio asmens likvidavimą Civilinio kodekso 2.70 straipsnyje nustatyta tvarka. Jeigu juridinis asmuo per šešis mėnesius nuo pranešimo išsiuntimo ar informacijos apie gautą patalpų savininko prašymą dėl buveinės išregistravimo paskelbimo Registro tvarkytojo leidžiamame elektroniniame informaciniame leidinyje nepakeičia buveinės, Registro tvarkytojas išregistruoja juridinio asmens buveinę ir nurodo, kad juridinio asmens buveinė išregistruota patalpų savininko prašymu.
 
