@@ -1,10 +1,3 @@
-(url)[http://tilde.lv]
-
-(tag)[]
-
-[#tilde](https://www.tilde.lv)
-
-
 # Juridinių asmenų registras
 
 ## Kaip pateikti metines finansines ataskaitas Registrų centrui? Kokie nustatyti terminai?
