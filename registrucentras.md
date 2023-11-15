@@ -1,6 +1,6 @@
-(#url)[http://tilde.lv]
+(url)[http://tilde.lv]
 
-(#tag)[]
+(tag)[]
 
 [tilde](https://www.tilde.lv)
 
