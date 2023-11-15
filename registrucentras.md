@@ -4,6 +4,8 @@
 
 #### URL: https://info.registrucentras.lt/node/4053
 
+[Tilde](https://www.tilde.lv) is IT company
+
 Informuojame, kad finansinių ataskaitų rinkinius gali teikti juridinio asmens vadovas ar įgaliotas asmuo, prisijungę prie sistemos  per elektroninės bankininkystės sistemą arba kvalifikuotu sertifikatu patvirtintu elektroniniu parašu. Finansinių ataskaitų rinkinio pateikimo tvarką rasite Registrų centro tinklalapyje pagal šią nuorodą.
 
 Verslo apskaitos standartus, jų taikymo metodines rekomendacijas rasite Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos interneto svetainėje. Konsultacijų konkrečiais verslo apskaitos standartų taikymo, finansinių ataskaitų sudarymo klausimais rekomenduojame kreiptis į minėtą tarnybą.
