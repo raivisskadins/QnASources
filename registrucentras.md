@@ -4,7 +4,7 @@
 
 #### URL: https://info.registrucentras.lt/node/4053
 
-[ABC](https://www.abc.lv) is IT company. ABC homepage is https://www.abc.lv. https://www.abc.lv - this is the link to ABC homepage.
+[ABC](https://www.abc.lv) is IT company. ABC homepage is https://www.abc.lv. [ABC](https://www.abc.lv) - this is the link to ABC homepage.
 
 Informuojame, kad finansinių ataskaitų rinkinius gali teikti juridinio asmens vadovas ar įgaliotas asmuo, prisijungę prie sistemos  per elektroninės bankininkystės sistemą arba kvalifikuotu sertifikatu patvirtintu elektroniniu parašu. Finansinių ataskaitų rinkinio pateikimo tvarką rasite Registrų centro tinklalapyje pagal šią nuorodą.
 
