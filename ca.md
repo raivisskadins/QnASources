@@ -12,7 +12,7 @@ Jautājums ir: Kas raksturo valsts gatavību ārkārtas situācijām?
 
 # Kādi ir Civilās aizsardzības sistēmas uzdevumi valstī?
 
-Jautājums ir: Kādi ir Civilās aizsardzības sistēmas uzdevumi valstī? Atbilde ir: Pārvaldīt katastrofas, sniegt palīdzību cietušajiem, samazināt katastrofu radīto kaitējumu, atbalstīt ar resursiem
+Civilās aizsardzības sistēmas uzdevumi valstī ir: Pārvaldīt katastrofas, sniegt palīdzību cietušajiem, samazināt katastrofu radīto kaitējumu, atbalstīt ar resursiem
 
 # Kas ir atbildīgs par Civilās aizsardzības sistēmu Latvijā?
 
