@@ -2,79 +2,79 @@
 
 ## Asiņošana
 
- Asiņošana ir asins zudums no asinsrites sistēmas, ko izraisa bojāti asinsvadi. Cilvēka ķermeņa asinsrites sistēma nodrošina orgānu šūnām skābekli un uzturvielas. Pieaugušam cilvēkam ir 4-6 litri asiņu. Parasti veselam cilvēkam bez nopietnām medicīniskām grūtībām ir iespējams izturēt 10-15% zudumu no kopējā asins tilpuma. Asiņu zaudējums lielākos apjomos var izraisīt nopietnus orgānu bojājumus, it īpaši galvas smadzeņu bojājumus, kas var novest pie bezsamaņas un nāves.
+Asiņošana ir asins zudums no asinsrites sistēmas, ko izraisa bojāti asinsvadi. Cilvēka ķermeņa asinsrites sistēma nodrošina orgānu šūnām skābekli un uzturvielas. Pieaugušam cilvēkam ir 4-6 litri asiņu. Parasti veselam cilvēkam bez nopietnām medicīniskām grūtībām ir iespējams izturēt 10-15% zudumu no kopējā asins tilpuma. Asiņu zaudējums lielākos apjomos var izraisīt nopietnus orgānu bojājumus, it īpaši galvas smadzeņu bojājumus, kas var novest pie bezsamaņas un nāves.
 
 Jebkurā stipras asiņošanas gadījumā jārīkojas kā dzīvībai bīstamā asiņošanas gadījumā! 
 
-Dzīvībai bīstamas asiņošanas pazīmes:  redzams daudz asiņu; ir asiņainas drēbes; asinis tek ar straumi.  Attēls: bīstamas stipras asiņošanas apturēšana apakšdelmā.
+Dzīvībai bīstamas asiņošanas pazīmes: redzams daudz asiņu; ir asiņainas drēbes; asinis tek ar straumi. Attēls: bīstamas stipras asiņošanas apturēšana apakšdelmā.
 
-Palīdzība stipras asiņošanas gadījumā:  Uzvelciet rokās vienreizlietojamos gumijas cimdus vai izmantojiet cita ūdens necaurlaidīga materiāla aizsardzību (piemēram, plastikāta maisiņu). Atbrīvojiet asiņojošo vietu no apģērba. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu. Noguldiet cietušo guļus ar asiņojošo vietu uz augšu. Pārliecinieties, ka asiņošana ir apturēta. Ja asiņošana turpinās, piespiediet brūci stiprāk, ja iespējams, uzliekot vēl marles salveti vai drēbes gabalu pa virsu esošajam materiālam. Izsauciet ātro palīdzību. Turiet brūci aizspiestu līdz ātrās palīdzības atbraukšanai. Neļaujiet atdzist cietušajam, pasargājiet no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.  Palīdzība stipras asiņošanas gadījumos rokā vai kājā, kad ir pieejami pārsienamie materiāli:  Uzvelciet rokās vienreizlietojamos gumijas cimdus vai izmantojiet cita ūdens necaurlaidīga materiāla aizsardzību (piemēram, plastikāta maisiņu). Atbrīvojiet asiņojošo vietu no apģērba. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu. Noguldiet cietušo guļus ar asiņojošo vietu uz augšu. Uzlieciet spiedošo pārsēju. Uzlieciet uz brūces marles kompresi. Marles kompresi piesieniet ar saiti 2-3 reizes. Uzlieciet spiedošo priekšmetu tieši uz asiņojošās vietas, piesieniet to ar saiti 2-3 reizes. Pārliecinieties, vai asiņošana ir apturēta. Ja asiņošana turpinās, papildiniet spiedošā pārsēja konstrukciju ar vēl vienu spiedošo priekšmetu. Pārliecinieties, ka asiņošana ir apturēta. Izsauciet ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet no apkārtējas vides iedarbības. Aprūpējiet, nomieriniet cietušo.  Žņauga izmantošana  Žņaugs ir galējais līdzeklis, ko dzīvībai bīstamas asiņošanas apturēšanai rokā vai kājā izmanto tikai tad, ja brūces aizspiešana vai spiedošs pārsējs nav efektīvi vai ja nav iespējams tos izmantot. Iemesls: žņaugs aizspiež visus, arī veselos asinsvadus zemāk no uzlikšanas vietas, pārtraucot normālo vielmaiņu rokā vai kājā zemāk no uzlikšanas vietas. Nepareizi uzlikts žņaugs var palielināt asins zudumu.  Kļūdas:  Cietušais netiek noguldīts. Brūces dezinficēšana. Pārsēja noraušana. Žņauga izmantošana, neizmēģinot asiņošanas apturēšanu ar aizspiešanas metodi vai spiedošo pārsēju. Ātrās palīdzības izsaukšana pirms asiņošanas apturēšanas.  Video: https://www.youtube.com/watch?v=nKvV1nDdSD4 Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC. Asiņošana" 14.07.2017
+Palīdzība stipras asiņošanas gadījumā: Uzvelciet rokās vienreizlietojamos gumijas cimdus vai izmantojiet cita ūdens necaurlaidīga materiāla aizsardzību (piemēram, plastikāta maisiņu). Atbrīvojiet asiņojošo vietu no apģērba. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu. Noguldiet cietušo guļus ar asiņojošo vietu uz augšu. Pārliecinieties, ka asiņošana ir apturēta. Ja asiņošana turpinās, piespiediet brūci stiprāk, ja iespējams, uzliekot vēl marles salveti vai drēbes gabalu pa virsu esošajam materiālam. Izsauciet ātro palīdzību. Turiet brūci aizspiestu līdz ātrās palīdzības atbraukšanai. Neļaujiet atdzist cietušajam, pasargājiet no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Palīdzība stipras asiņošanas gadījumos rokā vai kājā, kad ir pieejami pārsienamie materiāli: Uzvelciet rokās vienreizlietojamos gumijas cimdus vai izmantojiet cita ūdens necaurlaidīga materiāla aizsardzību (piemēram, plastikāta maisiņu). Atbrīvojiet asiņojošo vietu no apģērba. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu. Noguldiet cietušo guļus ar asiņojošo vietu uz augšu. Uzlieciet spiedošo pārsēju. Uzlieciet uz brūces marles kompresi. Marles kompresi piesieniet ar saiti 2-3 reizes. Uzlieciet spiedošo priekšmetu tieši uz asiņojošās vietas, piesieniet to ar saiti 2-3 reizes. Pārliecinieties, vai asiņošana ir apturēta. Ja asiņošana turpinās, papildiniet spiedošā pārsēja konstrukciju ar vēl vienu spiedošo priekšmetu. Pārliecinieties, ka asiņošana ir apturēta. Izsauciet ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet no apkārtējas vides iedarbības. Aprūpējiet, nomieriniet cietušo. Žņauga izmantošana Žņaugs ir galējais līdzeklis, ko dzīvībai bīstamas asiņošanas apturēšanai rokā vai kājā izmanto tikai tad, ja brūces aizspiešana vai spiedošs pārsējs nav efektīvi vai ja nav iespējams tos izmantot. Iemesls: žņaugs aizspiež visus, arī veselos asinsvadus zemāk no uzlikšanas vietas, pārtraucot normālo vielmaiņu rokā vai kājā zemāk no uzlikšanas vietas. Nepareizi uzlikts žņaugs var palielināt asins zudumu. Kļūdas: Cietušais netiek noguldīts. Brūces dezinficēšana. Pārsēja noraušana. Žņauga izmantošana, neizmēģinot asiņošanas apturēšanu ar aizspiešanas metodi vai spiedošo pārsēju. Ātrās palīdzības izsaukšana pirms asiņošanas apturēšanas. Video: https://www.youtube.com/watch?v=nKvV1nDdSD4 Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC. Asiņošana" 14.07.2017
 
 ## Šoks
 
- Šoks izraisa nepietiekamu skābekļa apgādi dzīvībai svarīgos orgānos, kas var novest pie to bojājuma. Šoka gadījumā attīstās kritiski zemas orgānu apgādes ar asinīm stāvoklis ar stipri samazinātu audu skābekļa piegādi, kā rezultātā attīstās nespēja uzturēt vielmaiņu. Katrs nelaimes gadījums var izraisīt šoku un katrs šoks var apdraudēt cietušā dzīvību.Šoku var izraisīt:asins zudums; sāpes (viss, kas var izraisīt sāpes, var izraisīt šoku).  Attēls. Dzīvībai bīstama asiņošana
+ Šoks izraisa nepietiekamu skābekļa apgādi dzīvībai svarīgos orgānos, kas var novest pie to bojājuma. Šoka gadījumā attīstās kritiski zemas orgānu apgādes ar asinīm stāvoklis ar stipri samazinātu audu skābekļa piegādi, kā rezultātā attīstās nespēja uzturēt vielmaiņu. Katrs nelaimes gadījums var izraisīt šoku un katrs šoks var apdraudēt cietušā dzīvību.Šoku var izraisīt:asins zudums; sāpes (viss, kas var izraisīt sāpes, var izraisīt šoku). Attēls. Dzīvībai bīstama asiņošana
 
 Attēls. Sāpes pie kaulu lūzuma ar apakšdelma deformāciju.
 
-Palīdzība – neļaut attīstīties šokam:  Novērsiet vai ierobežojiet šoka cēloni (apturiet asiņošanu, nepastipriniet sāpes ar savu rīcību – nemēģiniet kustināt kaulu lūzumā deformēto roku vai kāju). Atstājiet vai novietojiet cietušo guļus. Izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.  Kļūdas:  Traumētās vietas kustināšana. Stiprināšana ar cietiem priekšmetiem. Mēģinājums nokļūt ārstniecības iestādē, ja lūzuma vieta nav nostiprināta. Ātrās palīdzības izsaukšana pirms novērsts vai ierobežots šoka cēlonis.  Video:
+Palīdzība – neļaut attīstīties šokam: Novērsiet vai ierobežojiet šoka cēloni (apturiet asiņošanu, nepastipriniet sāpes ar savu rīcību – nemēģiniet kustināt kaulu lūzumā deformēto roku vai kāju). Atstājiet vai novietojiet cietušo guļus. Izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Kļūdas: Traumētās vietas kustināšana. Stiprināšana ar cietiem priekšmetiem. Mēģinājums nokļūt ārstniecības iestādē, ja lūzuma vieta nav nostiprināta. Ātrās palīdzības izsaukšana pirms novērsts vai ierobežots šoka cēlonis. Video:
 
 Palīdzība, ja lauzta roka vai kāja: https://youtu.be/975JKZhUE3oAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC - Ko darīt, ja lauzta roka vai kāja". 07.07.2017
 
 ## Termiskie bojājumi
 
- Pārkaršana Apdegumi Pašpārbaudes tests – Apdegumi Rīcība ugunsgrēka laikā Pašpārbaudes tests – Rīcība ugunsgrēka laikā Atdzišana Pašpārbaudes tests – Atdzišana Apsaldējumi Pašpārbaudes tests – Apsaldējumi  
+ Pārkaršana Apdegumi Pašpārbaudes tests – Apdegumi Rīcība ugunsgrēka laikā Pašpārbaudes tests – Rīcība ugunsgrēka laikā Atdzišana Pašpārbaudes tests – Atdzišana Apsaldējumi Pašpārbaudes tests – Apsaldējumi 
 
 ## Pārkaršana
 
  Pārkaršana (karstuma dūriens) var izraisīt smagus veselības traucējumus un ir bīstama cietušā dzīvībai. Karstuma dūriens ir stāvoklis, kas rodas, kad organisms pārkarsējas un vairs nespēj sevi dzesēt un tā termoregulācija "nobrūk". Saules dūriens ir karstuma dūriena veids, ko izraisa pārāk ilgstoša uzturēšanās tiešos saules staros. Tā ietekmē paplašinās zemādas asinsvadi, radot asins sastrēgumus, nieru bojājumus un smadzeņu tūsku, kas smagākos gadījumos var izraisīt asinsvadu plīsumus un asinsizplūdumu.
 
-Veicinošie apstākļi:bezvējš; nepietiekoši uzņemts šķidrums; karstums; mitrums; neatbilstošs apģērbs; fiziskā slodze.  Pazīmes:karsta āda, augsta temperatūra; apziņas traucējumi, krampji; ātrs, vājš pulss; ātra elpošana; āda var būt gan sausa, gan slapja.  Profilakse:karstos apstākļos ilgstoši neuzturieties ārā, īpaši laika posmā no pulksten 12 līdz 15; valkājiet karstam laikam piemērotu apģērbu – gaišas, vieglas drēbes no dabīga materiāla; uzturoties saulē, valkājiet galvassegu; dienā izdzeriet vismaz 2 -3 litrus ūdens, fiziskās slodzes apstākļos – vēl vairāk; ja esat pārkārsis, nedrīkst iet peldēties aukstā ūdenī; izvairieties no smagas fiziskās slodzes karstās, nevēdinātās telpās; regulāri ejiet vēsā dušā vai atvēsinieties ar vēsu ūdeni, kaut vai mitrinot seju; karstos apstākļos samaziniet kafijas un stipras tējas patēriņu, kas veicina organisma dehidratāciju; izvairieties no alkohola lietošanas.  Palīdzība:novietojiet cietušo vēsākā vietā vai ēnā pusguļus; atbrīvojiet cietušo no bieza apģērba; mitriniet cietušā seju, kaklu un krūtis ar vēsu ūdens kompresi; dodiet cietušajam dzert vēsu ūdeni; vēdiniet, dzesējiet, radiet gaisa plūsmu; ja pašsajūta neuzlabojas, izsauciet ātro palīdzību; ja cietušais ir bērns vai senjors, obligāti izsauciet ātro palīdzību.  
+Veicinošie apstākļi:bezvējš; nepietiekoši uzņemts šķidrums; karstums; mitrums; neatbilstošs apģērbs; fiziskā slodze. Pazīmes:karsta āda, augsta temperatūra; apziņas traucējumi, krampji; ātrs, vājš pulss; ātra elpošana; āda var būt gan sausa, gan slapja. Profilakse:karstos apstākļos ilgstoši neuzturieties ārā, īpaši laika posmā no pulksten 12 līdz 15; valkājiet karstam laikam piemērotu apģērbu – gaišas, vieglas drēbes no dabīga materiāla; uzturoties saulē, valkājiet galvassegu; dienā izdzeriet vismaz 2 -3 litrus ūdens, fiziskās slodzes apstākļos – vēl vairāk; ja esat pārkārsis, nedrīkst iet peldēties aukstā ūdenī; izvairieties no smagas fiziskās slodzes karstās, nevēdinātās telpās; regulāri ejiet vēsā dušā vai atvēsinieties ar vēsu ūdeni, kaut vai mitrinot seju; karstos apstākļos samaziniet kafijas un stipras tējas patēriņu, kas veicina organisma dehidratāciju; izvairieties no alkohola lietošanas. Palīdzība:novietojiet cietušo vēsākā vietā vai ēnā pusguļus; atbrīvojiet cietušo no bieza apģērba; mitriniet cietušā seju, kaklu un krūtis ar vēsu ūdens kompresi; dodiet cietušajam dzert vēsu ūdeni; vēdiniet, dzesējiet, radiet gaisa plūsmu; ja pašsajūta neuzlabojas, izsauciet ātro palīdzību; ja cietušais ir bērns vai senjors, obligāti izsauciet ātro palīdzību. 
 
-Kļūdas:atstāšana karstā saulē; saldināti dzērieni, alkohols; dot dzert ļoti aukstu ūdeni; atvēsināšana aukstā, ledainā ūdenī.  Video: https://www.youtube.com/watch?v=FdDGpmTZhmQ Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC. Pārkaršana" 10.08.2017  
+Kļūdas:atstāšana karstā saulē; saldināti dzērieni, alkohols; dot dzert ļoti aukstu ūdeni; atvēsināšana aukstā, ledainā ūdenī. Video: https://www.youtube.com/watch?v=FdDGpmTZhmQ Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC. Pārkaršana" 10.08.2017 
 
 ## Apdegumi
 
  Apdegumi ir audu bojājumi, kas radušies augstas temperatūras iedarbībā. Apdegumiem raksturīgi ādas bojājumi, kas izraisa skarto ādas šūnu bojāeju. Pat neliels, bet dziļš apdegums var būt dzīvībai bīstams.
 
-Palīdzība:Pēc iespējas ātrāk apdegušo vietu dzesējiet ar vēsu (+15°C līdz +25°C), tekošu ūdeni vismaz 10 minūtes; lejiet ūdeni starp apģērbu un ādu. Dzesēšanas laikā uzmanīgi novelciet no cietušā traumētās ķermeņa daļas apģērbu, apavus, gredzenus. Apdegumu brīvi pārklājiet ar marles salveti, pārtikas plēvi vai folijas segu. Meklējiet mediķu konsultāciju, ja apdegums lielāks par cietušā plaukstu, izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.  Īpašie gadījumi:
+Palīdzība:Pēc iespējas ātrāk apdegušo vietu dzesējiet ar vēsu (+15°C līdz +25°C), tekošu ūdeni vismaz 10 minūtes; lejiet ūdeni starp apģērbu un ādu. Dzesēšanas laikā uzmanīgi novelciet no cietušā traumētās ķermeņa daļas apģērbu, apavus, gredzenus. Apdegumu brīvi pārklājiet ar marles salveti, pārtikas plēvi vai folijas segu. Meklējiet mediķu konsultāciju, ja apdegums lielāks par cietušā plaukstu, izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Īpašie gadījumi:
 
-Sejas apdegumu gadījumā vienmēr apdeg elpceļi.Ja cietušajam ir elpceļu apdegums, vienmēr zvaniet Ātrai palīdzībai, jo draud smakšana.  Ja aizdedzies apģērbs:degošo cilvēku novietojiet uz zemes; noslāpējiet liesmu ar dabīga auduma (nesintētisku) segu, vārtot vai aplejot cietušo ar ūdeni; varat lietot speciālās ugunsdzēšanas ierīces, bet dariet to, saudzējot seju.  Kļūdas:dzesēšana ar ledu (tiešā saskarsmē); krējums, sviests, eļļa apdeguma vietā; olas baltums apdeguma vietā; pārsiešana; pielipušu, piedegušu apģērbu noraušana; pūšļu atvēršana; ziedes, pūderi, dezinfekcijas līdzekļi apdeguma vietā.  
+Sejas apdegumu gadījumā vienmēr apdeg elpceļi.Ja cietušajam ir elpceļu apdegums, vienmēr zvaniet Ātrai palīdzībai, jo draud smakšana. Ja aizdedzies apģērbs:degošo cilvēku novietojiet uz zemes; noslāpējiet liesmu ar dabīga auduma (nesintētisku) segu, vārtot vai aplejot cietušo ar ūdeni; varat lietot speciālās ugunsdzēšanas ierīces, bet dariet to, saudzējot seju. Kļūdas:dzesēšana ar ledu (tiešā saskarsmē); krējums, sviests, eļļa apdeguma vietā; olas baltums apdeguma vietā; pārsiešana; pielipušu, piedegušu apģērbu noraušana; pūšļu atvēršana; ziedes, pūderi, dezinfekcijas līdzekļi apdeguma vietā. 
 
 Video: https://youtu.be/iqo4uZIibns Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC. Apdegumi, applaucēšanās" 04.08.2017
 
 ## Rīcība ugunsgrēka laikā
 
- Apstākļi, kas ietekmē rīcību ugunsgrēka laikā:tumsa; dūmi un gāzes; karstums; laiks.  Jārēķinās ar 30 sekundēm, lai nodzēstu ugunsgrēku vai glābtos pats.
+ Apstākļi, kas ietekmē rīcību ugunsgrēka laikā:tumsa; dūmi un gāzes; karstums; laiks. Jārēķinās ar 30 sekundēm, lai nodzēstu ugunsgrēku vai glābtos pats.
 
-Rīcība:  pārvietojieties rāpus uz durvju pusi; pārbaudiet, vai durvis ir karstas.  Ja durvis ir karstas, neatveriet tās (nav iespējams evakuēties):durvju spraugas var aizbāzt ar mitriem dvieļiem, segām vai palagiem; rāpojiet uz loga pusi, nedaudz to atverot un elpojot gaisu, atrodoties zemu pie atvērtā loga; lekt ārā pa logu, ja esat augstāk par pirmo stāvu, ir bīstami, drošāk ir gaidīt palīdzību; lieciet apkārtējiem zināt, kur atrodaties, izkariet pa atvērto logu dvieli, palagu vai citu auduma gabalu, sauciet palīgā.  Ja durvis nav karstas, lēni atveriet tās (ir iespēja evakuēties):aizveriet logus un durvis; atstājiet dzīvokli, paņemot līdzi atslēgas; pametiet māju pēc iespējas ātrāk; izmantojiet tikai kāpnes; kad esat drošībā, izsauciet Glābšanas dienestu, zvanot uz tālruni 112.  
+Rīcība: pārvietojieties rāpus uz durvju pusi; pārbaudiet, vai durvis ir karstas. Ja durvis ir karstas, neatveriet tās (nav iespējams evakuēties):durvju spraugas var aizbāzt ar mitriem dvieļiem, segām vai palagiem; rāpojiet uz loga pusi, nedaudz to atverot un elpojot gaisu, atrodoties zemu pie atvērtā loga; lekt ārā pa logu, ja esat augstāk par pirmo stāvu, ir bīstami, drošāk ir gaidīt palīdzību; lieciet apkārtējiem zināt, kur atrodaties, izkariet pa atvērto logu dvieli, palagu vai citu auduma gabalu, sauciet palīgā. Ja durvis nav karstas, lēni atveriet tās (ir iespēja evakuēties):aizveriet logus un durvis; atstājiet dzīvokli, paņemot līdzi atslēgas; pametiet māju pēc iespējas ātrāk; izmantojiet tikai kāpnes; kad esat drošībā, izsauciet Glābšanas dienestu, zvanot uz tālruni 112. 
 
-Kļūdas:degšanas perēkļu meklēšana; ūdens liešana uz elektroierīcēm; ūdens liešana uz karstas pannas; skriešana stāvus cauri dūmiem; strauja loga atvēršana; liftu izmantošana, lai izkļūtu no mājas; dūmu detektoru neesamība.  Video: https://youtu.be/YPZBwerrap4 Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ugunsgrēks. 17.07.2017  
+Kļūdas:degšanas perēkļu meklēšana; ūdens liešana uz elektroierīcēm; ūdens liešana uz karstas pannas; skriešana stāvus cauri dūmiem; strauja loga atvēršana; liftu izmantošana, lai izkļūtu no mājas; dūmu detektoru neesamība. Video: https://youtu.be/YPZBwerrap4 Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ugunsgrēks. 17.07.2017 
 
 ## Atdzišana
 
  Atdzišanu (hipotermiju) izraisa ilgstoša ļoti zema temperatūra. Ja tiek pakļauts zemai temperatūrai, ķermenis sāk zaudēt siltumu ātrāk, nekā tas tiek ražots. Ilgstoša aukstuma iedarbība galu galā iztērēs ķermeņa uzkrāto enerģiju, kas novedīs pie zemākas ķermeņa temperatūras, krītoties līdz 35°C un zemāk, kas tiek uzskatīts par ķermeņa atdzišanu (hipotermiju). Sirdsdarbība (pulss) un elpošana kļūst arvien retāka un galu galā apstājas, jo aukstums ietekmē attiecīgos centrus smadzenēs.
 
-Veicinošie apstākļi:aukstums; mitrums; vējš; alkohols; neatbilstošs apģērbs; nespēja kustēties.  
+Veicinošie apstākļi:aukstums; mitrums; vējš; alkohols; neatbilstošs apģērbs; nespēja kustēties. 
 
-Pazīmes:drebuļi; trīcošas rokas un/vai kustību samazināšanās; neskaidra runa; pēkšņs izsīkums vai zems aktivitātes līmenis; pēkšņs apjukums (nespēja skaidri domāt).  Ķermeņa temperatūras izmaiņas atdziestot:
+Pazīmes:drebuļi; trīcošas rokas un/vai kustību samazināšanās; neskaidra runa; pēkšņs izsīkums vai zems aktivitātes līmenis; pēkšņs apjukums (nespēja skaidri domāt). Ķermeņa temperatūras izmaiņas atdziestot:
 
-Ķermeņa atdzišana, atrodoties ūdenī:Ūdens temperatūra  Bezsamaņas stāvokļa iestāšanās Nāves iestāšanās  0°C 15 min. 15 min. – 1 st.  10°C 30 min – 1 st. 1 – 2 st.  15°C 2 – 4 st. 6 – 8 st.  20°C 3 – 7 st. -  25°C 12 st. -  30°C 70 st. -     Palīdzība:izsauciet Ātro palīdzību; novietojiet cietušo siltā telpā vai vismaz aizvējā; atbrīvojiet cietušo no mitrām drēbēm, apaviem; sasedziet ar siltām, sausām drēbēm un tad ietiniet folijas segā; izmēriet ķermeņa temperatūru, ja ir termometrs; ja cietušajam nav traucēta apziņa, dodiet siltus, cukurotus dzērienus; veiciet atdzīvināšanas pasākumus, ja nepieciešams.  
+Ķermeņa atdzišana, atrodoties ūdenī:Ūdens temperatūra Bezsamaņas stāvokļa iestāšanās Nāves iestāšanās 0°C 15 min. 15 min. – 1 st. 10°C 30 min – 1 st. 1 – 2 st. 15°C 2 – 4 st. 6 – 8 st. 20°C 3 – 7 st. - 25°C 12 st. - 30°C 70 st. - Palīdzība:izsauciet Ātro palīdzību; novietojiet cietušo siltā telpā vai vismaz aizvējā; atbrīvojiet cietušo no mitrām drēbēm, apaviem; sasedziet ar siltām, sausām drēbēm un tad ietiniet folijas segā; izmēriet ķermeņa temperatūru, ja ir termometrs; ja cietušajam nav traucēta apziņa, dodiet siltus, cukurotus dzērienus; veiciet atdzīvināšanas pasākumus, ja nepieciešams. 
 
-Kļūdas:ātrās palīdzības neizsaukšana; rīvēšana un berzēšana; bez vajadzības kustināt rokas un kājas; karsta duša vai vanna; sēdināt vai likt staigāt; alkohols (paplašinot asinsvadus, veicina atdzišanu).  Video: https://youtu.be/IYIjtQIjSH0Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķermeņa atdzišana. 28.08.2017
+Kļūdas:ātrās palīdzības neizsaukšana; rīvēšana un berzēšana; bez vajadzības kustināt rokas un kājas; karsta duša vai vanna; sēdināt vai likt staigāt; alkohols (paplašinot asinsvadus, veicina atdzišanu). Video: https://youtu.be/IYIjtQIjSH0Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķermeņa atdzišana. 28.08.2017
 
 ## Apsaldējumi
 
  Apsaldējums ir aukstuma trauma, kas izraisa vietēju virspusēju vai dziļu audu bojājumu. Tas var rasties ne tikai tad, kad āra t° ir zemāka par 0°, bet arī +4°, +8° un pat augstākā t°, it īpaši tad, ja aukstums iedarbojas ilgstoši. Aukstuma iedarbībā asinsvadi sašaurinās, līdz ar to tiek traucēta audu asins apgāde. Ar laiku asinsvados izveidojas trombi, asinsrite apsaldētajā apvidū kļūst neiespējama un cietušie audi iet bojā. Visbiežāk apsalst ausis, seja, deguns, roku un kāju pirksti.
 
-Apsaldētās vietas pazīmes:bāla āda; dedzinošas vai durstošas sāpes; jušanas samazināšanās.  Palīdzība:nogādājiet cietušo siltā telpā; atģērbiet cietušo no cieši pieguļošām drēbēm, apaviem; ietiniet apsaldētās ķermeņa daļas sausā apģērbā; dodiet cietušajam dzert siltus, cukurotus dzērienus; izsauciet Ātro palīdzību.  
+Apsaldētās vietas pazīmes:bāla āda; dedzinošas vai durstošas sāpes; jušanas samazināšanās. Palīdzība:nogādājiet cietušo siltā telpā; atģērbiet cietušo no cieši pieguļošām drēbēm, apaviem; ietiniet apsaldētās ķermeņa daļas sausā apģērbā; dodiet cietušajam dzert siltus, cukurotus dzērienus; izsauciet Ātro palīdzību. 
 
 Nedodiet cietušajam alkoholu, nemasējiet, neberzējiet un nesildiet apsaldētās vietas.
 
-Kļūdas:ātrās palīdzības neizsaukšana; rīvēšana un berzēšana; sildīšana ar karstu ūdeni vai radiatoriem; ārstēšanās mājas apstākļos; sēdināt vai likt staigāt; alkohola lietošana.  Video: https://youtu.be/GgpD_sOYsxs Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Apsaldējumi. 29.08.2017  
+Kļūdas:ātrās palīdzības neizsaukšana; rīvēšana un berzēšana; sildīšana ar karstu ūdeni vai radiatoriem; ārstēšanās mājas apstākļos; sēdināt vai likt staigāt; alkohola lietošana. Video: https://youtu.be/GgpD_sOYsxs Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Apsaldējumi. 29.08.2017 
 
 ## Ķīmisko vielu izraisītie nelaimes gadījumi
 
- Ķīmiska viela uz ādas Ķīmiska viela acī Ķīmiska viela gremošanas traktā     
+ Ķīmiska viela uz ādas Ķīmiska viela acī Ķīmiska viela gremošanas traktā 
 
 ## Ķīmiska viela uz ādas
 
@@ -86,27 +86,27 @@ Lai samazinātu risku saskarties ar ķīmiskām vielām, vēlams lietot vienreiz
 
 Retos ķīmisko vielu izraisītos nelaimes gadījumos cietušā elpināšana „ mute – mutē” var būt bīstama glābējam, tāpēc atdzīvināšanas pasākumos jāaprobežojas tikai ar krūškurvja kompresijām.
 
-Palīdzība:sausu vielu nopuriniet; skalojiet cietušo vietu ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes; skalojiet tā, lai ūdens netek uz nebojāto ādu; izsauciet Ātro palīdzību; neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības; aprūpējiet, nomierineti cietušo.  
+Palīdzība:sausu vielu nopuriniet; skalojiet cietušo vietu ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes; skalojiet tā, lai ūdens netek uz nebojāto ādu; izsauciet Ātro palīdzību; neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības; aprūpējiet, nomierineti cietušo. 
 
 Nevelciet nost cietušajam apģērbu pār galvu!
 
-Kļūdas:ātrās palīdzības neizsaukšana; skalošana ar ziepēm; ieziešana ar krēmiem, ziedēm; ārstēšanās mājās apstākļos.   
+Kļūdas:ātrās palīdzības neizsaukšana; skalošana ar ziepēm; ieziešana ar krēmiem, ziedēm; ārstēšanās mājās apstākļos. 
 
 ## Ķīmiska viela acī
 
  Ķīmisku vielu iekļūšana acī ir bīstama, jo tā var izraisīt radzenes (acs virsmas) apdegumus vai arī bojāt dziļākas struktūras, kas var ietekmēt redzi. Nopietnos bojājumos var būt arī acs zaudējuma risks.
 
-Palīdzība:skalojiet traumēto aci ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes; skalojiet tā, lai ūdens netecētu uz veselo aci; skalojot traumēto aci, turiet to vaļā; izsauciet Ātro palīdzību; pārsieniet ar sausu pārsēju abas acis; neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības; aprūpējiet, nomieriniet cietušo.  Kļūdas:ātrās palīdzības neizsaukšana; skalošana ar ziepēm; tikai vienas acs pārsiešana; pārsiešana bez skalošanas; kontaktlēcu neizņemšana pie skalošanas; acu pārsiešana, ja nav ar ko skalot; ārstēšanās mājas apstākļos.  Video: https://youtu.be/kAjMxo441TYAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķīmiska viela acīs. 08.08.2017
+Palīdzība:skalojiet traumēto aci ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes; skalojiet tā, lai ūdens netecētu uz veselo aci; skalojot traumēto aci, turiet to vaļā; izsauciet Ātro palīdzību; pārsieniet ar sausu pārsēju abas acis; neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības; aprūpējiet, nomieriniet cietušo. Kļūdas:ātrās palīdzības neizsaukšana; skalošana ar ziepēm; tikai vienas acs pārsiešana; pārsiešana bez skalošanas; kontaktlēcu neizņemšana pie skalošanas; acu pārsiešana, ja nav ar ko skalot; ārstēšanās mājas apstākļos. Video: https://youtu.be/kAjMxo441TYAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķīmiska viela acīs. 08.08.2017
 
 ## Ķīmiska viela gremošanas traktā
 
  Ķīmiskai vielai, nonākot gremošanas traktā, nepieciešama ātra, mērķtiecīga rīcība, kas būs atkarīga no vielas iedarbības īpašībām. Papildus ieteikumus par rīcību ķīmisko vielu izraisītos nelaimes gadījumos var saņemt Rīgas Austrumu klīniskās universitātes slimnīcas „Gaiļezers” Saindēšanās un zāļu informācijas centrā, zvanot uz tālruni 67042473. Ja iespējams, gaidot mediķus, sagatavojiet datus par konkrēto vielu (produkta iepakojumu, lietošanas instrukciju, ķīmiskās vielas drošības datu lapa).
 
-Palīdzība:izsauciet Ātro palīdzību; dodiet izskalot ar ūdeni muti; dodiet dzert vēsu ūdeni, bet ne vairāk kā 200 ml; neizraisiet vemšanu!; neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības; aprūpējiet, nomieriniet cietušo; veiciet atdzīvināšanas pasākumus, ja nepieciešams; uz slimnīcu paņemiet ķīmiskās vielas iepakojumu.  Kļūdas.ātrās līdzības neizsaukšana; laika vilcināšana, neko nedarot; aktīvās ogles lietošana; vemšanas izraisīšana; sodas ūdens dzeršana.  Ja ķīmiska viela ir ieelpota.
+Palīdzība:izsauciet Ātro palīdzību; dodiet izskalot ar ūdeni muti; dodiet dzert vēsu ūdeni, bet ne vairāk kā 200 ml; neizraisiet vemšanu!; neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības; aprūpējiet, nomieriniet cietušo; veiciet atdzīvināšanas pasākumus, ja nepieciešams; uz slimnīcu paņemiet ķīmiskās vielas iepakojumu. Kļūdas.ātrās līdzības neizsaukšana; laika vilcināšana, neko nedarot; aktīvās ogles lietošana; vemšanas izraisīšana; sodas ūdens dzeršana. Ja ķīmiska viela ir ieelpota.
 
 Bīstami! Pārvietojieties drošā attālumā (svaigā gaisā) no nelaimes gadījuma vietas!
 
-Palīdzība:sargājiet sevi!; izsauciet Ātro palīdzību; nodrošiniet svaigu gaisu; atbrīvojiet cietušo no cieša apģērba, kas var traucēt elpošanu; aprūpējiet, nomieriniet cietušo; ja nepieciešams, veiciet atdzīvināšanas pasākumus.  Video https://www.youtube.com/watch?v=jwnPQxGkT0g&amp;amp;t=28s Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķīmiska vielas norīšana. Pieaugušie. 15.08.2017 
+Palīdzība:sargājiet sevi!; izsauciet Ātro palīdzību; nodrošiniet svaigu gaisu; atbrīvojiet cietušo no cieša apģērba, kas var traucēt elpošanu; aprūpējiet, nomieriniet cietušo; ja nepieciešams, veiciet atdzīvināšanas pasākumus. Video https://www.youtube.com/watch?v=jwnPQxGkT0g&amp;amp;t=28s Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķīmiska vielas norīšana. Pieaugušie. 15.08.2017 
 
 ## Elektrotrauma
 
@@ -114,45 +114,43 @@ Palīdzība:sargājiet sevi!; izsauciet Ātro palīdzību; nodrošiniet svaigu g
 
 ZEMSPRIEGUMS (līdz 1000 V)
 
-Palīdzība:Sargājiet sevi! Atslēdziet strāvu! Veiciet atdzīvināšanas pasākumus, ja nepieciešams. Vienmēr izsauciet Ātro palīdzību!  Video: https://youtu.be/tf2mNUwfERgAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Elektrotraumas. Zemspriegums. 23.08.2017AUGSTSPRIEGUMS (virs 1000 V)
+Palīdzība:Sargājiet sevi! Atslēdziet strāvu! Veiciet atdzīvināšanas pasākumus, ja nepieciešams. Vienmēr izsauciet Ātro palīdzību! Video: https://youtu.be/tf2mNUwfERgAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Elektrotraumas. Zemspriegums. 23.08.2017AUGSTSPRIEGUMS (virs 1000 V)
 
-Palīdzība:Sargājiet sevi! NETUVOJIETIES 8 m attālumā no nelaimes gadījuma vietas, sargieties no soļa sprieguma un elektriskā loka izlādes. Vienmēr izsauciet Ātro palīdzību, informējot par augstspriegumu. Atdzīvināšanas pasākumus, ja nepieciešams, veiciet tikai tad, kad atslēgta augstsprieguma strāva.  Video: https://youtu.be/HVy1mTCXPOUAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Elektrotraumas. Augstspriegums. 24.08.2017ZIBENS IZRAISĪTAS TRAUMAS
+Palīdzība:Sargājiet sevi! NETUVOJIETIES 8 m attālumā no nelaimes gadījuma vietas, sargieties no soļa sprieguma un elektriskā loka izlādes. Vienmēr izsauciet Ātro palīdzību, informējot par augstspriegumu. Atdzīvināšanas pasākumus, ja nepieciešams, veiciet tikai tad, kad atslēgta augstsprieguma strāva. Video: https://youtu.be/HVy1mTCXPOUAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Elektrotraumas. Augstspriegums. 24.08.2017ZIBENS IZRAISĪTAS TRAUMAS
 
 Zibens trauma ir augstsprieguma elektrotrauma (līdz 50 milj.V). Zibens spēriena enerģija var izplatīties vidēji 30 m (līdz pat 100 m) attālumā nenoteiktā virzienā pa zemes virsmu. Cietušais pēc zibens spēriena glābējam nav bīstams, bīstami ir atrasties ilgstoši negadījuma vietā, jo zibens var iespert vienā vietā atkārtoti.
 
-Palīdzība:aizvelciet cietušo no negadījuma vietas; veiciet atdzīvināšanas pasākumus, ja nepieciešams; vienmēr izsauciet Ātro palīdzību.  Video: https://youtu.be/DOmdhPYYar4Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Zibens spēriens. 07.08.2017
+Palīdzība:aizvelciet cietušo no negadījuma vietas; veiciet atdzīvināšanas pasākumus, ja nepieciešams; vienmēr izsauciet Ātro palīdzību. Video: https://youtu.be/DOmdhPYYar4Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Zibens spēriens. 07.08.2017
 
 ## Slīkšana
 
  Slīkšana ir process, kurā primāri rodas elpošanas traucējumi, ko izraisa iegremdēšanās šķidrumā. Slīkšanas iemesli ūdenī ir saistīti ar elpošanas traucējumiem, ūdenim nonākot elpošanas ceļos, sirdsdarbības apstāšanos, balsenes spazmu, aukstuma šoku, atkārtoto "slīkšanu" un traumām.
 
-Rīcība gadījumā, ja cilvēks slīkst:glābiet cietušo tikai tad, ja tas neapdraud Jūsu dzīvību, izvērtējot savas peldēšanas un glābēja prasmes; sargieties no slīkstošā tvēriena; visdrošākā ir glābšana no krasta, pametiet virvē iesietu glābšanas riņķi vai kādu citu peldošu priekšmetu, kurš slīkstošajam palīdzētu noturēties virs ūdens; iegaumējiet notikuma vietu, lai varētu glābējiem norādīt, kur notikusi nelaime; nekavējoties izsauciet glābējus, zvanot 112; sagaidiet glābējus un norādiet cietušā atrašanās vietu; vienmēr izsauciet Ātro palīdzību; ātro palīdzību jāliek izsaukt apkārtējiem cilvēkiem, ja ir tāda iespēja.  Palīdzība:veiciet atdzīvināšanas pasākumus, ja nepieciešams; nepametiet negadījuma vietu pirms atbrauc Ātrā palīdzība, jo cietušā stāvoklis var pasliktināties. parūpējieties, lai cietušais justos droši, komfortabli, lai viņam būtu silti; sasedziet cietušo un dodiet dzert siltu šķidrumu, nekādā gadījumā nedodiet alkoholu!; sniedziet pēc iespējas plašāku informāciju par notikušo mediķiem un glābšanas dienestam, pastāstiet, vai cietušais bija bezsamaņā vai elpoja un kas tika darīts. jāizsauc Ātrā palīdzība arī tad, ja cietušais slīcis, bet jau izglābts un sākotnēji jūtas apmierinoši, jo pastāv atkārtotas “slīkšanas” risks.  Video:
+Rīcība gadījumā, ja cilvēks slīkst:glābiet cietušo tikai tad, ja tas neapdraud Jūsu dzīvību, izvērtējot savas peldēšanas un glābēja prasmes; sargieties no slīkstošā tvēriena; visdrošākā ir glābšana no krasta, pametiet virvē iesietu glābšanas riņķi vai kādu citu peldošu priekšmetu, kurš slīkstošajam palīdzētu noturēties virs ūdens; iegaumējiet notikuma vietu, lai varētu glābējiem norādīt, kur notikusi nelaime; nekavējoties izsauciet glābējus, zvanot 112; sagaidiet glābējus un norādiet cietušā atrašanās vietu; vienmēr izsauciet Ātro palīdzību; ātro palīdzību jāliek izsaukt apkārtējiem cilvēkiem, ja ir tāda iespēja. Palīdzība:veiciet atdzīvināšanas pasākumus, ja nepieciešams; nepametiet negadījuma vietu pirms atbrauc Ātrā palīdzība, jo cietušā stāvoklis var pasliktināties. parūpējieties, lai cietušais justos droši, komfortabli, lai viņam būtu silti; sasedziet cietušo un dodiet dzert siltu šķidrumu, nekādā gadījumā nedodiet alkoholu!; sniedziet pēc iespējas plašāku informāciju par notikušo mediķiem un glābšanas dienestam, pastāstiet, vai cietušais bija bezsamaņā vai elpoja un kas tika darīts. jāizsauc Ātrā palīdzība arī tad, ja cietušais slīcis, bet jau izglābts un sākotnēji jūtas apmierinoši, jo pastāv atkārtotas “slīkšanas” risks. Video:
 
 www.vugd.gov.lv 
 
-https://www.youtube.com/watch?v=X_wH3Ba8emE  Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Slīcēja glābšana. Pieaugušie. 28.07.2017
+https://www.youtube.com/watch?v=X_wH3Ba8emE Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Slīcēja glābšana. Pieaugušie. 28.07.2017
 
-https://www.youtube.com/watch?v=E6PSLvYb7JA  Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Slīcēja glābšana. Bērni. 31.07.2017 
+https://www.youtube.com/watch?v=E6PSLvYb7JA Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Slīcēja glābšana. Bērni. 31.07.2017 
 
 ## Traumas
 
- Roku un kāju traumas Mugurkaula traumas Galvas traumas Krūškurvja traumas Vēdera traumas Asiņošana no deguna Rīcība autoavārijas vietā Amputācijas Izsists zobs   
+ Roku un kāju traumas Mugurkaula traumas Galvas traumas Krūškurvja traumas Vēdera traumas Asiņošana no deguna Rīcība autoavārijas vietā Amputācijas Izsists zobs 
 
 ## Roku un kāju traumas
 
- Tās var būt:brūces; sasitumi; sastiepumi; izmežģījumi; lūzumi.  Raksturīgākās pazīmes:sāpes; deformācija; nespēja kustināt locekli; pietūkums.  Necentieties atšķirt dažādus traumu veidus un vienmēr pieņemiet, ka trauma var būt lūzums!
+ Tās var būt:brūces; sasitumi; sastiepumi; izmežģījumi; lūzumi. Raksturīgākās pazīmes:sāpes; deformācija; nespēja kustināt locekli; pietūkums. Necentieties atšķirt dažādus traumu veidus un vienmēr pieņemiet, ka trauma var būt lūzums!
 
 Palīdzība:
 
-Ja traumēts augšdelms vai kāja:Nekustiniet, nepārvietojiet cietušo; pārvietojiet tikai tad, ja draud briesmas dzīvībai; saglabājiet traumas radīto deformāciju; pārvietojot cietušo, saudzējiet augšdelmu vai kāju (ja nepieciešams pārvietot). Izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.  
+Ja traumēts augšdelms vai kāja:Nekustiniet, nepārvietojiet cietušo; pārvietojiet tikai tad, ja draud briesmas dzīvībai; saglabājiet traumas radīto deformāciju; pārvietojot cietušo, saudzējiet augšdelmu vai kāju (ja nepieciešams pārvietot). Izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. 
 
-Ja traumēts apakšdelms:fiksējiet roku ar diviem trīsstūrveida lakatiņiem un varat transportēt cietušo pats; saglabājiet traumas radīto deformāciju.  
+Ja traumēts apakšdelms:fiksējiet roku ar diviem trīsstūrveida lakatiņiem un varat transportēt cietušo pats; saglabājiet traumas radīto deformāciju. 
 
 Neliec šinu!
 
-Palīdzība, ja ir brūce:pārsieniet tikai ar sausiem, vēlams, steriliem pārsējiem; nelietojiet ziedes, pūderus, dezinfekcijas.  Kļūdas:Traumētās vietas kustināšana. Stiprināšana ar cietiem priekšmetiem. Mēģinājums nokļūt ārstniecības iestādē, ja lūzuma vieta nav nostiprināta.  Video:
-
-  
+Palīdzība, ja ir brūce:pārsieniet tikai ar sausiem, vēlams, steriliem pārsējiem; nelietojiet ziedes, pūderus, dezinfekcijas. Kļūdas:Traumētās vietas kustināšana. Stiprināšana ar cietiem priekšmetiem. Mēģinājums nokļūt ārstniecības iestādē, ja lūzuma vieta nav nostiprināta. Video: 
 
 https://youtu.be/975JKZhUE3oAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC"- Ko darīt, ja lauzta roka vai kāja? 07.07.2017
 
@@ -162,13 +160,13 @@ https://youtu.be/nKvV1nDdSD4Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pi
 
  Traumatiskas amputācijas var piedzīvot transportlīdzekļa avārijās, nelaimes gadījumos darbā vai mājsaimniecībā, kā arī kaujas traumu rezultātā. Smagos negadījumos ķermeņa daļa var tikt nogriezta vai norauta, un ja tā nav tik smagi bojāta no traumas vai apdegumiem, ka to nevar glābt, pastāv iespēja to pievienot atpakaļ.
 
-Palīdzība:Uzvelciet rokās vienreiz lietojamos gumijas cimdus vai cita ūdens necaurlaidīga materiāla izstrādājumus (piemēram, plastikāta maisiņu). Atbrīvojiet asiņojošo vietu no apģērba. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu. Novietojiet cietušo guļus ar asiņojošo vietu uz augšu. Uzlieciet pārsēju amputācijas brūcei, to cieši nosaitējot. Pārliecinieties, ka asiņošana ir apturēta. Izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.  Rūpējieties par amputēto ķermeņa daļu:ietiniet to tīrā materiālā; ieliec to nebojātā plastikāta maisiņā; plastikāta maisiņu ievietojiet rezervuārā (maisiņš, spainis u.c.) ar ledus un auksta ūdens maisījumu vai ievietojiet ledusskapja siltākajā daļā (optimālā temperatūra +4°C). nemazgā amputēto ķermeņa daļu; neļaujiet amputētai ķermeņa daļai sasalt vai sasilt!   Video: https://www.youtube.com/watch?v=8DBHCIo_7uE Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Amputācija. 26.07.2017
+Palīdzība:Uzvelciet rokās vienreiz lietojamos gumijas cimdus vai cita ūdens necaurlaidīga materiāla izstrādājumus (piemēram, plastikāta maisiņu). Atbrīvojiet asiņojošo vietu no apģērba. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu. Novietojiet cietušo guļus ar asiņojošo vietu uz augšu. Uzlieciet pārsēju amputācijas brūcei, to cieši nosaitējot. Pārliecinieties, ka asiņošana ir apturēta. Izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Rūpējieties par amputēto ķermeņa daļu:ietiniet to tīrā materiālā; ieliec to nebojātā plastikāta maisiņā; plastikāta maisiņu ievietojiet rezervuārā (maisiņš, spainis u.c.) ar ledus un auksta ūdens maisījumu vai ievietojiet ledusskapja siltākajā daļā (optimālā temperatūra +4°C). nemazgā amputēto ķermeņa daļu; neļaujiet amputētai ķermeņa daļai sasalt vai sasilt! Video: https://www.youtube.com/watch?v=8DBHCIo_7uE Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Amputācija. 26.07.2017
 
 https://www.youtube.com/watch?v=6X0ZVt-OLAQAvots: NMP dienests. Palīdzība amputācijas gadījumā. 27.10.2015 
 
 ## Svešķermeņi
 
- Svešķermenis elpceļos Svešķermenis brūcē Svešķermenis acī Svešķermenis ausī   
+ Svešķermenis elpceļos Svešķermenis brūcē Svešķermenis acī Svešķermenis ausī 
 
 ## Svešķermenis elpceļos
 
@@ -176,57 +174,57 @@ https://www.youtube.com/watch?v=6X0ZVt-OLAQAvots: NMP dienests. Palīdzība ampu
 
 Bīstami, iespējama smakšana!
 
-Palīdzība:  Laujiet cietušajam svešķermeni atklepot pašam. Ja cietušais svešķermeni pats nespēj atklepot:    noliecot cietušā ķermeņa augšdaļu, uzsitiet 5 reizes starp lāpstiņām; lietojiet Heimliha paņēmienu (5 reizes spēcīgi spiediet savu dūri starp nabu un krūtīm); ja nepieciešams, turpiniet veikt sitienus starp lāpstiņām (5 reizes) pārmaiņus ar Heimliha paņēmienu (5 grūdieni), kamēr svešķermenis iznāk ārā; izsauciet Ātro palīdzību; veiciet atdzīvināšanas pasākumus, ja nepieciešams.    
+Palīdzība: Laujiet cietušajam svešķermeni atklepot pašam. Ja cietušais svešķermeni pats nespēj atklepot: noliecot cietušā ķermeņa augšdaļu, uzsitiet 5 reizes starp lāpstiņām; lietojiet Heimliha paņēmienu (5 reizes spēcīgi spiediet savu dūri starp nabu un krūtīm); ja nepieciešams, turpiniet veikt sitienus starp lāpstiņām (5 reizes) pārmaiņus ar Heimliha paņēmienu (5 grūdieni), kamēr svešķermenis iznāk ārā; izsauciet Ātro palīdzību; veiciet atdzīvināšanas pasākumus, ja nepieciešams. 
 
-Video: https://youtu.be/VUb7R7rmvDAAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ko darīt, ja aizrijies pieaudzis cilvēks? 05.07.2017    Ja aizrijies bērns – palīdzība tāda pati, kā pieaugušo gadījumā.
+Video: https://youtu.be/VUb7R7rmvDAAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ko darīt, ja aizrijies pieaudzis cilvēks? 05.07.2017 Ja aizrijies bērns – palīdzība tāda pati, kā pieaugušo gadījumā.
 
-Ja aizrijies zīdainis: Ļaujiet zīdainim svešķermeni atklepot pašam. Ja zīdainis svešķermeni pats nespēj atklepot, tad palīdziet viņam:    novietojiet zīdaini, ar galvu zemāk, jāteniski ar vēderu uz sava apakšdelma, kas balstās uz augšstilba; veiciet piecus „grūdošus” uzsitienus pa muguru starp lāpstiņām virzienā uz priekšpusi; veiciet piecas krūšu kurvja kompresijas; pēc katrām piecām darbībām jāpārbauda elpceļi – jāieskatās mutē; turpiniet veikt sitienus starp lāpstiņām un spiedienus uz krūšu kaula, ja nepieciešams; izsauciet Neatliekamo medicīnisko palīdzību; veiciet atdzīvināšanas pasākumus, ja nepieciešams.    Svešķermeni drīkst izvilkt tikai redzes kontrolē, jo pretējā gadījumā ir risks to iestumt dziļāk.
+Ja aizrijies zīdainis: Ļaujiet zīdainim svešķermeni atklepot pašam. Ja zīdainis svešķermeni pats nespēj atklepot, tad palīdziet viņam: novietojiet zīdaini, ar galvu zemāk, jāteniski ar vēderu uz sava apakšdelma, kas balstās uz augšstilba; veiciet piecus „grūdošus” uzsitienus pa muguru starp lāpstiņām virzienā uz priekšpusi; veiciet piecas krūšu kurvja kompresijas; pēc katrām piecām darbībām jāpārbauda elpceļi – jāieskatās mutē; turpiniet veikt sitienus starp lāpstiņām un spiedienus uz krūšu kaula, ja nepieciešams; izsauciet Neatliekamo medicīnisko palīdzību; veiciet atdzīvināšanas pasākumus, ja nepieciešams. Svešķermeni drīkst izvilkt tikai redzes kontrolē, jo pretējā gadījumā ir risks to iestumt dziļāk.
 
 Video: https://youtu.be/3adaZftenu4Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Zīdaiņa aizrīšanās. 06.07.2017
 
 ## Izsists zobs
 
- Palīdzība:  Paceliet izsisto zobu, turot to aiz zoba kronīša (baltās daļas). Ievietojiet zobu aukstā pienā. Nekavējoties dodieties pie zobārsta.   Ja izsistais zobs tiek ievietots atpakaļ vienas stundas laikā, ir lielas izredzes zoba ieaugšanai.
+ Palīdzība: Paceliet izsisto zobu, turot to aiz zoba kronīša (baltās daļas). Ievietojiet zobu aukstā pienā. Nekavējoties dodieties pie zobārsta. Ja izsistais zobs tiek ievietots atpakaļ vienas stundas laikā, ir lielas izredzes zoba ieaugšanai.
 
 ## Mugurkaula traumas
 
  Mugurkauls sastāv no daudziem kauliem, ko sauc par skriemeļiem, un muguras smadzenes iet uz leju caur kanālu šo kaulu centrā un ir droši pasargātas no ārējās ietekmes. Muguras smadzenes ir nervu saišķis, kas pārraida ziņojumus starp galvas smadzenēm un pārējo ķermeni kustībai un sajūtai. Mugurkaula lūzumu gadījumos, tam deformējoties, notiek arī muguras smadzeņu traumatisks ievainojums, kas izraisa muguras smadzenes sasitumus, daļēju vai pilnīgu plīsumu, kurš ir pastāvīgas invaliditātes un nāves cēlonis. Sniedzot pirmo palīdzību, mugurkaula traumu gadījumos vissvarīgākais ir nepasliktināt jau notikušo muguras smadzeņu bojājumu.
 
-Situācijas, kuras var izraisīt mugurkaula traumas: kritiens no augstuma; lēciens ūdenī; ceļu satiksmes negadījums (arī gājējs); cietušajam uzkritis liels smagums; sprādziens.   Šādos gadījumos vienmēr pieņemiet, ka ir mugurkaula trauma!
+Situācijas, kuras var izraisīt mugurkaula traumas: kritiens no augstuma; lēciens ūdenī; ceļu satiksmes negadījums (arī gājējs); cietušajam uzkritis liels smagums; sprādziens. Šādos gadījumos vienmēr pieņemiet, ka ir mugurkaula trauma!
 
-Palīdzība: Nekustiniet, nepārvietojiet cietušo! Pārvietojiet tikai tad, ja draud briesmas dzīvībai. Pārvietojot cietušo, saudzējiet mugurkaulu (ja nepieciešams pārvietot). Vienmēr izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams.   Video: https://www.youtube.com/watch?v=bMh6ckcsY04 Avots: RigaTV24 raidījums "Ko darīt, ja sāp?". Ko darīt, ja notiek muguras trauma? 26.10.2016 
+Palīdzība: Nekustiniet, nepārvietojiet cietušo! Pārvietojiet tikai tad, ja draud briesmas dzīvībai. Pārvietojot cietušo, saudzējiet mugurkaulu (ja nepieciešams pārvietot). Vienmēr izsauciet Ātro palīdzību. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams. Video: https://www.youtube.com/watch?v=bMh6ckcsY04 Avots: RigaTV24 raidījums "Ko darīt, ja sāp?". Ko darīt, ja notiek muguras trauma? 26.10.2016 
 
 ## Galvas traumas
 
  Galvas trauma ir plašs termins, kas apraksta plašu ievainojumu klāstu, kas rodas galvas ādā, galvaskausā, smadzenēs un galvas audos un asinsvados. Galvas traumas parasti sauc arī par smadzeņu traumu vai traumatisku smadzeņu bojājumu, kura apjoms ir atkarīgs no galvas traumas smaguma. Ir bīstamas, jo var izraisīt bezsamaņu, kas liecina par traumas ietekmi uz galvas smadzenēm, kas var progresēt, attīstoties tūskai galvas smadzeņu audos un asinsizplūdumam, kas strauji palielina spiedienu galvaskausa iekšienē. Spiediena rezultātā, galvas smadzeņu pamatnei iestrēgstot lielajā galvaskausa atverē, tiek bojāti elpošanas, sirdsdarbības un citi galvenās dzīvības funkcijas uzturošie smadzeņu centri.
 
-Pazīmes: īsāks vai ilgāks brīdis bezsamaņā (galvas traumas gadījumā); neatceras traumas norisi; galvas sāpes, galvas reiboņi; stāvoklis pasliktinās (iekšējā asiņošana).  
+Pazīmes: īsāks vai ilgāks brīdis bezsamaņā (galvas traumas gadījumā); neatceras traumas norisi; galvas sāpes, galvas reiboņi; stāvoklis pasliktinās (iekšējā asiņošana). 
 
-Draudīgas galvas smadzeņu traumas pazīmes, kas liecina par stāvokļa pasliktināšanos: vienas acs zīlīte ir lielāka par otru; miegainība vai nespēja pamosties; galvassāpes, kas pastiprinās un nepāriet; neskaidra runa, vājums, nejutīgums vai koordinācijas traucējumi; atkārtota vemšana vai slikta dūša; krampji (trīce vai raustīšanās); neparasta uzvedība, pastiprināta apjukums, nemiers vai uzbudinājums; samaņas zudums.    Pat īslaicīgs samaņas zudums ir jāuztver nopietni!
+Draudīgas galvas smadzeņu traumas pazīmes, kas liecina par stāvokļa pasliktināšanos: vienas acs zīlīte ir lielāka par otru; miegainība vai nespēja pamosties; galvassāpes, kas pastiprinās un nepāriet; neskaidra runa, vājums, nejutīgums vai koordinācijas traucējumi; atkārtota vemšana vai slikta dūša; krampji (trīce vai raustīšanās); neparasta uzvedība, pastiprināta apjukums, nemiers vai uzbudinājums; samaņas zudums. Pat īslaicīgs samaņas zudums ir jāuztver nopietni!
 
-Palīdzība: Novietojiet cietušo pusguļus vai cietušajam ērtākajā pozā. Vienmēr izsauciet Ātro palīdzību. Ja cietušais vemj, pagrieziet to uz sāniem. Ja ir brūce, uzlieciet sterilu pārsēju. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.   
+Palīdzība: Novietojiet cietušo pusguļus vai cietušajam ērtākajā pozā. Vienmēr izsauciet Ātro palīdzību. Ja cietušais vemj, pagrieziet to uz sāniem. Ja ir brūce, uzlieciet sterilu pārsēju. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. 
 
-Video: https://youtu.be/y645TUU8YwAAvots: RigaTV24 raidījums "Ko darīt, ja sāp?". Ko darīt, ja gūta galvas trauma? 14.11.2016  
+Video: https://youtu.be/y645TUU8YwAAvots: RigaTV24 raidījums "Ko darīt, ja sāp?". Ko darīt, ja gūta galvas trauma? 14.11.2016 
 
 ## Krūškurvja traumas
 
  Krūškurvja traumas izraisa trulas spēka traumas, caurejošas traumas vai abi. Ir ļoti svarīgi, lai cilvēkam būtu neskarts krūškurvis, nodrošinot atbilstošu ventilāciju. Ja Ātrā palīdzība netiek ātri izsaukta, var rasties elpošanas mazspēja. Krūškurvja bojājums, kas izraisa nepietiekamu ventilāciju, var ātri izraisīt skābekļa trūkumu organismā, bremzējot dzīvības uzturēšanai nepieciešamos vielmaiņas procesus. Trulas krūškurvja sienas traumas ietver ribu lūzumus no vienas ribas līdz krūškurvja lūzumam, kā arī krūšu kaula lūzumus. Ribu lūzumi ir visizplatītākais krūškurvja ievainojums. Lai gan tas ir ļoti sāpīgs, ribu lūzuma problēma parasti nav pats lūzums, bet gan ar iespējamu iekšējo orgānu (plaušas, sirds, aknas) ievainojumu, kas pavada lūzumus.
 
-Situācijas, kuras var izraisīt krūškurvja traumas: autoavārija; kritiens no pārmērīga augstuma; sprādziena traumas; spēcīgi sitieni pa krūtīm; krūškurvja saspiešanas traumas; šautas brūces; durtas brūces.   
+Situācijas, kuras var izraisīt krūškurvja traumas: autoavārija; kritiens no pārmērīga augstuma; sprādziena traumas; spēcīgi sitieni pa krūtīm; krūškurvja saspiešanas traumas; šautas brūces; durtas brūces. 
 
-Pazīmes: sāpes; apgrūtināta elpošana; asins izplūdums; brūce; deformācija.   Palīdzība: Novietojiet cietušo pusguļus stāvoklī vai cietušajam ērtākajā pozā. Izsauciet Ātro palīdzību. Ja ir brūce, uzlieciet sterilu pārsēju. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.  Video angļu valodā papildu informācijai:https://youtu.be/x9I_jaJ0vTQAvots: Sikana English. Learn first aid gestures: Chest Wound. 18.04.2016
+Pazīmes: sāpes; apgrūtināta elpošana; asins izplūdums; brūce; deformācija. Palīdzība: Novietojiet cietušo pusguļus stāvoklī vai cietušajam ērtākajā pozā. Izsauciet Ātro palīdzību. Ja ir brūce, uzlieciet sterilu pārsēju. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Video angļu valodā papildu informācijai:https://youtu.be/x9I_jaJ0vTQAvots: Sikana English. Learn first aid gestures: Chest Wound. 18.04.2016
 
 ## Vēdera traumas
 
  Atšķirībā no krūškurvja un iegurņa dobumiem, vēdera dobumā nav kaulu, kas to aizsargātu, un jebkurš ievainojums var izraisīt nopietnus vēdera orgānu bojājumus, tostarp plīsumus aknās, liesā vai kuņģī. Ja tā notiek, cietušais var iekšēji asiņot līdz nāvei, ja vien netiek nodrošināta steidzama palīdzība slimnīcā.
 
-Kas var liecināt par vēdera traumu: vēdera zonas traumas vēsture, moto vai autoavārija, kritiens no augstuma; asiņojoša brūce vai cits acīmredzams ievainojums, iespējams, ar redzamām zarnām; stipras sāpes un iespējama muskuļu spazma pāri vēdera sienai; slikta dūša vai vemšana; ādas zilumi; cietušais nevar nostāvēt un tur ievainoto vietu sāpju mazināšanai; iekšējas asiņošanas dēļ cietušā āda var būt bāla.    Palīdzība:  Novietojiet cietušo guļus ar valnīti zem saliektiem ceļiem vai saglabājiet cietušā saudzējošo pozu. Vienmēr izsauciet Ātro palīdzību. Atbrīvojiet cietušo no ciešām drēbēm. Ja ir brūce, uzlieciet sterilu pārsēju. Ja brūce asiņo, apturiet asiņošanu ar spiedienu. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo.   Necentieties ievietot izkritušos orgānus atpakaļ vēderā un nedodiet ēst, dzert un lietot medikamentus.  
+Kas var liecināt par vēdera traumu: vēdera zonas traumas vēsture, moto vai autoavārija, kritiens no augstuma; asiņojoša brūce vai cits acīmredzams ievainojums, iespējams, ar redzamām zarnām; stipras sāpes un iespējama muskuļu spazma pāri vēdera sienai; slikta dūša vai vemšana; ādas zilumi; cietušais nevar nostāvēt un tur ievainoto vietu sāpju mazināšanai; iekšējas asiņošanas dēļ cietušā āda var būt bāla. Palīdzība: Novietojiet cietušo guļus ar valnīti zem saliektiem ceļiem vai saglabājiet cietušā saudzējošo pozu. Vienmēr izsauciet Ātro palīdzību. Atbrīvojiet cietušo no ciešām drēbēm. Ja ir brūce, uzlieciet sterilu pārsēju. Ja brūce asiņo, apturiet asiņošanu ar spiedienu. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušo. Necentieties ievietot izkritušos orgānus atpakaļ vēderā un nedodiet ēst, dzert un lietot medikamentus. 
 
 ## Asiņošana no deguna
 
  Asiņošana no deguna parasti nerada nopietnas sekas. Tomēr bieža vai spēcīga deguna asiņošana var liecināt par nopietnākām veselības problēmām, piemēram, paaugstinātu asinsspiedienu vai asinsreces traucējumiem, un tā ir jāpārbauda. Pārmērīga asiņošana ilgstoši var izraisīt arī turpmākas problēmas, piemēram, anēmiju.
 
-Palīdzība: Aizspiediet cietušajam asiņojošo nāsi. Galvu nolieciet uz priekšu, apsēdiniet. Uzvelciet gumijas cimdus, lai izvairītos no saskarsmes ar cietušā asinīm. Pielieciet aukstumu pie deguna un pakauša. Ja asiņošana turpinās ilgāk par 20 minūtēm, izsauciet Ātro palīdzību, Neļaujiet cietušam atdzist. Aprūpējiet un nomieriniet cietušo.   Video: https://www.youtube.com/watch?v=TcGDoR6J9QI  Avots: Biedrība Latvijas Sarkanais Krusts. Pirmā palīdzība deguma asiņošanas gadījumā. 26.01.2021 
+Palīdzība: Aizspiediet cietušajam asiņojošo nāsi. Galvu nolieciet uz priekšu, apsēdiniet. Uzvelciet gumijas cimdus, lai izvairītos no saskarsmes ar cietušā asinīm. Pielieciet aukstumu pie deguna un pakauša. Ja asiņošana turpinās ilgāk par 20 minūtēm, izsauciet Ātro palīdzību, Neļaujiet cietušam atdzist. Aprūpējiet un nomieriniet cietušo. Video: https://www.youtube.com/watch?v=TcGDoR6J9QI Avots: Biedrība Latvijas Sarkanais Krusts. Pirmā palīdzība deguma asiņošanas gadījumā. 26.01.2021 
 
 ## Rīcība autoavārijas vietā
 
@@ -234,21 +232,21 @@ Palīdzība: Aizspiediet cietušajam asiņojošo nāsi. Galvu nolieciet uz priek
 
 Jebkurā ceļu satiksmes negadījumā pieņem, ka cietušajam var būt traumēts mugurkauls.
 
-Ieraugot autoavāriju, novērtējiet situāciju un, neapdraudot sevi, sāciet cietušā glābšanas pasākumus: Apstādiniet savu automašīnu drošā attālumā no negadījuma vietas. Ieslēdziet savas automašīnas avārijas gaismas signalizāciju. Paņemiet automašīnas aptieciņu, avārijas zīmi. Novietojiet avārijas zīmi nepieciešamajā attālumā no negadījuma vietas. Centieties iekļūt automašīnas salonā.   Palīdzība: Izvērtējiet situāciju un cietušā stāvokli, ja nepieciešams, izsauciet Ātro palīdzību. Atstājiet cietušo automašīnas salonā, izņemot gadījumus, kad:      Ir briesmas cietušā dzīvībai. Ir bezsamaņa.     Saudzīgi izvelciet cietušo ar ‘’pērtiķa tvērienu’’(ja nepieciešams). Sniedz nepieciešamo palīdzību.   
+Ieraugot autoavāriju, novērtējiet situāciju un, neapdraudot sevi, sāciet cietušā glābšanas pasākumus: Apstādiniet savu automašīnu drošā attālumā no negadījuma vietas. Ieslēdziet savas automašīnas avārijas gaismas signalizāciju. Paņemiet automašīnas aptieciņu, avārijas zīmi. Novietojiet avārijas zīmi nepieciešamajā attālumā no negadījuma vietas. Centieties iekļūt automašīnas salonā. Palīdzība: Izvērtējiet situāciju un cietušā stāvokli, ja nepieciešams, izsauciet Ātro palīdzību. Atstājiet cietušo automašīnas salonā, izņemot gadījumus, kad: Ir briesmas cietušā dzīvībai. Ir bezsamaņa. Saudzīgi izvelciet cietušo ar ‘’pērtiķa tvērienu’’(ja nepieciešams). Sniedz nepieciešamo palīdzību. 
 
-Atcerieties: Atvērušies gaisa spilveni nav bīstami Jums un cietušajiem. Uzmanieties, ja spilveni nav atvērušies.    
+Atcerieties: Atvērušies gaisa spilveni nav bīstami Jums un cietušajiem. Uzmanieties, ja spilveni nav atvērušies. 
 
-Video: https://youtu.be/Ue407uWqzC0Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Rīcība pēc ceļu satiksmes gadījuma. 20.07.2017  Rīcība motoavārijas vietā.
+Video: https://youtu.be/Ue407uWqzC0Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Rīcība pēc ceļu satiksmes gadījuma. 20.07.2017 Rīcība motoavārijas vietā.
 
 Jebkurā ceļu satiksmes negadījumā pieņem, ka cietušajam var būt traumēts mugurkauls.
 
-Palīdzība: nekustiniet un nepārvietojiet cietušo; izsauciet Ātro palīdzību; aizsargķiveri noņemiet ļoti uzmanīgi, saudzējot cietušā kaklu, tikai ja:   
+Palīdzība: nekustiniet un nepārvietojiet cietušo; izsauciet Ātro palīdzību; aizsargķiveri noņemiet ļoti uzmanīgi, saudzējot cietušā kaklu, tikai ja: 
 
- Ir bezsamaņa.  Ir asiņošana no ķiveres apakšas.     Palīdziet noņemt ķiveri, ja cietušais to grib (piemēram, asiņošana, vemšana). Sniedziet nepieciešamo palīdzību.  Video: https://youtu.be/Xbc8I4LKtnAAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķiveres novilkšana. 14.08.2017
+ Ir bezsamaņa. Ir asiņošana no ķiveres apakšas. Palīdziet noņemt ķiveri, ja cietušais to grib (piemēram, asiņošana, vemšana). Sniedziet nepieciešamo palīdzību. Video: https://youtu.be/Xbc8I4LKtnAAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ķiveres novilkšana. 14.08.2017
 
 ## Dzīvnieku izraisītie nelaimes gadījumi
 
- Dzīvnieku kodumi Čūskas kodumi Insektu kodumi  
+ Dzīvnieku kodumi Čūskas kodumi Insektu kodumi 
 
 ## Dzīvnieku kodumi
 
@@ -256,14 +254,13 @@ Palīdzība: nekustiniet un nepārvietojiet cietušo; izsauciet Ātro palīdzīb
 
 Bīstami! Potenciālas trakumsērgas briesmas.
 
-Palīdzība:  Apturiet asiņošanu. Ja brūce ir neliela, nav dzīvībai bīstama asiņošana, to mazgājiet ar ziepēm un ūdeni. Ādu ap brūci jānojodē ar 5-10% joda šķīdumu. Pārsieniet brūci ar sterilo pārsēju. Izsauciet Ātro palīdzību. Potējieties pret trakumsērgu.   Kļūdas:Koduma ignorēšana. Brūces dezinficēšana ar spirtu. Sakostas vietas kasīšana. Trakumsērgas riska ignorēšana.   Video: https://youtu.be/RXEwAVAvNroAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Suņu kodumi. 27.07.2017
-
+Palīdzība: Apturiet asiņošanu. Ja brūce ir neliela, nav dzīvībai bīstama asiņošana, to mazgājiet ar ziepēm un ūdeni. Ādu ap brūci jānojodē ar 5-10% joda šķīdumu. Pārsieniet brūci ar sterilo pārsēju. Izsauciet Ātro palīdzību. Potējieties pret trakumsērgu. Kļūdas:Koduma ignorēšana. Brūces dezinficēšana ar spirtu. Sakostas vietas kasīšana. Trakumsērgas riska ignorēšana. Video: https://youtu.be/RXEwAVAvNroAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Suņu kodumi. 27.07.2017 
 
 ## Čūskas kodumi
 
  Latvijā sastopama tikai viena indīga čūsku suga — odze, kuras kodums var būt arī nāves cēlonis. Odze cilvēkam neuzbrūk, tā iekož, ja tai uzkāpj virsū vai pieskaras. Koduma vietā redzamas 2 lielākas un 2 mazākas četrstūrī novietotas brūces. Indes iedarbība atkarīga no vietas, kur čūska iekodusi, — kodums rokā bīstamāks nekā kājā. Saindēšanās ir sevišķi smaga, ja inde iekļuvusi asinsvadā.
 
-Palīdzība: Izsauciet Ātro palīdzību. Centieties nekustināt sakosto ķermeņa daļu. Atvēsineti koduma vietu. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Smakšanas gadījumā veiciet atdzīvināšanu. Aprūpējiet, nomieriniet cietušo.   Kļūdas: Žņauga vai pārsēja likšana. Mediķu palīdzības nelūgšana. Indes sūkšana ar muti. Koduma vietas griešana, piededzināšana. Alkohola lietošana iekšēji.   
+Palīdzība: Izsauciet Ātro palīdzību. Centieties nekustināt sakosto ķermeņa daļu. Atvēsineti koduma vietu. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības. Smakšanas gadījumā veiciet atdzīvināšanu. Aprūpējiet, nomieriniet cietušo. Kļūdas: Žņauga vai pārsēja likšana. Mediķu palīdzības nelūgšana. Indes sūkšana ar muti. Koduma vietas griešana, piededzināšana. Alkohola lietošana iekšēji. 
 
 Video: https://youtu.be/jTJDff4QMl4Avots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Čūskas kodums. 19.07.2017
 
@@ -273,31 +270,31 @@ Video: https://youtu.be/jTJDff4QMl4Avots: LTV raidījuma "Rīta panorāmas" rubr
 
 Ja kodiens ir ķermenī
 
-Palīdzība:  dodieties uz drošu vietu, lai pasargātos no jauniem kodumiem; izņemiet dzeloni, ja tāds ir; nomazgājiet koduma vietu ar ūdeni un ziepēm; pie kodiena vietas pielieciet aukstu ūdens kompresi; ja kodiens ir rokā vai kājā, paceliet to uz augšu.   Ja kodiens ir mutes dobumā
+Palīdzība: dodieties uz drošu vietu, lai pasargātos no jauniem kodumiem; izņemiet dzeloni, ja tāds ir; nomazgājiet koduma vietu ar ūdeni un ziepēm; pie kodiena vietas pielieciet aukstu ūdens kompresi; ja kodiens ir rokā vai kājā, paceliet to uz augšu. Ja kodiens ir mutes dobumā
 
 Bīstami! Iespējama elpceļu nosprostošanās un smakšana tūskas dēļ.
 
-Palīdzība: Vienmēr izsauciet Ātro palīdzību. Dodiet sūkāt ledu vai maziem malkiem aukstu dzeramo. Dzesējiert pampuma vietu. Dzesējiet kaklu no ārpuses. Smakšanas gadījumā veiciet atdzīvināšanu.   
+Palīdzība: Vienmēr izsauciet Ātro palīdzību. Dodiet sūkāt ledu vai maziem malkiem aukstu dzeramo. Dzesējiert pampuma vietu. Dzesējiet kaklu no ārpuses. Smakšanas gadījumā veiciet atdzīvināšanu. 
 
-Kļūdas: alkohola lietošana; kasīšana; duršana; indes izsūkšana; bezrecepšu medikamentu lietošana; caurules duršana kaklā smakšanas gadījumā.    
+Kļūdas: alkohola lietošana; kasīšana; duršana; indes izsūkšana; bezrecepšu medikamentu lietošana; caurules duršana kaklā smakšanas gadījumā. 
 
 Video: https://www.youtube.com/watch?v=r3ZVtv6R1MMAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Kukaiņu dzēlieni. 18.07.2017
 
 Ja piesūkusies ērce
 
-Palīdzība: Uzlieciet uz ērces vates tamponu, kas samērcēts spirtā vai degvīnā, un paturi 5 min.. Ērces izvilkšanai izmantojiet smailu pinceti, ar ko satver ērces snuķīti pēc iespējas tuvāk ādai, un tad lēni, ar apļveida kustību izskrūvē ērci ārā. Ja nav pincetes, ap ērces snuķīti apsien stipru diegu un, turot aiz diega galiem, tāpat izskrūvē ērci. Pēc ērces izņemšanas koduma vietu dezinficējiet. Rokas nomazgājiet ar ūdeni un ziepēm. Ja attīstās sajūta kā pie gripas bez saaukstēšanas pazīmēm, jāgriežas pie ārsta.   Ērce ir jāizņem iespējami ātri!
+Palīdzība: Uzlieciet uz ērces vates tamponu, kas samērcēts spirtā vai degvīnā, un paturi 5 min.. Ērces izvilkšanai izmantojiet smailu pinceti, ar ko satver ērces snuķīti pēc iespējas tuvāk ādai, un tad lēni, ar apļveida kustību izskrūvē ērci ārā. Ja nav pincetes, ap ērces snuķīti apsien stipru diegu un, turot aiz diega galiem, tāpat izskrūvē ērci. Pēc ērces izņemšanas koduma vietu dezinficējiet. Rokas nomazgājiet ar ūdeni un ziepēm. Ja attīstās sajūta kā pie gripas bez saaukstēšanas pazīmēm, jāgriežas pie ārsta. Ērce ir jāizņem iespējami ātri!
 
-Ērču encefalīta profilakse: vakcinācija; gari zābaki un bikses, dodoties pie dabas; ķermeņa pārbaude, atgriežoties mājās.     Kļūdas: savlaicīga ērces nenoņemšana; aiztikšana ar kailiem pirkstiem; saspiešana. apziešana ar eļļu vai sviestu. uzmanības nepievēršana encefalīta simptomiem.    Video: https://www.youtube.com/watch?v=g6OhPcj-ajcAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ērces. 21.07.2017
+Ērču encefalīta profilakse: vakcinācija; gari zābaki un bikses, dodoties pie dabas; ķermeņa pārbaude, atgriežoties mājās. Kļūdas: savlaicīga ērces nenoņemšana; aiztikšana ar kailiem pirkstiem; saspiešana. apziešana ar eļļu vai sviestu. uzmanības nepievēršana encefalīta simptomiem. Video: https://www.youtube.com/watch?v=g6OhPcj-ajcAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Ērces. 21.07.2017
 
 ## Svešķermenis brūcē
 
  Situācijas, kad tiek gūtas traumas, kurās kādā ķermeņa daļā ir iekļuvis svešķermenis, ir dažādas, sākot ar gadījumiem, kur cilvēkam, skaldot malku, acī trāpījusi koka atlūza, līdz gadījumiem, kad, veicot lauku darbus, cietušais uzdūries uz kūts dakšas. Šādos brīžos būtiski ir neizvilkt no brūces svešķermeni, lai pasargātu no spēcīgas asiņošanas, un nekavējoties meklēt mediķu palīdzību. Pavirši, ārējā ādas slānī iedūries svešķermenis, piemēram, skabarga, var tikt izvilkts patstāvīgi.
 
-Palīdzība: Apturiet dzīvībai bīstamo asiņošanu, spiežot uz asiņojošās vietas blakus svešķermenim. Novietojiet marles polsterējumu ap objektu, lai novērstu tā sagriešanos vai pārvietošanos. Uzlieciet pārsēju virs un ap polsterējumu, lai nostiprinātu svešķermeni. Izsauciet Ātro palīdzību.    Neizvelciet svešķermeni un nepieļaujiet svešķermeņa iespiešanu brūcē!
+Palīdzība: Apturiet dzīvībai bīstamo asiņošanu, spiežot uz asiņojošās vietas blakus svešķermenim. Novietojiet marles polsterējumu ap objektu, lai novērstu tā sagriešanos vai pārvietošanos. Uzlieciet pārsēju virs un ap polsterējumu, lai nostiprinātu svešķermeni. Izsauciet Ātro palīdzību. Neizvelciet svešķermeni un nepieļaujiet svešķermeņa iespiešanu brūcē!
 
 Ja iedūrusies skabarga
 
-Palīdzība: Noskalojiet ar ziepjūdeni. Dezinficējiet pinceti un bojājuma vietu. Izvelciet skabargu. Dezinficējiet. Uzlieciet plāksteri. Ja nevarat izvilkt, struto, jāgriežas pie ārsta.   Kļūdas: netīra pincete; bakstīšana, skabargas grozīšana; iestumšana dziļāk; izgriešana, piededzināšana; tikai vienas daļas izvilkšana.   Video:
+Palīdzība: Noskalojiet ar ziepjūdeni. Dezinficējiet pinceti un bojājuma vietu. Izvelciet skabargu. Dezinficējiet. Uzlieciet plāksteri. Ja nevarat izvilkt, struto, jāgriežas pie ārsta. Kļūdas: netīra pincete; bakstīšana, skabargas grozīšana; iestumšana dziļāk; izgriešana, piededzināšana; tikai vienas daļas izvilkšana. Video:
 
 https://youtu.be/Ooaz874K3sMAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Skabarga. Pieaugušie. 05.09.2017
 
@@ -305,17 +302,17 @@ https://youtu.be/Ooaz874K3sMAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pi
 
  Svešķermenis acī var radīt graušanas sajūtu, acs asarošanu. Ja gruzis acī atrodas ilgstoši, var veidoties arī iekaisums. Tāpēc vienīgais risinājums ir svešķermeni no acs dabūt ārā, ko var izdarīt ar acs skalošanu. Jo ātrāk, jo labāk, lai nerodas iespēja attīstīties infekcijai.
 
-Palīdzība:  Ļaujiet acij dabiski asarot. Skalojiet aci zem tekoša ūdens krāna. Vates tamponu samitrināt ūdenī un izspiest, ļaujot iztecēt pa acs iekšējo kaktiņu. Tas jāatkārto, līdz svešķermenis ir pazudis. Ja svešķermenis ir zem apakšējā plakstiņa, tad cilvēks actiņu var skalot pats. Ja svešķermenis nokļuvis zem augšējā plakstiņa, jāgriežas pie ārsta.    Kļūdas: berzēšana; skalošana ar ziepjūdeni; laizīšana ar mēli.   
+Palīdzība: Ļaujiet acij dabiski asarot. Skalojiet aci zem tekoša ūdens krāna. Vates tamponu samitrināt ūdenī un izspiest, ļaujot iztecēt pa acs iekšējo kaktiņu. Tas jāatkārto, līdz svešķermenis ir pazudis. Ja svešķermenis ir zem apakšējā plakstiņa, tad cilvēks actiņu var skalot pats. Ja svešķermenis nokļuvis zem augšējā plakstiņa, jāgriežas pie ārsta. Kļūdas: berzēšana; skalošana ar ziepjūdeni; laizīšana ar mēli. 
 
-Ja svešķermenis ir iedūries acī: Uzlieciet pārsēju abām acīm. Dodieties pie ārsta.   Nemēģiniet izvilkt svešķermeni no acs.
+Ja svešķermenis ir iedūries acī: Uzlieciet pārsēju abām acīm. Dodieties pie ārsta. Nemēģiniet izvilkt svešķermeni no acs.
 
-Video: https://youtu.be/NzNHhlDQRrEAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Svešķermenis acī. 21.08.2017  
+Video: https://youtu.be/NzNHhlDQRrEAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Svešķermenis acī. 21.08.2017 
 
 ## Svešķermenis ausī
 
  Biežāk svešķermeņi ausīs ir sastopami maziem bērniem, kuri paši ievieto sīkus priekšmetus ārējā auss ejā. Taču nereti arī kukaiņi ielien vai ielido ausī pieaugušajiem. Pārsvarā, kad svešķermenis ir ārējā auss ejā, nav nepieciešama neatliekama medicīniska palīdzība un nav dzīvībai bīstama.
 
-Palīdzība:  Lēnām izņemiet ārējo svešķermeņa daļu, ja tāda ir. Nemēģiniet atlikušo daļu izņemt ar pirkstiem vai pinceti – to var iegrūst dziļāk. Nolieciet galvu ar skarto ausi uz leju un lēnam pakratiet to. Ja svešķermenis no auss neizlec, meklējiet mediķu konsultāciju.   Ja auss ejā ir iekļuvis kukainis: Nebāziet ausī pirkstu, lai kukainis neiedzeltu. Nolieciet galvu ar skarto ausi uz augšu, lai kukainis varētu izlīst. Ja kukainis joprojām ir ausī, tad iepiliniet dažus pilienus olīveļļas, tad ūdeni, iespējams, ka kukainis uzpeld. Ja kukaini neizdodas evakuēt, jāmeklē ārsta palīdzība. Jāgriežas pie ārsta nekavējoties, ja parādās asiņaini vai dzidri izdalījumi no auss vai sāpes.   Video angļu valodā papildu informācijai: https://www.youtube.com/watch?v=8FK8w6HFdcwAvots: St John Ambulance. If your Baby has a Foreign Object in the Nose or Ear - First Aid Training. 02.09.2016  
+Palīdzība: Lēnām izņemiet ārējo svešķermeņa daļu, ja tāda ir. Nemēģiniet atlikušo daļu izņemt ar pirkstiem vai pinceti – to var iegrūst dziļāk. Nolieciet galvu ar skarto ausi uz leju un lēnam pakratiet to. Ja svešķermenis no auss neizlec, meklējiet mediķu konsultāciju. Ja auss ejā ir iekļuvis kukainis: Nebāziet ausī pirkstu, lai kukainis neiedzeltu. Nolieciet galvu ar skarto ausi uz augšu, lai kukainis varētu izlīst. Ja kukainis joprojām ir ausī, tad iepiliniet dažus pilienus olīveļļas, tad ūdeni, iespējams, ka kukainis uzpeld. Ja kukaini neizdodas evakuēt, jāmeklē ārsta palīdzība. Jāgriežas pie ārsta nekavējoties, ja parādās asiņaini vai dzidri izdalījumi no auss vai sāpes. Video angļu valodā papildu informācijai: https://www.youtube.com/watch?v=8FK8w6HFdcwAvots: St John Ambulance. If your Baby has a Foreign Object in the Nose or Ear - First Aid Training. 02.09.2016 
 
 ## Daudz cietušo vienlaicīgi
 
@@ -323,27 +320,27 @@ Palīdzība:  Lēnām izņemiet ārējo svešķermeņa daļu, ja tāda ir. Nemē
 
 Uzskatiet, ka Jūs esat vienīgais, kurš spēj palīdzēt. Rīkojieties!
 
-Novērtējiet situāciju: Kas ir nelaimes gadījuma iemesls? Kāds ir cietušo skaits? Novērtējiet atrašanās vietu un tuvākos ceļus. Novērtējiet, kādi dienesti būs nepieciešami – ĀP, VUGD, VP? Vai ir draudošas briesmas notikuma vietā? Novērtējiet resursus, kas ir Jūsu rīcībā, un neievainotos, kas var palīdzēt. Ziņojiet 113 vai 112 . Informējiet par situāciju un turpmāko sazināšanos.    
+Novērtējiet situāciju: Kas ir nelaimes gadījuma iemesls? Kāds ir cietušo skaits? Novērtējiet atrašanās vietu un tuvākos ceļus. Novērtējiet, kādi dienesti būs nepieciešami – ĀP, VUGD, VP? Vai ir draudošas briesmas notikuma vietā? Novērtējiet resursus, kas ir Jūsu rīcībā, un neievainotos, kas var palīdzēt. Ziņojiet 113 vai 112 . Informējiet par situāciju un turpmāko sazināšanos. 
 
-Rīcības secība: Sniedziet pirmo palīdzību tiem, kuri nekliedz (iespējama bezsamaņa). Sniedziet pirmo palīdzību tiem, kuri asiņo (dzīvībai bīstama asiņošana). Staigājošos cietušos sapulciniet atsevišķi un sniedziet tiem nepieciešamo palīdzību. Neļaujiet atdzist cietušajiem/pasargājiet tos no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušos. Nomieriniet visus, neļaujiet izcelties panikai.   Video: https://www.youtube.com/watch?v=QfiApe-jUdg Avots: LTV Ziņu dienests. Pilnveido iemaņas dzīvības glābšanā. 28.05.2017 
+Rīcības secība: Sniedziet pirmo palīdzību tiem, kuri nekliedz (iespējama bezsamaņa). Sniedziet pirmo palīdzību tiem, kuri asiņo (dzīvībai bīstama asiņošana). Staigājošos cietušos sapulciniet atsevišķi un sniedziet tiem nepieciešamo palīdzību. Neļaujiet atdzist cietušajiem/pasargājiet tos no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet cietušos. Nomieriniet visus, neļaujiet izcelties panikai. Video: https://www.youtube.com/watch?v=QfiApe-jUdg Avots: LTV Ziņu dienests. Pilnveido iemaņas dzīvības glābšanā. 28.05.2017 
 
 ## Slimības
 
- Krampji Sāpes krūtīs, elpas trūkums Sāpes vēderā Cukura diabēts Insults  
+ Krampji Sāpes krūtīs, elpas trūkums Sāpes vēderā Cukura diabēts Insults 
 
 ## Krampji
 
  Krampji tiek visbiežāk vēroti slimojošiem ar epilepsiju un izpaužas kā ķermeņa muskuļu vai to grupu raustīšanās, cietušajam vienlaicīgi zaudējot samaņu, taču ir iespējamas arī vieglākas izpausmes formas. Krampju lēkmei beidzoties, cietušais atgūst samaņu un ir spējīgs par sevi parūpēties, pastāstīt, ka ir slims ar epilepsiju. Krampjiem var būt arī citi retāk sastopami iemesli – galvas smadzeņu traumas un audzēji, ļoti augsta ķermeņa temperatūra, organisma vielmaiņas traucējumi.
 
-Palīdzība: Sargājiet no iespējamām traumām. Pasargājiet cietušā galvu, palieciet zem tās mīkstu priekšmetu. Fiksējiet lēkmes ilgumu. Ja lēkme garāka par 3 min. vai tā atkārtojas, izsauciet Ātro palīdzību. Ja cietušais pēc lēkmes ir bezsamaņā, izsauciet Ātro palīdzību. Tikai pēc lēkmes veiciet atdzīvināšanas pasākumus, ja nepieciešams.   Kļūdas: cietušā turēšana; cietušā pārvietošana; mēģināšana atvērt sakostos zobus; priekšmetu bāšana mutē.  Video: https://youtu.be/NyJwNF_xNMQAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Epilepsija. 09.08.2017  
+Palīdzība: Sargājiet no iespējamām traumām. Pasargājiet cietušā galvu, palieciet zem tās mīkstu priekšmetu. Fiksējiet lēkmes ilgumu. Ja lēkme garāka par 3 min. vai tā atkārtojas, izsauciet Ātro palīdzību. Ja cietušais pēc lēkmes ir bezsamaņā, izsauciet Ātro palīdzību. Tikai pēc lēkmes veiciet atdzīvināšanas pasākumus, ja nepieciešams. Kļūdas: cietušā turēšana; cietušā pārvietošana; mēģināšana atvērt sakostos zobus; priekšmetu bāšana mutē. Video: https://youtu.be/NyJwNF_xNMQAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Epilepsija. 09.08.2017 
 
 ## Sāpes krūtīs, elpas trūkums
 
  Sāpes krūtīs, elpas trūkums var liecināt par draudošo vai jau notikušo miokarda infarktu. Miokarda infarkts ir dzīvībai bīstams stāvoklis, kad nepietiekamas apasiņošanas dēļ iet bojā daļa sirds muskulatūras un sirds vairs nespēj nodrošināt asinsriti. Daudzos gadījumos cilvēka dzīve ir atkarīga no tā, cik savlaicīgi būs uzsākta ārstēšana. Svarīgi zināt pirmās slimības pazīmes, lai spētu to atpazīt.
 
-Pirmās pazīmes: sāpes – griešana, dedzināšana krūtīs, var izstarot uz kreiso roku, žokli; liels vājums un elpas trūkums; panika un bailes stipro sāpju dēļ; sirdsklauves; galvas reibonis; pārmērīgs nogurums; slikta dūša, vemšana.     Palīdzība:
+Pirmās pazīmes: sāpes – griešana, dedzināšana krūtīs, var izstarot uz kreiso roku, žokli; liels vājums un elpas trūkums; panika un bailes stipro sāpju dēļ; sirdsklauves; galvas reibonis; pārmērīgs nogurums; slikta dūša, vemšana. Palīdzība:
 
-Nodrošiniet saslimušajam mieru un svaigu gaisu. Palīdziet saslimušajam ieņemt visērtāko ķermeņa stāvokli. Palīdziet saslimušajam ieņemt viņa paša jau zināmās zāles. Izsauciet Ātro palīdzību. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams.   Kļūdas:  slimības simptomu neatpazīšana; laika vilcināšana, cerot, ka pāries; pašārstēšanās.    Video: https://youtu.be/IYYyDzZrPfgAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Infarkts. 03.08.2017 
+Nodrošiniet saslimušajam mieru un svaigu gaisu. Palīdziet saslimušajam ieņemt visērtāko ķermeņa stāvokli. Palīdziet saslimušajam ieņemt viņa paša jau zināmās zāles. Izsauciet Ātro palīdzību. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams. Kļūdas: slimības simptomu neatpazīšana; laika vilcināšana, cerot, ka pāries; pašārstēšanās. Video: https://youtu.be/IYYyDzZrPfgAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Infarkts. 03.08.2017 
 
 ## Sāpes vēderā
 
@@ -351,9 +348,9 @@ Nodrošiniet saslimušajam mieru un svaigu gaisu. Palīdziet saslimušajam ieņe
 
 Palīdzība:
 
-Palīdziet saslimušajam ieņemt visērtāko ķermeņa stāvoklī. Izsauciet Ātro palīdzību. Neļaujiet atdzist saslimušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo.   
+Palīdziet saslimušajam ieņemt visērtāko ķermeņa stāvoklī. Izsauciet Ātro palīdzību. Neļaujiet atdzist saslimušajam/pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo. 
 
-Kļūdas: pretsāpju medikamentu lietošana; sildīšana; ēšana vai dzeršana.    
+Kļūdas: pretsāpju medikamentu lietošana; sildīšana; ēšana vai dzeršana. 
 
 Vemšana ar melnu vai asiņainu saturu vai vēdera izeja melnā krāsā var būt vēdera orgānu asiņošanas gadījumā, kas apdraud cietušā dzīvību.
 
@@ -365,7 +362,7 @@ Video angļu valodā papildu informācijai:https://youtu.be/XVqbGUYMKXoAvots: iP
 
 Apzini cukura diabēta slimniekus savu paziņu vidū!
 
-Visbiežākās pazīmes: nogurums bez redzama iemesla; neizskaidrojams svara zudums; slāpes; bieža urinācija; redzes pasliktināšanās; tirpšanas sajūta kājās.    Palīdzība: Ja diabēta slimnieks sāk justies slikti, dodiet cukuru saturošus dzērienus vai ēdienus. Ja stāvoklis neuzlabojas, izsauciet Ātro palīdzību. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams.    
+Visbiežākās pazīmes: nogurums bez redzama iemesla; neizskaidrojams svara zudums; slāpes; bieža urinācija; redzes pasliktināšanās; tirpšanas sajūta kājās. Palīdzība: Ja diabēta slimnieks sāk justies slikti, dodiet cukuru saturošus dzērienus vai ēdienus. Ja stāvoklis neuzlabojas, izsauciet Ātro palīdzību. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams. 
 
 Cukura aizvietotāji neder!
 
@@ -385,48 +382,47 @@ Pirmā palīdzība ir tūlītēja, mērķtiecīga un precīza rīcība dzīvību
 
 Pirmās palīdzības mērķis ir saglabāt dzīvību un novērst negadījuma sekas.
 
-Pirmās palīdzības programmas saturu nosaka 14.08.2012 (spēkā ar 30.08.2012) MK noteikumi Nr. 557 “Noteikumi par apmācību pirmās palīdzības sniegšanā”: Ievads. Rīcības secība negadījuma vietā. Atdzīvināšanas pasākumi. Šoks. Dzīvībai bīstama asiņošana. Termiskie bojājumi. Ķīmisko vielu izraisītie nelaimes gadījumi. Elektrotrauma. Slīkšana. Traumas. Amputācijas. Dzīvnieku izraisīti nelaimes gadījumi. Svešķermeņi. Daudz cietušo vienlaicīgi. Slimības. Aptieciņas saturs. Glābēja drošība.  
+Pirmās palīdzības programmas saturu nosaka 14.08.2012 (spēkā ar 30.08.2012) MK noteikumi Nr. 557 “Noteikumi par apmācību pirmās palīdzības sniegšanā”: Ievads. Rīcības secība negadījuma vietā. Atdzīvināšanas pasākumi. Šoks. Dzīvībai bīstama asiņošana. Termiskie bojājumi. Ķīmisko vielu izraisītie nelaimes gadījumi. Elektrotrauma. Slīkšana. Traumas. Amputācijas. Dzīvnieku izraisīti nelaimes gadījumi. Svešķermeņi. Daudz cietušo vienlaicīgi. Slimības. Aptieciņas saturs. Glābēja drošība. 
 
 ## Pirmās palīdzības pamatprincipi
 
  Pirmā palīdzība balstās uz pieņēmumu, ka glābējam negadījuma vietā nav citu palīglīdzekļu, kā tikai viņa divas rokas. No tā izriet pirmās palīdzības pamatprincipi.
 
-Pirmās palīdzības pamatprincipi: vienkāršs algoritms;  universāls algoritms;  viens glābējs;  pieaudzis cietušais;  minimāli palīglīdzekļi;  neizmantojam medikamentus;  glābēja drošības princips;  vienota programma valstī.   Iemesli, kāpēc jāsniedz pirmo palīdzību:līdzjūtība, empātija; altruistiskais egoisms – “dots devējam atdodas”; sevis projicēšana cietušā vietā; kompetence; pienākuma apziņa; stāvoklis (amats, dzimums uzliek pienākumus); apkārtējo cilvēku “spiediens”; pazīstams cietušais; tuvumā nav citu cilvēku.  Apmācības mērķis: iemācīt praktiski sniegt pirmo palīdzību cietušajiem un saslimušajiem, vadoties pēc solidaritātes principa – “kad vajadzēs, palīdzēs tev”; dot zināšanas pirmās palīdzības sniegšanā – iespēja izvairīties no kļūdām un bailēm tās pieļaut; pārliecināt, ka sniegt pirmo palīdzību ir vienkārši – to var apgūt ikviens, kurš to vēlas.  
+Pirmās palīdzības pamatprincipi: vienkāršs algoritms; universāls algoritms; viens glābējs; pieaudzis cietušais; minimāli palīglīdzekļi; neizmantojam medikamentus; glābēja drošības princips; vienota programma valstī. Iemesli, kāpēc jāsniedz pirmo palīdzību:līdzjūtība, empātija; altruistiskais egoisms – “dots devējam atdodas”; sevis projicēšana cietušā vietā; kompetence; pienākuma apziņa; stāvoklis (amats, dzimums uzliek pienākumus); apkārtējo cilvēku “spiediens”; pazīstams cietušais; tuvumā nav citu cilvēku. Apmācības mērķis: iemācīt praktiski sniegt pirmo palīdzību cietušajiem un saslimušajiem, vadoties pēc solidaritātes principa – “kad vajadzēs, palīdzēs tev”; dot zināšanas pirmās palīdzības sniegšanā – iespēja izvairīties no kļūdām un bailēm tās pieļaut; pārliecināt, ka sniegt pirmo palīdzību ir vienkārši – to var apgūt ikviens, kurš to vēlas. 
 
 Glābēja drošība:
 
 Nebaidies sniegt palīdzību! Esi piesardzīgs! Pārliecinies ka vide ir droša. Atceries, ka cietušais var būt inficēts ar dažādām infekcijas slimībām (HIV/AIDS, vīrusu hepatīts, tuberkuloze, covid-19 u.c.). Elpinot lieto masku. Pārsienot lieto cimdus.  
 
-
 ## Pirmās palīdzības aptieciņa
 
  Pirmās palīdzības sniegšanā vispieejamākie palīglīdzekļi atrodami pirmās palīdzības aptieciņā, kura atrodama katrā automašīnā vai darba vietā, jo to nosaka likumdošana. Pirmās palīdzības visu aptieciņu saturs ir identisks, jo to nosaka 03.08.2010 (spēkā no 07.08.2010.) MK noteikumi Nr. 713.
 
-Pirmās palīdzības aptieciņas saturs: Vienreiz lietojami cimdi iepakojumā – 2 pāri Spraužamadatas – 4 Šķēres (10–14 cm) ar noapaļotiem galiem – 1 Mākslīgās elpināšanas maska ar vienvirziena gaisa vārstuli iepakojumā – 1 Trīsstūrveida pārsējs (96 x 96 x 136 cm) iepakojumā – 2 Leikoplasts (2–3 cm) spolē – 1 Brūču plāksteri (dažādu izmēru) sterilā iepakojumā – 15 Tīklveida pārsējs Nr.3 (40 cm) – 3 Marles saites (4 x 0,1 m) sterilā iepakojumā – 4 Marles saites (4 x 0,05 m) sterilā iepakojumā – 2 Pārsienamās paketes sterilā iepakojumā – 2 Marles komplekts (600 x 800 mm) sterilā iepakojumā – 1 Marles komprese (400 x 600 mm) sterilā iepakojumā – 1 Marles komprese (100 x 100 mm) sterilā iepakojumā – 5 Folijas sega (viena puse metalizēta, otra – spilgtā krāsā) iepakojumā – 1 Medicīnisko materiālu saraksts valsts valodā – 1   
+Pirmās palīdzības aptieciņas saturs: Vienreiz lietojami cimdi iepakojumā – 2 pāri Spraužamadatas – 4 Šķēres (10–14 cm) ar noapaļotiem galiem – 1 Mākslīgās elpināšanas maska ar vienvirziena gaisa vārstuli iepakojumā – 1 Trīsstūrveida pārsējs (96 x 96 x 136 cm) iepakojumā – 2 Leikoplasts (2–3 cm) spolē – 1 Brūču plāksteri (dažādu izmēru) sterilā iepakojumā – 15 Tīklveida pārsējs Nr.3 (40 cm) – 3 Marles saites (4 x 0,1 m) sterilā iepakojumā – 4 Marles saites (4 x 0,05 m) sterilā iepakojumā – 2 Pārsienamās paketes sterilā iepakojumā – 2 Marles komplekts (600 x 800 mm) sterilā iepakojumā – 1 Marles komprese (400 x 600 mm) sterilā iepakojumā – 1 Marles komprese (100 x 100 mm) sterilā iepakojumā – 5 Folijas sega (viena puse metalizēta, otra – spilgtā krāsā) iepakojumā – 1 Medicīnisko materiālu saraksts valsts valodā – 1 
 
 ## Rīcības secība negadījuma vietā
 
- Kur var notikt nelaimes gadījumi? Mājās (virtuve, vannas istaba, dzīvojamā zona, dārza darbi, pēkšņa saslimšana u.c.). Uz ielas (traumas, pēkšņa saslimšana, auto avārijas, notriekts gājējs u.c.). Atpūtā (grils, ugunskuri, ūdenstilpnes, sporta traumas, pēkšņa saslimšana u.c.). Darbā (pārkāpjot un neievērojot darba drošības prasības, pēkšņa saslimšana u.c.).  
+ Kur var notikt nelaimes gadījumi? Mājās (virtuve, vannas istaba, dzīvojamā zona, dārza darbi, pēkšņa saslimšana u.c.). Uz ielas (traumas, pēkšņa saslimšana, auto avārijas, notriekts gājējs u.c.). Atpūtā (grils, ugunskuri, ūdenstilpnes, sporta traumas, pēkšņa saslimšana u.c.). Darbā (pārkāpjot un neievērojot darba drošības prasības, pēkšņa saslimšana u.c.). 
 
-Kā var atpazīt nelaimes gadījumus?Redzot (cilvēks pakrīt acu priekšā, nekustīgi guļ vai sakņupis un atrodas neierastā vietā un laikā). Dzirdot (kāds sauc palīgā). Jūtot (pieskaroties cietušajam). Uzrunājot ("Kā jūtaties?").   Rīcības secība negadījuma vietā:saglabājiet mieru; novērtējiet situāciju, tai skaitā esošās un draudošās briesmas; rīkojieties ātri, droši, bet mērķtiecīgi; nebaidieties no kļūdām; sargājiet pats sevi!    
+Kā var atpazīt nelaimes gadījumus?Redzot (cilvēks pakrīt acu priekšā, nekustīgi guļ vai sakņupis un atrodas neierastā vietā un laikā). Dzirdot (kāds sauc palīgā). Jūtot (pieskaroties cietušajam). Uzrunājot ("Kā jūtaties?"). Rīcības secība negadījuma vietā:saglabājiet mieru; novērtējiet situāciju, tai skaitā esošās un draudošās briesmas; rīkojieties ātri, droši, bet mērķtiecīgi; nebaidieties no kļūdām; sargājiet pats sevi! 
 
 Tūlītējie pasākumi:
 
-Pasākumu komplekss, kas jāveic pirms palīdzības uzsākšanas, lai saglabātu savu, apkārtējo un cietušā vai saslimušā dzīvību: briesmu avotu novēršana: noslēdziet gāzi, nodzēsiet liesmu, atslēdziet elektrību, uzstādiet brīdinājumu zīmes; dzīvības glābšanas pasākumi: apturiet asiņošanu, uzsākiet atdzīvināšanas pasākumus.   Palīdzības izsaukšana: sauciet pēc citu palīdzības (“palīgā, sauciet ātros!”); ātro palīdzību lai sauc cits, ne Jūs; nekavējiet laiku, pievērsieties cietušajam, jo Jūs protat palīdzēt!   
+Pasākumu komplekss, kas jāveic pirms palīdzības uzsākšanas, lai saglabātu savu, apkārtējo un cietušā vai saslimušā dzīvību: briesmu avotu novēršana: noslēdziet gāzi, nodzēsiet liesmu, atslēdziet elektrību, uzstādiet brīdinājumu zīmes; dzīvības glābšanas pasākumi: apturiet asiņošanu, uzsākiet atdzīvināšanas pasākumus. Palīdzības izsaukšana: sauciet pēc citu palīdzības (“palīgā, sauciet ātros!”); ātro palīdzību lai sauc cits, ne Jūs; nekavējiet laiku, pievērsieties cietušajam, jo Jūs protat palīdzēt! 
 
-Kur zvanīt: 113 – Ātrās palīdzības dispečerdienests; 112 – Glābšanas dienesta dispečerdienests; vai izmantot mobilo aplikāciju.   
+Kur zvanīt: 113 – Ātrās palīdzības dispečerdienests; 112 – Glābšanas dienesta dispečerdienests; vai izmantot mobilo aplikāciju. 
 
-Ziņo: kur noticis; kas noticis; cik cietušo vai slimo; nepārtrauciet sarunu, pirms to nav izdarījis dispečers.   Kur noticis:pilsētā – pilsēta, adrese, mājas nr., dzīvokļa nr., durvju kods. (Rīga, Tallinas 29-21, durvju kods 12345). pagastā – novads, pagasts, apdzīvota vieta, mājas nosaukums. (Burtnieku novads, Burtnieku pagasts, Matīši, «Ozoliņi»). auto avārija – ceļa apzīmējums, kurā km (A4 vai P100 vai V25, aptuveni no 17. līdz 19. km). Mežā apmaldījies vai kļuva slikti, nav apdzīvotas vietas.    Izmantot mobilo aplikāciju
+Ziņo: kur noticis; kas noticis; cik cietušo vai slimo; nepārtrauciet sarunu, pirms to nav izdarījis dispečers. Kur noticis:pilsētā – pilsēta, adrese, mājas nr., dzīvokļa nr., durvju kods. (Rīga, Tallinas 29-21, durvju kods 12345). pagastā – novads, pagasts, apdzīvota vieta, mājas nosaukums. (Burtnieku novads, Burtnieku pagasts, Matīši, «Ozoliņi»). auto avārija – ceļa apzīmējums, kurā km (A4 vai P100 vai V25, aptuveni no 17. līdz 19. km). Mežā apmaldījies vai kļuva slikti, nav apdzīvotas vietas. Izmantot mobilo aplikāciju
 
 Kas noticis, cik cietušo vai slimo. Piemēri:
 
-sāpes krūtīs, elpas trūkums, bāla sejas āda satraukums; cilvēks bezsamaņā ELPO; cilvēks bezsamaņā NEELPO; ļoti stipra asiņošana no rokas, sagriezies uz stikliem, bāls; auto avārija, 4 cietušie, 2 kliedz, 2 klusē un nekontaktē. Visi asiņaini.   Atgriezies pie cietušā un turpini sniegt palīdzību līdz Ātras palīdzības ierašanas brīdim.
+sāpes krūtīs, elpas trūkums, bāla sejas āda satraukums; cilvēks bezsamaņā ELPO; cilvēks bezsamaņā NEELPO; ļoti stipra asiņošana no rokas, sagriezies uz stikliem, bāls; auto avārija, 4 cietušie, 2 kliedz, 2 klusē un nekontaktē. Visi asiņaini. Atgriezies pie cietušā un turpini sniegt palīdzību līdz Ātras palīdzības ierašanas brīdim.
 
 Cietušā aprūpe
 
-Cietušā aprūpe ietver šādas darbības:  pirmā palīdzība līdz ĀP ierašanās brīdim; sniedziet palīdzību, runājot ar cietušo; psiholoģiskā palīdzība.    
+Cietušā aprūpe ietver šādas darbības: pirmā palīdzība līdz ĀP ierašanās brīdim; sniedziet palīdzību, runājot ar cietušo; psiholoģiskā palīdzība. 
 
-Psiholoģiskā palīdzība: runājiet mierīgi, nomierinoši, bet pārliecinoši; iepazīstiniet ar sevi; uzklausiet cietušo; neatstājiet cietušo vienu; informējiet cietušo par savām (glābēja) darbībām; informējiet cietušo par notiekošo (reālā pozitīvā informācija); uzturiet vieglu kontaktu ar cietušā ķermeni; neko nepārmetiet; pasargājiet cietušo no ziņkārīgajiem; paziņojiet cietušā radiniekiem.   Glābēja uzdevums
+Psiholoģiskā palīdzība: runājiet mierīgi, nomierinoši, bet pārliecinoši; iepazīstiniet ar sevi; uzklausiet cietušo; neatstājiet cietušo vienu; informējiet cietušo par savām (glābēja) darbībām; informējiet cietušo par notiekošo (reālā pozitīvā informācija); uzturiet vieglu kontaktu ar cietušā ķermeni; neko nepārmetiet; pasargājiet cietušo no ziņkārīgajiem; paziņojiet cietušā radiniekiem. Glābēja uzdevums
 
 Darboties pirmos 3 posmos, retos izņēmuma gadījumos 4 posmu ietvaros. Slimnīca uz pirmās palīdzības sniedzējiem neattiecas. Kāds rezultāts būs slimnīcā, viss ir atkarīgs no pirmajiem trīs glābšanas ķēdītes posmiem.
 
@@ -434,45 +430,9 @@ Darboties pirmos 3 posmos, retos izņēmuma gadījumos 4 posmu ietvaros. Slimnī
 
  Insults ir galvas smadzeņu bojājums, kura cēlonis ir asinsrites traucējumi galvas smadzenēs, kas apdraud saslimušā dzīvību, jo, nepienākot ar asinīm glikozei un skābeklim, apstājas vielmaiņas procesi smadzeņu šūnās. Notiek neatgriezeniski procesi, un šūnas iet bojā. Atkarībā no bojājuma lokalizācijas tiek traucēta vai pat zaudēta kāda no organisma funkcijām, cilvēku smagi invalidizējot, var iestāties nāvē.
 
-Pazīmes, kas liecina par insultu: smaidot šķība viena sejas puse (palūdziet smaidīt); nevar vienlaicīgi vienmērīgi pacelt abas rokas; nevar atkārtot vienkāršu teikumu.   Palīdzība: Nekavējoties izsauciet Ātro palīdzību (ja ir vismaz viena no šīm pazīmēm). Ja ir samaņas traucējumi, novietojiet cietušo stabilā sānu pozā. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams. Slimnīcā jānokļūst 4,5 stundu laikā pēc pirmajiem simptomiem.   Kļūdas: laika vilcināšana; medikamentu lietošana; ēšana vai dzeršana; ārstēšanās mājas apstākļos.    
+Pazīmes, kas liecina par insultu: smaidot šķība viena sejas puse (palūdziet smaidīt); nevar vienlaicīgi vienmērīgi pacelt abas rokas; nevar atkārtot vienkāršu teikumu. Palīdzība: Nekavējoties izsauciet Ātro palīdzību (ja ir vismaz viena no šīm pazīmēm). Ja ir samaņas traucējumi, novietojiet cietušo stabilā sānu pozā. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības. Aprūpējiet, nomieriniet saslimušo. Veiciet atdzīvināšanas pasākumus, ja nepieciešams. Slimnīcā jānokļūst 4,5 stundu laikā pēc pirmajiem simptomiem. Kļūdas: laika vilcināšana; medikamentu lietošana; ēšana vai dzeršana; ārstēšanās mājas apstākļos. 
 
 Video: https://www.youtube.com/watch?v=BKl7Zyum5yYAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Insults. 02.08.2017
-
-## Pašpārbaudes tests
-
- @@PLUGINFILE@@/tema-asinosana-1291853015706913227.h5p  
-
-## Pašpārbaudes tests – Šoks
-
- @@PLUGINFILE@@/tema-oks-1291853029790898897.h5p  
-
-## Pašpārbaudes tests – Apdegumi
-
- @@PLUGINFILE@@/tema-apdegumi-1291853062343027747.h5p  
-
-## Pašpārbaudes tests – Rīcība ugunsgrēka laikā
-
- @@PLUGINFILE@@/tema-riciba-ugunsgreka-laiky-1291853039442940717%20%281%29.h5p  
-
-## Pašpārbaudes tests – Atdzišana
-
- @@PLUGINFILE@@/tema-atdzisana-1291853041289624347.h5p  
-
-## Pašpārbaudes tests – Apsaldējumi
-
- @@PLUGINFILE@@/tema-apsaldejumi-1291853048799818527%20%281%29.h5p 
-
-## Pašpārbaudes tests – Ķīmiska viela uz ādas
-
- @@PLUGINFILE@@/tema-imiska-vieta-uz-ydas-1346738.h5p  
-
-## Pašpārbaudes tests – Ķīmiska viela acī
-
- @@PLUGINFILE@@/tema-imiska-vieta-aci.h5p  
-
-## Pašpārbaudes tests – Ķīmiska viela gremošanas traktā
-
- @@PLUGINFILE@@/tema-imiska-viela%20gremosanas%20trakta-1346738%20%282%29.h5p  
 
 # Atdzīvināšanas pasākumi
 
@@ -484,15 +444,15 @@ Atdzīvināšanas pasākumu praktiskai īstenošanai un apmācībai tiek izmanto
 
 Dzīvības glābšanas ķēde:
 
-Agrīna atpazīšana un palīdzības izsaukšana Agrīnie atdzīvināšanas pasākumi Agrīna defibrilācija Aprūpe pēc reanimācijas  
+Agrīna atpazīšana un palīdzības izsaukšana Agrīnie atdzīvināšanas pasākumi Agrīna defibrilācija Aprūpe pēc reanimācijas 
 
 Ar atdzīvināšanas pasākumiem, ieskaitot ārējo sirds masāžu un mākslīgo elpināšanu, tiek vinnēts laiks, uzturot dzīvības procesus galvas smadzeņu šūnās līdz brīdim, kad cietušajam tiek pievienots defibrilators, kurš ar spēcīgu elektriskas strāvas triecienu var iedarbināt sirdi.
 
-ABC dzīvības glābšanas algoritma nosaukums atspoguļo tā sastāvdaļas un ir radies no to nosaukumu pirmajiem burtiem angļu valodā.  A – airways  – elpošanas ceļi; B – breathing  – elpošana; C – circulation  – asinsrite.    
+ABC dzīvības glābšanas algoritma nosaukums atspoguļo tā sastāvdaļas un ir radies no to nosaukumu pirmajiem burtiem angļu valodā. A – airways – elpošanas ceļi; B – breathing – elpošana; C – circulation – asinsrite. 
 
 Pēc algoritma sastāvdaļu īstenošanas secības šodien tas praktiski kļuvis par ACB.
 
-Video angļu valodā papildu informācijai: https://youtu.be/qdFkiktijHcAvots: First Aid Accident &amp;amp; Emergency. Pakrun Chain of Survival. 21.03.2017  
+Video angļu valodā papildu informācijai: https://youtu.be/qdFkiktijHcAvots: First Aid Accident &amp;amp; Emergency. Pakrun Chain of Survival. 21.03.2017 
 
 ## Rīcība negadījuma vietā. ABC praktiskais demonstrējums
 
@@ -500,7 +460,7 @@ Video angļu valodā papildu informācijai: https://youtu.be/qdFkiktijHcAvots: F
 
 1. Pārliecinieties par savu un apkārtējo drošību.
 
-2. Pārbaudiet cietušā samaņu: saudzīgi papuriniet cietušo aiz pleciem un skaļi uzrunājiet cietušo. 2.1. Ja cietušais reaģē, atbild, tātad ir pie samaņas:  atstājiet cietušo tādā pašā pozā, kādā atradāt, vai piedāvājiet cietušajam nogulties vēlamajā pozā; centieties nodibināt ar cietušo kontaktu, mieriniet, nepārmetiet; pasargājiet cietušo no apkārtējās vides iedarbības; centieties noskaidrot, kas noticis ar cietušo, un sniedziet nepieciešamo palīdzību; ja nepieciešams, izsauciet Ātro palīdzību; aprūpējiet un mieriniet cietušo; regulāri atkārtoti pārbaudiet cietušā samaņu.   2.2. Ja cietušais nereaģē/neatbild, tad uzskatiet, ka viņš zaudējis samaņu.
+2. Pārbaudiet cietušā samaņu: saudzīgi papuriniet cietušo aiz pleciem un skaļi uzrunājiet cietušo. 2.1. Ja cietušais reaģē, atbild, tātad ir pie samaņas: atstājiet cietušo tādā pašā pozā, kādā atradāt, vai piedāvājiet cietušajam nogulties vēlamajā pozā; centieties nodibināt ar cietušo kontaktu, mieriniet, nepārmetiet; pasargājiet cietušo no apkārtējās vides iedarbības; centieties noskaidrot, kas noticis ar cietušo, un sniedziet nepieciešamo palīdzību; ja nepieciešams, izsauciet Ātro palīdzību; aprūpējiet un mieriniet cietušo; regulāri atkārtoti pārbaudiet cietušā samaņu. 2.2. Ja cietušais nereaģē/neatbild, tad uzskatiet, ka viņš zaudējis samaņu.
 
 3. Sauciet palīgā citus, lieciet tiem izsaukt ĀP.
 
@@ -510,7 +470,7 @@ Video angļu valodā papildu informācijai: https://youtu.be/qdFkiktijHcAvots: F
 
 Cilvēkam, guļot uz muguras bezsamaņā, mēle noslīd uz leju un nosprosto elpošanas ceļus. Tāpēc pirms pārbaudot, vai cietušais elpo, tie tiek atvērti, noliecot galvu un paceļot zodu.
 
-6. Pārbaudiet un izvērtējiet elpošanu, turot galvu ar abām rokām, redzot, dzirdot un jūtot, ne ilgāk kā 10 sekundes: redzot (skatoties ar acīm uz cietušā vai pēkšņi saslimušā krūtīm); dzirdot (klausoties ar ausi, vai cietušais jeb pēkšņi saslimušais elpo); jūtot (jūtot ar vaigu cietušā jeb pēkšņi saslimušā silto izelpu).   6.1. Ja cietušais elpo normāli: novietojiet cietušo stabilā sānu pozā; lieciet kādam izsaukt vai, ja esat viens, pats izsauciet Ātro palīdzību; atkārtoti pārbaudiet cietušā elpošanu.    
+6. Pārbaudiet un izvērtējiet elpošanu, turot galvu ar abām rokām, redzot, dzirdot un jūtot, ne ilgāk kā 10 sekundes: redzot (skatoties ar acīm uz cietušā vai pēkšņi saslimušā krūtīm); dzirdot (klausoties ar ausi, vai cietušais jeb pēkšņi saslimušais elpo); jūtot (jūtot ar vaigu cietušā jeb pēkšņi saslimušā silto izelpu). 6.1. Ja cietušais elpo normāli: novietojiet cietušo stabilā sānu pozā; lieciet kādam izsaukt vai, ja esat viens, pats izsauciet Ātro palīdzību; atkārtoti pārbaudiet cietušā elpošanu. 
 
 Cietušā novietošana stabilā sānu pozā
 
@@ -518,37 +478,33 @@ Video: https://youtu.be/G6ww1-13xqs Avots: LTV raidījuma "Rīta panorāmas" rub
 
 Kļūda: novietot uz slīpa pamata.
 
-6.2. Ja cietušais neelpo vai neelpo normāli (lēni, trokšņaini gārdzieni vai tikko nosakāma elpošana):  lieciet kādam izsaukt Ātro palīdzību vai, ja esat viens, pats izsauciet Ātro palīdzību;   atbrīvojiet sirds masāžas vietu no apģērba, rokas novietojot krūškurvja vidū, un uzsāciet sirds masāžu.   Pareiza roku pozīcija – krūšu kaula vidū.
+6.2. Ja cietušais neelpo vai neelpo normāli (lēni, trokšņaini gārdzieni vai tikko nosakāma elpošana): lieciet kādam izsaukt Ātro palīdzību vai, ja esat viens, pats izsauciet Ātro palīdzību; atbrīvojiet sirds masāžas vietu no apģērba, rokas novietojot krūškurvja vidū, un uzsāciet sirds masāžu. Pareiza roku pozīcija – krūšu kaula vidū.
 
-Spiediens tiek īstenots ar delnas pamatni
+Spiediens tiek īstenots ar delnas pamatni 
 
-  
-
-Veiciet 30 sirds masāžas: sirds masāžas temps 100 - 120 reizes minūtē; sirds masāžas dziļums 5 – 6 cm.    
+Veiciet 30 sirds masāžas: sirds masāžas temps 100 - 120 reizes minūtē; sirds masāžas dziļums 5 – 6 cm. 
 
 Turiet rokas taisnas un “stingras”, galvenā slodze – muguras muskuļiem.
 
-Novietojiet ceļus cietušajam klāt, rokas vertikālā pozīcijā pret krūšu kurvi, piepalīdzēšanai izmantojiet sava ķermeņa svaru (gravitācijas spēku).
+Novietojiet ceļus cietušajam klāt, rokas vertikālā pozīcijā pret krūšu kurvi, piepalīdzēšanai izmantojiet sava ķermeņa svaru (gravitācijas spēku). 
 
-  
+7. Veiciet 2 elpināšanas „mute – mutē”: atbrīvojiet elpceļus, atliecot galvu un paceļot zodu; aizspiediet cietušā degunu; 
 
-7. Veiciet 2 elpināšanas „mute – mutē”:  atbrīvojiet elpceļus, atliecot galvu un paceļot zodu; aizspiediet cietušā degunu;    
-
-    katrai elpināšanai patērējiet apmēram 1 sekundi; elpināšanas tilpums 500 – 600 ml – mierīgas izelpas tilpums; novērojiet cietušā pasīvās izelpas.   
+ katrai elpināšanai patērējiet apmēram 1 sekundi; elpināšanas tilpums 500 – 600 ml – mierīgas izelpas tilpums; novērojiet cietušā pasīvās izelpas. 
 
 8. Turpiniet masēt un elpināt attiecībā 30 : 2.
 
-Kļūdas: Noguldīt uz slīpa pamata. Masēšanas laikā locīt rokas elkoņu locītavas, ātri nāks nogurums.    
+Kļūdas: Noguldīt uz slīpa pamata. Masēšanas laikā locīt rokas elkoņu locītavas, ātri nāks nogurums. 
 
 Video: https://youtu.be/l83uNiZHdswAvots: LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC". Atdzīvināšana – pieaugušie. 10.07.2017
 
-Ja pēc pirmā elpināšanas mēģinājuma krūškurvis nepaceļas, tad pirms nākamās elpināšanas: paskatieties cietušā mutē un izņemiet visus redzamos svešķermeņus; pārbaudiet, vai cietušā galva ir atliekta un zods pacelts; pārbaudiet, vai ir aizspiests cietušā deguns; neveiciet vairāk kā 2 elpināšanas.   Intervāliem starp sirds masāžas un elpināšanas fāzēm ir jābūt maksimāli īsiem (grafiks B). Tikai tā var noturēt ar masāžu sasniegto asinsspiedienu. Pauzes rada asinsspiediena kritumu, pārtraucot asinsriti galvas smadzenēs (grafiks A).
+Ja pēc pirmā elpināšanas mēģinājuma krūškurvis nepaceļas, tad pirms nākamās elpināšanas: paskatieties cietušā mutē un izņemiet visus redzamos svešķermeņus; pārbaudiet, vai cietušā galva ir atliekta un zods pacelts; pārbaudiet, vai ir aizspiests cietušā deguns; neveiciet vairāk kā 2 elpināšanas. Intervāliem starp sirds masāžas un elpināšanas fāzēm ir jābūt maksimāli īsiem (grafiks B). Tikai tā var noturēt ar masāžu sasniegto asinsspiedienu. Pauzes rada asinsspiediena kritumu, pārtraucot asinsriti galvas smadzenēs (grafiks A).
 
-Ja nevarat vai negribat izdarīt elpināšanu, veiciet tikai sirds masāžu: sirds masāža jāizdara nepārtraukti, bez pauzēm; sirds masāžas temps 100 - 120 reizes minūtē. sirds masāžas dziļums 5 - 6 cm.   Glābēja pasargāšanai no inficēšanas riskiem, veicot “mute – mutē” elpināšanu, var izmantot pirmās palīdzības aptieciņā atrodamo filtru, kuru ievieto cietušajam mutē.
+Ja nevarat vai negribat izdarīt elpināšanu, veiciet tikai sirds masāžu: sirds masāža jāizdara nepārtraukti, bez pauzēm; sirds masāžas temps 100 - 120 reizes minūtē. sirds masāžas dziļums 5 - 6 cm. Glābēja pasargāšanai no inficēšanas riskiem, veicot “mute – mutē” elpināšanu, var izmantot pirmās palīdzības aptieciņā atrodamo filtru, kuru ievieto cietušajam mutē.
 
-  Elpināšanu var veikt, izmantojot masku un ventilēšanas maisu. Ja ir vairāki glābēji, tad tie var mainīties, patērējot maiņai pēc iespējas mazāku laiku, un katrs veic atdzīvināšanas pasākumus 2 minūtes.
+ Elpināšanu var veikt, izmantojot masku un ventilēšanas maisu. Ja ir vairāki glābēji, tad tie var mainīties, patērējot maiņai pēc iespējas mazāku laiku, un katrs veic atdzīvināšanas pasākumus 2 minūtes.
 
-Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: ierodas Ātrā palīdzība un pārņem cietušā atdzīvināšanu; cietušais vismaz 2 reizes pilnvērtīgi ieelpo; cietušais sāk kustēties, atver acis; jūsu spēki izsīkst.   Veicot atdzīvināšanas pasākumus, var lietot automātisko ārējo defibrilatoru (AĀD), ja palīdzības sniedzējs ir apmācīts AĀD lietošanā.
+Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: ierodas Ātrā palīdzība un pārņem cietušā atdzīvināšanu; cietušais vismaz 2 reizes pilnvērtīgi ieelpo; cietušais sāk kustēties, atver acis; jūsu spēki izsīkst. Veicot atdzīvināšanas pasākumus, var lietot automātisko ārējo defibrilatoru (AĀD), ja palīdzības sniedzējs ir apmācīts AĀD lietošanā.
 
 Jebkurā nelaimes gadījumā, kad cietušais ir zaudējis samaņu, ir jārīkojas pēc atdzīvināšanas pasākumu principiem, ievērojot dzīvības glābšanas ABC algoritmu. Tikai tā var iekļauties dzīvības glābšanas ķēdē, un Ātras palīdzības mediķi varēs turpināt cietuša glābšanu.
 
@@ -600,19 +556,19 @@ http://ec.europa.eu/echo/
 
 Kas tad kopumā ir Eiropas Savienības Civilās aizsardzības mehānisms?
 
-Pirmkārt, tas ir reglamentējošo dokumentu kopums, kurš nosaka, kādai ir jābūt civilās aizsardzības sistēmai ES un tās dalībvalstīs. Civilās aizsardzības mērķi tiek definēti šādi: “Savienības mehānisms atbalsta, papildina un atvieglo dalībvalstu darbību koordināciju, lai sasniegtu šādus kopīgos un īpašos mērķus:  sasniegt augstu aizsardzības līmeni pret katastrofām, novēršot vai samazinot to iespējamās sekas, veicinot novēršanas kultūru un uzlabojot sadarbību starp civilo aizsardzību un citiem kompetentiem dienestiem; uzlabot sagatavotību reaģēšanai uz katastrofām dalībvalstu un Savienības līmenī; veicināt ātru un efektīvu rīcību katastrofas vai katastrofu gadījumā; veicināt sabiedrības informētību par katastrofām un gatavību tām.”   Otrkārt, tās ir institūcijas vai struktūras: Eiropas Komisijas Humānās palīdzības un civilās aizsardzības ģenerāldirektorāts, kurš nodrošina Civilās aizsardzības mehānisma darbību. http://ec.europa.eu/echo/ 
+Pirmkārt, tas ir reglamentējošo dokumentu kopums, kurš nosaka, kādai ir jābūt civilās aizsardzības sistēmai ES un tās dalībvalstīs. Civilās aizsardzības mērķi tiek definēti šādi: “Savienības mehānisms atbalsta, papildina un atvieglo dalībvalstu darbību koordināciju, lai sasniegtu šādus kopīgos un īpašos mērķus: sasniegt augstu aizsardzības līmeni pret katastrofām, novēršot vai samazinot to iespējamās sekas, veicinot novēršanas kultūru un uzlabojot sadarbību starp civilo aizsardzību un citiem kompetentiem dienestiem; uzlabot sagatavotību reaģēšanai uz katastrofām dalībvalstu un Savienības līmenī; veicināt ātru un efektīvu rīcību katastrofas vai katastrofu gadījumā; veicināt sabiedrības informētību par katastrofām un gatavību tām.” Otrkārt, tās ir institūcijas vai struktūras: Eiropas Komisijas Humānās palīdzības un civilās aizsardzības ģenerāldirektorāts, kurš nodrošina Civilās aizsardzības mehānisma darbību. http://ec.europa.eu/echo/ 
 
-Ārkārtas reaģēšanas koordinācijas centrs – Emergency Response Coordination Center  (ERCC). ERCC nodrošina darbības iespējas 7 dienas nedēļā un 24 stundas diennaktī un palīdz dalībvalstīm un Komisijai sasniegt Savienības mehānisma mērķus.
+Ārkārtas reaģēšanas koordinācijas centrs – Emergency Response Coordination Center (ERCC). ERCC nodrošina darbības iespējas 7 dienas nedēļā un 24 stundas diennaktī un palīdz dalībvalstīm un Komisijai sasniegt Savienības mehānisma mērķus.
 
-Kopēja ārkārtas sakaru un informācijas sistēma – Common Emergency Communication and Information System  (CECIS), lai nodrošinātu saziņu un informācijas apmaiņu starp ERCC un valstu kontaktpunktiem.
+Kopēja ārkārtas sakaru un informācijas sistēma – Common Emergency Communication and Information System (CECIS), lai nodrošinātu saziņu un informācijas apmaiņu starp ERCC un valstu kontaktpunktiem.
 
-Par ES Civilās aizsardzības mehānisma mērķu sasniegšanu atbild Eiropas Komisija. “Eiropas Komisija Civilās aizsardzības gatavības jomā veic šādas darbības:  vada ERCC; pārvalda kopējo ārkārtas situāciju sakaru un informācijas sistēmu (CECIS), lai nodrošinātu saziņu un informācijas apmaiņu starp ERCC un valstu kontaktpunktiem; veicina savstarpēju saikni starp valstu agrīnās brīdināšanas sistēmām un to saistību ar ERCC un CECIS;  izveido un pārvalda spēju mobilizēt un nosūtīt ekspertu grupas, kas ir atbildīgas par šādiem uzdevumiem; novērtē vajadzības, kuras, iespējams, var apmierināt ar Savienības mehānisma palīdzību valstī, kas lūdz palīdzību.”   Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvalde ir nacionālais kontaktpunkts, kas nodrošina regulāru saziņu un informācijas apmaiņu ar Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC) un NATO Eiroatlantisko Katastrofu palīdzības koordinācijas centru (EADRCC).
+Par ES Civilās aizsardzības mehānisma mērķu sasniegšanu atbild Eiropas Komisija. “Eiropas Komisija Civilās aizsardzības gatavības jomā veic šādas darbības: vada ERCC; pārvalda kopējo ārkārtas situāciju sakaru un informācijas sistēmu (CECIS), lai nodrošinātu saziņu un informācijas apmaiņu starp ERCC un valstu kontaktpunktiem; veicina savstarpēju saikni starp valstu agrīnās brīdināšanas sistēmām un to saistību ar ERCC un CECIS; izveido un pārvalda spēju mobilizēt un nosūtīt ekspertu grupas, kas ir atbildīgas par šādiem uzdevumiem; novērtē vajadzības, kuras, iespējams, var apmierināt ar Savienības mehānisma palīdzību valstī, kas lūdz palīdzību.” Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvalde ir nacionālais kontaktpunkts, kas nodrošina regulāru saziņu un informācijas apmaiņu ar Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC) un NATO Eiroatlantisko Katastrofu palīdzības koordinācijas centru (EADRCC).
 
-Saite uz attiecīgajiem Eiropas Savienības tiesību aktiem: http://ec.europa.eu/echo/who/about-echo/legal-framework   
+Saite uz attiecīgajiem Eiropas Savienības tiesību aktiem: http://ec.europa.eu/echo/who/about-echo/legal-framework 
 
 Treškārt, ES Civilās aizsardzības mehānisms nodrošina regulāru dalībvalstu ekspertu komiteju un darba grupu apriti.
 
-Tā, piemēram, ekspertu līmenī Latvijas Valsts ugunsdzēsības un glābšanas dienests pārstāv nacionālās intereses Eiropas līmeņa darba grupās un komitejās:   Eiropas Padomes Civilās aizsardzības darba grupā; Agrīnās brīdināšanas sistēmu darba grupā; Uzņēmējas valsts atbalsta darba grupā; Transporta darba grupā; Moduļa darba grupā; CECIS darba grupā; Katastrofu seku likvidēšanas plānošanas darba grupas apakšgrupā; CBRN (ķīmiskas, bioloģiskas, radioloģiskas un kodolaizsardzības) rīcības plāna apakšgrupās; Valsts apmācību koordinatoru darba grupā; Civilās aizsardzības komitejā.   
+Tā, piemēram, ekspertu līmenī Latvijas Valsts ugunsdzēsības un glābšanas dienests pārstāv nacionālās intereses Eiropas līmeņa darba grupās un komitejās: Eiropas Padomes Civilās aizsardzības darba grupā; Agrīnās brīdināšanas sistēmu darba grupā; Uzņēmējas valsts atbalsta darba grupā; Transporta darba grupā; Moduļa darba grupā; CECIS darba grupā; Katastrofu seku likvidēšanas plānošanas darba grupas apakšgrupā; CBRN (ķīmiskas, bioloģiskas, radioloģiskas un kodolaizsardzības) rīcības plāna apakšgrupās; Valsts apmācību koordinatoru darba grupā; Civilās aizsardzības komitejā. 
 
 ## Civilās aizsardzības loma ANO, ES un NATO kontekstā
 
@@ -626,7 +582,7 @@ Miera uzturētājiem ir saistošas ​​starptautiskās humanitārās tiesības
 
 ANO ir izstrādājusi Operatīvo koncepciju par civiliedzīvotāju aizsardzību Apvienoto Nāciju Organizācijas miera uzturēšanas operācijās.
 
-Tā piedāvā trīs līmeņu pieeju: aizsargāt, izmantojot politisko procesu, piem., miera sarunu ceļā, un attīstot pārvaldības iestādes. Tas var ietvert arī konfliktu vadību un samierināšanu; sargāt no fiziskas vardarbības, piem., izmantojot patruļas un cilvēktiesību uzraudzību. Tā var ietvert arī aizsardzības pozīcijas vai kordonus, piemēram, ap kopienu vai bēgļu novietni; izveidot aizsargājošu vidi, piem., reformējot policiju, tiesu un aizsardzības nozari.   Video: https://youtu.be/OEU_MdMrBy4   Apvienoto Nāciju Organizācija (ANO) fondi, programmas un aģentūras  
+Tā piedāvā trīs līmeņu pieeju: aizsargāt, izmantojot politisko procesu, piem., miera sarunu ceļā, un attīstot pārvaldības iestādes. Tas var ietvert arī konfliktu vadību un samierināšanu; sargāt no fiziskas vardarbības, piem., izmantojot patruļas un cilvēktiesību uzraudzību. Tā var ietvert arī aizsardzības pozīcijas vai kordonus, piemēram, ap kopienu vai bēgļu novietni; izveidot aizsargājošu vidi, piem., reformējot policiju, tiesu un aizsardzības nozari. Video: https://youtu.be/OEU_MdMrBy4 Apvienoto Nāciju Organizācija (ANO) fondi, programmas un aģentūras 
 
 Apvienoto Nāciju Organizācija (ANO) ir plašs fondu, programmu un specializētu aģentūru tīkls – katrai no tām ir savs darba apjoms un vadība. No veselības aprūpes un lauksaimniecības līdz dzimumu līdztiesībai un cilvēku pārvietošanai. Tās sniedz humāno palīdzību, kas ietver pārtikas, tīra ūdens, medikamentu un pajumtes nodrošināšanu krīzes skartajām kopienām katastrofas vietā.
 
@@ -666,7 +622,7 @@ ES Civilās aizsardzības mehānisms koordinē reaģēšanu uz dabas un cilvēka
 
 ES dalībvalstis deklarē savas spējas, ekspertus, resursus, kuri var tikt izmantoti katastrofu gadījumos pēc cietušās valsts pieprasīšanas, izmantojot Ārkārtas reaģēšanas koordinācijas centru (ERCC) Briselē un Kopējo ārkārtas sakaru un informācijas sistēmu (CECIS), kas nodrošina nepārtrauktu saziņu un informācijas apmaiņu starp Ārkārtas reaģēšanas koordinācijas centru un valstu kontaktpunktiem.
 
-ES civilās aizsardzības mehānisma ietvaros tiek izveidotas Eiropas Ārkārtas reaģēšanas spējas – European Emergency Response Capacity (EERC):  tās ir izveidotas kā rezervju saraksts, kurā iepriekš brīvprātīgi pieteiktas un ir iekļautas dalībvalstu reaģēšanas spējas, un tajā ir iekļauti moduļi, citas reaģēšanas spējas un eksperti;  pamatojoties uz identificētajiem riskiem, Komisija nosaka galvenos "reaģēšanas spēju mērķus" – to veidus un apjomu, ko pieprasa EERC;  Komisija nosaka kvalitātes prasības reaģēšanas spējām, ko dalībvalstis piešķir EERC. Kvalitātes prasības ir balstītas uz atzītiem starptautiskiem standartiem, ja tādi jau pastāv. Dalībvalstis ir atbildīgas par savu reaģēšanas spēju kvalitātes nodrošināšanu;   Komisija izstrādā un pārvalda to reaģēšanas spēju sertifikācijas un reģistrācijas procesu, kuru dalībvalstis dara pieejamas caur EERC.   Situācija tiek vērota ne tikai Eiropas kontinentā, taču arī citur pasaulē, paužot gatavību sniegt palīdzību pēc jebkuras valsts pieprasīšanas katastrofu gadījumos.
+ES civilās aizsardzības mehānisma ietvaros tiek izveidotas Eiropas Ārkārtas reaģēšanas spējas – European Emergency Response Capacity (EERC): tās ir izveidotas kā rezervju saraksts, kurā iepriekš brīvprātīgi pieteiktas un ir iekļautas dalībvalstu reaģēšanas spējas, un tajā ir iekļauti moduļi, citas reaģēšanas spējas un eksperti; pamatojoties uz identificētajiem riskiem, Komisija nosaka galvenos "reaģēšanas spēju mērķus" – to veidus un apjomu, ko pieprasa EERC; Komisija nosaka kvalitātes prasības reaģēšanas spējām, ko dalībvalstis piešķir EERC. Kvalitātes prasības ir balstītas uz atzītiem starptautiskiem standartiem, ja tādi jau pastāv. Dalībvalstis ir atbildīgas par savu reaģēšanas spēju kvalitātes nodrošināšanu; Komisija izstrādā un pārvalda to reaģēšanas spēju sertifikācijas un reģistrācijas procesu, kuru dalībvalstis dara pieejamas caur EERC. Situācija tiek vērota ne tikai Eiropas kontinentā, taču arī citur pasaulē, paužot gatavību sniegt palīdzību pēc jebkuras valsts pieprasīšanas katastrofu gadījumos.
 
 ES Civilās aizsardzības mehānisma darbības kārtība aprakstīta sadaļa 5.2. Eiropas Savienības civilās aizsardzības mehānisms.
 
@@ -686,11 +642,11 @@ Civilo un militāro spēju apvienošana atspoguļota Ziemeļatlantijas līguma 3
 
 "Sabiedrotie ir apņēmības pilni veidot spēku, apvienojot civilās apmācības un militārās spējas.
 
-Sabiedrotie vienojas par pamatprasībām septiņām stratēģiskajām nozarēm:  valdības darba nepārtrauktība;  enerģija;  iedzīvotāju kustība; pārtikas un ūdens resursi; masveida upuri; civilie sakari; transporta sistēmas."   NATO izpratnē civilās aizsardzības efektīvai rīcībai ir nepieciešams savlaicīgi izstrādāt, definēt un regulāri īstenot skaidrus plānus un reaģēšanas pasākumus, lai novērstu iespējamos draudus vai traucējumus civilajā sektorā. Tāpēc militāro spēku centieni aizsargāt alianses teritoriju un tās iedzīvotājus ir jāpapildina ar rūpīgu civilo aizsardzību.
+Sabiedrotie vienojas par pamatprasībām septiņām stratēģiskajām nozarēm: valdības darba nepārtrauktība; enerģija; iedzīvotāju kustība; pārtikas un ūdens resursi; masveida upuri; civilie sakari; transporta sistēmas." NATO izpratnē civilās aizsardzības efektīvai rīcībai ir nepieciešams savlaicīgi izstrādāt, definēt un regulāri īstenot skaidrus plānus un reaģēšanas pasākumus, lai novērstu iespējamos draudus vai traucējumus civilajā sektorā. Tāpēc militāro spēku centieni aizsargāt alianses teritoriju un tās iedzīvotājus ir jāpapildina ar rūpīgu civilo aizsardzību.
 
-NATO plānošanā civilā aizsardzība galvenokārt ir saistīta ar valsts plānošanas aspektiem, kas ietekmē sabiedroto spējas:  valdības darbības nepārtrauktību;  pamatpakalpojumu nepārtrauktību iedzīvotājiem;  civilo atbalstu militārām operācijām.   2016. gadā NATO precizēja kritērijus civilās gatavības pakāpes novērtēšanai. Tie ir: Valdības un kritisko sabiedrisko pakalpojumu nepārtrauktība.  Energoapgādes nepārtrauktība.  Spēja efektīvi tikt galā ar nekontrolētu cilvēku pārvietošanos.  Pārtikas un ūdens resursu nodrošināšana.  Spēja tikt galā ar masveida upuriem.  Telekomunikāciju un kibernētiskie tīkli.  Transporta sistēmas.   Pēdējā laika notikumi, īpaši 2022. gada 24. februārī ar Krievijas karaspēka iebrukumu sācies karš Ukrainā, ir vērsti uz problēmām tuvāk alianses teritorijai. Būtībā šī karadarbība sākās jau 2014. gadā ar Krievijas izprovocētu konfliktu Ukrainas austrumos. Atbildot uz to, alianse vienojās un īstenoja Gatavības rīcības plānu – Readiness Action Plan  (RAP) kā nodrošinājuma un pielāgošanas esošai ģeopolitiskai situācijai kopumu. NATO secināja – lai RAP būtu pilnībā efektīvs, tas ir jāpapildina ar civilās aizsardzības elementiem.
+NATO plānošanā civilā aizsardzība galvenokārt ir saistīta ar valsts plānošanas aspektiem, kas ietekmē sabiedroto spējas: valdības darbības nepārtrauktību; pamatpakalpojumu nepārtrauktību iedzīvotājiem; civilo atbalstu militārām operācijām. 2016. gadā NATO precizēja kritērijus civilās gatavības pakāpes novērtēšanai. Tie ir: Valdības un kritisko sabiedrisko pakalpojumu nepārtrauktība. Energoapgādes nepārtrauktība. Spēja efektīvi tikt galā ar nekontrolētu cilvēku pārvietošanos. Pārtikas un ūdens resursu nodrošināšana. Spēja tikt galā ar masveida upuriem. Telekomunikāciju un kibernētiskie tīkli. Transporta sistēmas. Pēdējā laika notikumi, īpaši 2022. gada 24. februārī ar Krievijas karaspēka iebrukumu sācies karš Ukrainā, ir vērsti uz problēmām tuvāk alianses teritorijai. Būtībā šī karadarbība sākās jau 2014. gadā ar Krievijas izprovocētu konfliktu Ukrainas austrumos. Atbildot uz to, alianse vienojās un īstenoja Gatavības rīcības plānu – Readiness Action Plan (RAP) kā nodrošinājuma un pielāgošanas esošai ģeopolitiskai situācijai kopumu. NATO secināja – lai RAP būtu pilnībā efektīvs, tas ir jāpapildina ar civilās aizsardzības elementiem.
 
-Civilo ārkārtas situāciju plānošanas komiteja – The Civil Emergency Planning Committee  (CEPC) ir augstākā NATO padomdevēja institūcija civilo aizsardzībai un civilo atbalstam NATO. Civilo ārkārtas situāciju plānošana nodrošina NATO būtisku civilo pieredzi un spējas tādās jomās kā gatavība terorismam un to seku pārvarēšanai, humānā palīdzība un katastrofu seku likvidēšana, kā arī kritiskās infrastruktūras aizsardzība. CEPC koordinē vairākas jomas – ja nepieciešams –, lai atbalstītu alianses militārās operācijas vai atbalstītu valsts iestādes civilo ārkārtas situāciju plānošanu.
+Civilo ārkārtas situāciju plānošanas komiteja – The Civil Emergency Planning Committee (CEPC) ir augstākā NATO padomdevēja institūcija civilo aizsardzībai un civilo atbalstam NATO. Civilo ārkārtas situāciju plānošana nodrošina NATO būtisku civilo pieredzi un spējas tādās jomās kā gatavība terorismam un to seku pārvarēšanai, humānā palīdzība un katastrofu seku likvidēšana, kā arī kritiskās infrastruktūras aizsardzība. CEPC koordinē vairākas jomas – ja nepieciešams –, lai atbalstītu alianses militārās operācijas vai atbalstītu valsts iestādes civilo ārkārtas situāciju plānošanu.
 
 Civilo ārkārtas situāciju komiteja (CEPC) pārrauga arī Eiroatlantisko Katastrofu palīdzības koordinācijas centru (EADRCC) NATO galvenajā mītnē Briselē, kas darbojas kā kontaktpunkts un katastrofu seku palīdzības koordinators starp NATO un partnervalstīm, un valstīm, kurās NATO ir iesaistīta militārajās operācijās.
 
@@ -698,30 +654,28 @@ Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības p�
 
 ## Humānās palīdzības pieprasīšana un sniegšana
 
- Valsts mēroga katastrofās esošie resursi var būt nepietiekami, nepieciešams lūgt humāno palīdzību.
-
-  
+ Valsts mēroga katastrofās esošie resursi var būt nepietiekami, nepieciešams lūgt humāno palīdzību. 
 
 Humāno palīdzību valstij, kuru skārusi katastrofa vai krīzes situācija, sniedz materiālās, finansiālās vai loģistikas palīdzības veidā (ieskaitot ekspertu piesaisti). Ekspertīzi veic atbildīgā ministrija, kas Ministru kabineta noteikumos Nr. 659 ir ministrija, kuras funkcijas saskaņā ar Valsts civilās aizsardzības plānu atbilst konkrētajam apdraudējuma veidam.
 
-Humānās palīdzības saņemšana  
+Humānās palīdzības saņemšana 
 
-Par humānās palīdzības pieprasīšanas nepieciešamību atbildīgā ministrija informē Krīzes vadības padomi. Par humānās palīdzības pieprasījumu lemj Ministru kabinets, pamatojoties uz Krīzes vadības padomes ierosinājumu un atbildīgās ministrijas sniegto informāciju. Ārlietu ministrija pa diplomātiskajiem kanāliem nodrošina humānās palīdzības pieprasījuma nodošanu potenciālajiem humānās palīdzības sniedzējiem. Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvalde (nacionālais kontaktpunkts) nodrošina ar humānās palīdzības saņemšanu saistītās informācijas apriti gan ar Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC), gan ar Eiroatlantisko Katastrofu palīdzības koordinācijas centru (EADRCC). Atbildīgā ministrija vada un koordinē ar humānās palīdzības saņemšanu saistīto pasākumu īstenošanu, ja Ministru kabinets nav nolēmis citādi. Ja tā ir finansiālā palīdzība, finanšu palīdzības saņēmēja ministrija atver kontu Valsts kasē. Par finansiālās palīdzības izlietojumu lemj Ministru kabinets.    
+Par humānās palīdzības pieprasīšanas nepieciešamību atbildīgā ministrija informē Krīzes vadības padomi. Par humānās palīdzības pieprasījumu lemj Ministru kabinets, pamatojoties uz Krīzes vadības padomes ierosinājumu un atbildīgās ministrijas sniegto informāciju. Ārlietu ministrija pa diplomātiskajiem kanāliem nodrošina humānās palīdzības pieprasījuma nodošanu potenciālajiem humānās palīdzības sniedzējiem. Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvalde (nacionālais kontaktpunkts) nodrošina ar humānās palīdzības saņemšanu saistītās informācijas apriti gan ar Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC), gan ar Eiroatlantisko Katastrofu palīdzības koordinācijas centru (EADRCC). Atbildīgā ministrija vada un koordinē ar humānās palīdzības saņemšanu saistīto pasākumu īstenošanu, ja Ministru kabinets nav nolēmis citādi. Ja tā ir finansiālā palīdzība, finanšu palīdzības saņēmēja ministrija atver kontu Valsts kasē. Par finansiālās palīdzības izlietojumu lemj Ministru kabinets. 
 
-   Secīgi iesaistītās valsts institūcijas    Darbības       1.    Atbildīga ministrija    Sagatavo informāciju par nepieciešamību un apjomu       2.    Krīzes vadības padome    Pieņem lēmumu par pieprasīšanu       3.    Ministru kabinets    Pieņem lēmumu par pieprasīšanu       4.    Ārlietu ministrija    Sazinās pa diplomātiskiem kanāliem       5.    Atbildīga ministrija    Vada un koordinē palīdzības saņemšanu       6.    Valsts ieņēmumu dienests    Vienkāršo muitu, atbrīvo no nodevām       7.    Valsts civilās aizsardzības kontaktpunkts    Informē ES un NATO CA kontaktpunktus        Humānas palīdzības sniegšana 
+ Secīgi iesaistītās valsts institūcijas Darbības 1. Atbildīga ministrija Sagatavo informāciju par nepieciešamību un apjomu 2. Krīzes vadības padome Pieņem lēmumu par pieprasīšanu 3. Ministru kabinets Pieņem lēmumu par pieprasīšanu 4. Ārlietu ministrija Sazinās pa diplomātiskiem kanāliem 5. Atbildīga ministrija Vada un koordinē palīdzības saņemšanu 6. Valsts ieņēmumu dienests Vienkāršo muitu, atbrīvo no nodevām 7. Valsts civilās aizsardzības kontaktpunkts Informē ES un NATO CA kontaktpunktus Humānas palīdzības sniegšana 
 
 Atbildīgā ministrija pēc informācijas saņemšanas no valsts katastrofas vai krīzes situācijā, vai no starptautiskas organizācijas ar humānās palīdzības pieprasījumu nekavējoties ierosina sasaukt Krīzes vadības padomes sēdi, lai lemtu par sniedzamās humānās palīdzības veidu un apjomu. Ja Krīzes vadības padomes locekļi vienojas par humānās palīdzības nepieciešamību, Ārlietu ministrs sasauc Krīzes vadības padomes ekspertu grupu humānās palīdzības sagatavošanas un piegādes koordinēšanai (turpmāk – ekspertu grupa). Ekspertu grupu vada Ārlietu ministrs vai viņa pilnvarota persona, ja Krīzes vadības padome nav lēmusi citādi. Ekspertu grupas sastāvā ir Aizsardzības ministrijas, Ārlietu ministrijas, Ekonomikas ministrijas, Finanšu ministrijas, Iekšlietu ministrijas, Satiksmes ministrijas, Veselības ministrijas un Zemkopības ministrijas deleģēti pārstāvji. Ja nepieciešams, ekspertu grupa darba izpildei var pieaicināt citus speciālistus, kā arī pieprasīt no citām valsts institūcijām darbam nepieciešamo informāciju.
 
-Ekspertu grupa: saskaņo humānās palīdzības paketes saturu, apjomu un piegādes laikus valstij vai starptautiskai organizācijai katastrofas vai krīzes situācijā;  organizē humānās palīdzības sūtījuma sagatavošanu un koordinē tā piegādi, seko līdzi katastrofas vai krīzes situācijā nonākušās valsts attīstībai un izvērtē papildu resursu piesaistes nepieciešamību;  izdara secinājumus un ierosinājumus Krīzes vadības padomei, ja humānās palīdzības sniegšanas gaitā ir konstatētas nepilnības.   Atbildīgā ministrija atbild par tās rīcībā esošo (tai skaitā glabāšanā nodoto) materiālo rezervju sagatavošanu humānās palīdzības sniegšanai.  Ekonomikas ministrija un Zemkopības ministrija apzina komersantus, kuru preces un pakalpojumi varētu veidot humānās palīdzības sūtījumu, kā arī organizē resursu sagatavošanu humānās palīdzības sniegšanai. Satiksmes ministrija pēc ekspertu grupas pieprasījuma sniedz informāciju par pieejamajiem transportlīdzekļiem, to izmantošanas izmaksām, kā arī prognozējamo nepieciešamo laiku humānās palīdzības nogādāšanai starptautiskajai organizācijai vai uz katastrofā skarto vai krīzes situācijā nonākušo valsti.  Atbildīgā ministrija vai tās pilnvarotā persona kārto humānās palīdzības sūtījuma muitas formalitātes, kā arī nodrošina nepieciešamo dokumentu iesniegšanu Valsts ieņēmumu dienesta muitas iestādē, Valsts ieņēmumu dienesta muitas iestāde nodrošina humānās palīdzības sūtījumu ārpuskārtas muitas kontroli, atbrīvo no nodevām.  Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestādēm vai sabiedriskā labuma organizācijām humānās palīdzības sniegšanai, var piemērot nodokļa atvieglojumus saskaņā ar likuma “Par uzņēmumu ienākuma nodokli” 20.pantu    vai likuma “Par iedzīvotāju ienākuma nodokli” 10.pantu    atbilstoši nodokļa maksātāja statusam.    
+Ekspertu grupa: saskaņo humānās palīdzības paketes saturu, apjomu un piegādes laikus valstij vai starptautiskai organizācijai katastrofas vai krīzes situācijā; organizē humānās palīdzības sūtījuma sagatavošanu un koordinē tā piegādi, seko līdzi katastrofas vai krīzes situācijā nonākušās valsts attīstībai un izvērtē papildu resursu piesaistes nepieciešamību; izdara secinājumus un ierosinājumus Krīzes vadības padomei, ja humānās palīdzības sniegšanas gaitā ir konstatētas nepilnības. Atbildīgā ministrija atbild par tās rīcībā esošo (tai skaitā glabāšanā nodoto) materiālo rezervju sagatavošanu humānās palīdzības sniegšanai. Ekonomikas ministrija un Zemkopības ministrija apzina komersantus, kuru preces un pakalpojumi varētu veidot humānās palīdzības sūtījumu, kā arī organizē resursu sagatavošanu humānās palīdzības sniegšanai. Satiksmes ministrija pēc ekspertu grupas pieprasījuma sniedz informāciju par pieejamajiem transportlīdzekļiem, to izmantošanas izmaksām, kā arī prognozējamo nepieciešamo laiku humānās palīdzības nogādāšanai starptautiskajai organizācijai vai uz katastrofā skarto vai krīzes situācijā nonākušo valsti. Atbildīgā ministrija vai tās pilnvarotā persona kārto humānās palīdzības sūtījuma muitas formalitātes, kā arī nodrošina nepieciešamo dokumentu iesniegšanu Valsts ieņēmumu dienesta muitas iestādē, Valsts ieņēmumu dienesta muitas iestāde nodrošina humānās palīdzības sūtījumu ārpuskārtas muitas kontroli, atbrīvo no nodevām. Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestādēm vai sabiedriskā labuma organizācijām humānās palīdzības sniegšanai, var piemērot nodokļa atvieglojumus saskaņā ar likuma “Par uzņēmumu ienākuma nodokli” 20.pantu vai likuma “Par iedzīvotāju ienākuma nodokli” 10.pantu atbilstoši nodokļa maksātāja statusam. 
 
-   Secīgi iesaistītās valsts institūcijas    Darbības       1.    Valsts civilās aizsardzības kontaktpunkts    Saņem humānas palīdzības pieprasījumu       2.    Atbildīgā ministrija    Sagatavo informāciju par nepieciešamību un apjomu       3.    Krīzes vadības padome    Pieņem lēmumu par atbalstu       4.    Ministru kabinets    Pieņem lēmumu par atbalstu       5.    Ārlietu ministrija    Vada ekspertu grupu, sazinās pa diplomātiskiem kanāliem       6.    Ekspertu grupa    Vada un koordinē palīdzības sniegšanu       7.    Iekšlietu ministrija – Valsts materiālās rezerves    Resursi palīdzībai       8.    Ekonomikas ministrija    Apzina preces un pakalpojumus       9.    Zemkopības ministrija    Apzina preces un pakalpojumus       10.    Satiksmes ministrija    Sniedz informāciju par transportu, izmaksām, laiku       11.    Atbildīgā ministrija    Kārto muitas formalitātes       12.    Valsts ieņēmumu dienests    Vienkāršo muitu, atbrīvo no nodevām       13.    Valsts civilās aizsardzības kontaktpunkts    Informē ES un NATO CA kontaktpunktus        Piemērs:
+ Secīgi iesaistītās valsts institūcijas Darbības 1. Valsts civilās aizsardzības kontaktpunkts Saņem humānas palīdzības pieprasījumu 2. Atbildīgā ministrija Sagatavo informāciju par nepieciešamību un apjomu 3. Krīzes vadības padome Pieņem lēmumu par atbalstu 4. Ministru kabinets Pieņem lēmumu par atbalstu 5. Ārlietu ministrija Vada ekspertu grupu, sazinās pa diplomātiskiem kanāliem 6. Ekspertu grupa Vada un koordinē palīdzības sniegšanu 7. Iekšlietu ministrija – Valsts materiālās rezerves Resursi palīdzībai 8. Ekonomikas ministrija Apzina preces un pakalpojumus 9. Zemkopības ministrija Apzina preces un pakalpojumus 10. Satiksmes ministrija Sniedz informāciju par transportu, izmaksām, laiku 11. Atbildīgā ministrija Kārto muitas formalitātes 12. Valsts ieņēmumu dienests Vienkāršo muitu, atbrīvo no nodevām 13. Valsts civilās aizsardzības kontaktpunkts Informē ES un NATO CA kontaktpunktus Piemērs:
 
-Ministru kabineta rīkojums Nr. 14 Rīgā 2022. gada 1. martā (prot. Nr. 12 24. §) Par humānās palīdzības sniegšanu Ukrainai Atbalstīt humānās palīdzības sniegšanu Ukrainai, ņemot vērā Krievijas militārā iebrukuma Ukrainā izraisīto apdraudējumu iedzīvotājiem. Neatliekamās medicīniskās palīdzības dienestam sagatavot humānās palīdzības sūtījumu (antibiotikas gentamicīns – 2 500 ampulas, antibiotikas penicilīns G – 2 500 flakoni, intravenozās ievades sistēmas – 5 000 gab., nātrija tiosulfāta šķīdumu injekcijām – 3 500 ampulas, šļirces – 24 220 gab., elastīgās saites 6 cm x 4,5 m – 200 gab., elastīgās saites 8 cm x 4,5 m – 280 gab.). Valsts aizsardzības loģistikas un iepirkumu centram sagatavot humānās palīdzības sūtījumu (medicīniskie cimdi – 10 000 pāri, medicīniskās maskas – 50 000 gab., dezinfekcijas līdzeklis virsmām – 3 000 litri) no centralizēti iegādāto rezervju resursiem. Valsts aizsardzības loģistikas un iepirkumu centram organizēt šā rīkojuma 2. un 3. punktā minētās humānās palīdzības sūtījuma nodošanu nogādāšanai Ukrainā. Veselības ministrijai sadarbībā ar Aizsardzības ministriju apkopot informāciju par humānās palīdzības sniegšanā izlietoto resursu atjaunošanai nepieciešamajiem izdevumiem, kā arī sagatavot un iesniegt Ministru kabinetā rīkojuma projektu par finanšu līdzekļu piešķiršanu no valsts budžeta programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem". Noteikt, ka papildus piešķiramais finansējums, kas nepieciešams humānās palīdzības sniegšanā izlietoto resursu atjaunošanai, nepārsniedz 25 723 eiro.   Ministru prezidents A. K. Kariņš
+Ministru kabineta rīkojums Nr. 14 Rīgā 2022. gada 1. martā (prot. Nr. 12 24. §) Par humānās palīdzības sniegšanu Ukrainai Atbalstīt humānās palīdzības sniegšanu Ukrainai, ņemot vērā Krievijas militārā iebrukuma Ukrainā izraisīto apdraudējumu iedzīvotājiem. Neatliekamās medicīniskās palīdzības dienestam sagatavot humānās palīdzības sūtījumu (antibiotikas gentamicīns – 2 500 ampulas, antibiotikas penicilīns G – 2 500 flakoni, intravenozās ievades sistēmas – 5 000 gab., nātrija tiosulfāta šķīdumu injekcijām – 3 500 ampulas, šļirces – 24 220 gab., elastīgās saites 6 cm x 4,5 m – 200 gab., elastīgās saites 8 cm x 4,5 m – 280 gab.). Valsts aizsardzības loģistikas un iepirkumu centram sagatavot humānās palīdzības sūtījumu (medicīniskie cimdi – 10 000 pāri, medicīniskās maskas – 50 000 gab., dezinfekcijas līdzeklis virsmām – 3 000 litri) no centralizēti iegādāto rezervju resursiem. Valsts aizsardzības loģistikas un iepirkumu centram organizēt šā rīkojuma 2. un 3. punktā minētās humānās palīdzības sūtījuma nodošanu nogādāšanai Ukrainā. Veselības ministrijai sadarbībā ar Aizsardzības ministriju apkopot informāciju par humānās palīdzības sniegšanā izlietoto resursu atjaunošanai nepieciešamajiem izdevumiem, kā arī sagatavot un iesniegt Ministru kabinetā rīkojuma projektu par finanšu līdzekļu piešķiršanu no valsts budžeta programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem". Noteikt, ka papildus piešķiramais finansējums, kas nepieciešams humānās palīdzības sniegšanā izlietoto resursu atjaunošanai, nepārsniedz 25 723 eiro. Ministru prezidents A. K. Kariņš
 
 # Civilās aizsardzības sistēma valstī
 
 ## Civilā aizsardzība - iepriekš un mūsdienās
-  Iepriekš - civiliedzīvotāju aizsardzība pret masu iznīcināšanas līdzekļiem un tautsaimniecības darbības nodrošināšana kara laikā, kā arī iedzīvotāju iesaiste avārijas seku likvidēšanā (Civildefence).
+ Iepriekš - civiliedzīvotāju aizsardzība pret masu iznīcināšanas līdzekļiem un tautsaimniecības darbības nodrošināšana kara laikā, kā arī iedzīvotāju iesaiste avārijas seku likvidēšanā (Civildefence).
 
 https://stream.lu.lv/digitek_civilaaizs_knv_media14niyyu7mcmv2f42q6caoera2m.mp4
 
@@ -729,35 +683,21 @@ https://stream.lu.lv/digitek_civilaaizs_knv_media14niyyu7mcmv2f42q6caoera2m.mp4
 
 https://stream.lu.lv/digitek_civilaaizs_knv_media2viid74bov56y2296d4yw9w2kp.mp4
 
- function onChatOptions() { return { params : { }, style : { } }; };    
+ function onChatOptions() { return { params : { }, style : { } }; }; 
 
 ## Ko pēta civilā aizsardzība?
 
-  Civilās aizsardzības jautājumi  Kā iespējami efektīvi pasargāt valsts iedzīvotājus no dažādu katastrofu postošajām sekām? Kā samazināt tautsaimniecībai nodarītos zaudējumus? Kā izdzīvot ekstremālās situācijās?  
+ Civilās aizsardzības jautājumi Kā iespējami efektīvi pasargāt valsts iedzīvotājus no dažādu katastrofu postošajām sekām? Kā samazināt tautsaimniecībai nodarītos zaudējumus? Kā izdzīvot ekstremālās situācijās? 
 
-Ikgadējie pasaules statistikas apkopojumu dati Katastrofu, avāriju, ugunsgrēku, sprādzienu u.c. nelaimes gadījumu rezultātā iet bojā ap 2 milj. cilvēku; Desmitiem milj. cieš no saindēšanās, gūst traumas, zaudē pajumti; Dažādu katastrofu nodarītos materiālos zaudējumus vērtē kā 4-5% no pasaules bruto kopprodukta.  
+Ikgadējie pasaules statistikas apkopojumu dati Katastrofu, avāriju, ugunsgrēku, sprādzienu u.c. nelaimes gadījumu rezultātā iet bojā ap 2 milj. cilvēku; Desmitiem milj. cieš no saindēšanās, gūst traumas, zaudē pajumti; Dažādu katastrofu nodarītos materiālos zaudējumus vērtē kā 4-5% no pasaules bruto kopprodukta. 
 
-Civilās aizsardzības sistēmas uzdevumi Veikt katastrofu pārvaldīšanu; Sniegt palīdzību katastrofās cietušajiem; Samazināt katastrofu radīto un iespējamo kaitējumu īpašumam un videi; Ja noticis militārs iebrukums vai sācies karš, - atbalstīt ar resursiem Nacionālos bruņotos spēkus.    
+Civilās aizsardzības sistēmas uzdevumi Veikt katastrofu pārvaldīšanu; Sniegt palīdzību katastrofās cietušajiem; Samazināt katastrofu radīto un iespējamo kaitējumu īpašumam un videi; Ja noticis militārs iebrukums vai sācies karš, - atbalstīt ar resursiem Nacionālos bruņotos spēkus.  
 
+Valsts civilās aizsardzības struktūra Valsts iestādes; Pašvaldības; Komersanti; Visi darbspējīgie Latvijas pilsoņi un nepilsoņi. Valsts gatavību ārkārtas situācijām raksturo:  
 
+Glābšanas un speciālo dienestu tehniskais nodrošinājums un teritoriālais izvietojums; Valsts infrastruktūras elementu attīstības līmenis; Iedzīvotāju informēšanas un apmācības sistēmas efektivitāte; Valsts materiālo rezervju nodrošinājums. 
 
-Valsts civilās aizsardzības struktūra Valsts iestādes; Pašvaldības; Komersanti; Visi darbspējīgie Latvijas pilsoņi un nepilsoņi.    Valsts gatavību ārkārtas situācijām raksturo: 
-
-
-
-Glābšanas un speciālo dienestu tehniskais nodrošinājums un teritoriālais izvietojums; Valsts infrastruktūras elementu attīstības līmenis; Iedzīvotāju informēšanas un apmācības sistēmas efektivitāte; Valsts materiālo rezervju nodrošinājums.  
-
-Izdzīvošanas nosacījumi ekspertu skatījumā Dzīvotgriba – cilvēka pašsaglabāšanās instinkts; Zināšanas – jo vairāk zinām, jo vieglāk dzīvot; Prasmes – jāvingrinās iegūtās zināšanas izmantot praktiski; Ekipējums – pieejamais aprīkojums cilvēka dzīvības procesu nodrošināšanai.    
-
-
-
-
-
-
-
-
-
- 
+Izdzīvošanas nosacījumi ekspertu skatījumā Dzīvotgriba – cilvēka pašsaglabāšanās instinkts; Zināšanas – jo vairāk zinām, jo vieglāk dzīvot; Prasmes – jāvingrinās iegūtās zināšanas izmantot praktiski; Ekipējums – pieejamais aprīkojums cilvēka dzīvības procesu nodrošināšanai.  
 
 ## Termini
 
@@ -769,7 +709,7 @@ Katastrofas draudi – situācija, kad risku novērtējums, prognozes, informāc
 
 ## Civilās aizsardzības pasākumi - reaģēšana
 
- Atbalsta un vadošās institūcijas biežāk sastopamajās katastrofās Latvijā     Valsts civilās aizsardzības plāna 30.pielikums  Atkarībā no katastrofas veida reaģēšanas un seku likvidēšanas neatliekamos pasākumus notikuma vietā vada VUGD amatpersona vai atbilstoši kompetencei — Valsts civilās aizsardzības plānā vai pašvaldību civilās aizsardzības plānos norādītās valsts iestādes amatpersona (glābšanas darbu vadītājs) (Civilās aizsardzības likuma 6.panta 4. daļa).
+ Atbalsta un vadošās institūcijas biežāk sastopamajās katastrofās Latvijā Valsts civilās aizsardzības plāna 30.pielikums Atkarībā no katastrofas veida reaģēšanas un seku likvidēšanas neatliekamos pasākumus notikuma vietā vada VUGD amatpersona vai atbilstoši kompetencei — Valsts civilās aizsardzības plānā vai pašvaldību civilās aizsardzības plānos norādītās valsts iestādes amatpersona (glābšanas darbu vadītājs) (Civilās aizsardzības likuma 6.panta 4. daļa).
 
 Militāra iebrukuma vai kara gadījumā visos tabulā minētajos apdraudējumos vadošā institūcija būs Iekšlietu ministrija.
 
@@ -779,8 +719,7 @@ Koordināciju valsts vai reģionāla mēroga katastrofās nodrošina Krīzes vad
 
  VUGD uzdevumi ir šādi:
 
-vadīt, koordinēt un kontrolēt civilās aizsardzības sistēmas darbību;  izskatīt un saskaņot objektu un paaugstinātas bīstamības objektu civilās aizsardzības plānu projektus; izveidot un uzturēt savā rīcībā esošo, kā arī juridisko un fizisko personu īpašumā vai valdījumā esošo ugunsdzēsības un glābšanas darbos izmantojamo resursu sarakstu; veikt civilās aizsardzības prasību ievērošanas pārbaudes; plānot un organizēt sadarbības teritoriju civilās aizsardzības komisiju apmācību; norīkot VUGD amatpersonu darbam sadarbības teritorijas civilās aizsardzības komisijā.   
-
+vadīt, koordinēt un kontrolēt civilās aizsardzības sistēmas darbību; izskatīt un saskaņot objektu un paaugstinātas bīstamības objektu civilās aizsardzības plānu projektus; izveidot un uzturēt savā rīcībā esošo, kā arī juridisko un fizisko personu īpašumā vai valdījumā esošo ugunsdzēsības un glābšanas darbos izmantojamo resursu sarakstu; veikt civilās aizsardzības prasību ievērošanas pārbaudes; plānot un organizēt sadarbības teritoriju civilās aizsardzības komisiju apmācību; norīkot VUGD amatpersonu darbam sadarbības teritorijas civilās aizsardzības komisijā.  
 
 ## Pašvaldību uzdevumi un tiesības
 
@@ -794,7 +733,7 @@ Savu iespēju robežas nodrošina katastrofas pārvaldīšanā iesaistītajām v
 
 + Piedalās un organizē CA mācības.
 
-izstrādā un sniedz rekomendācijas valsts un pašvaldības institūcijām, objektu un paaugstinātas bīstamības objektu īpašniekiem un tiesiskajiem valdītājiem; sniedz iedzīvotājiem ieteikumus par katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību; ir tiesības rakstveidā slēgt pakalpojumu un sadarbības līgumus vai vienošanās CA un katastrofas pārvaldīšanas jomā ar citām valsts vai pašvaldības institūcijām, juridiskajām vai fiziskajām personām.   
+izstrādā un sniedz rekomendācijas valsts un pašvaldības institūcijām, objektu un paaugstinātas bīstamības objektu īpašniekiem un tiesiskajiem valdītājiem; sniedz iedzīvotājiem ieteikumus par katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību; ir tiesības rakstveidā slēgt pakalpojumu un sadarbības līgumus vai vienošanās CA un katastrofas pārvaldīšanas jomā ar citām valsts vai pašvaldības institūcijām, juridiskajām vai fiziskajām personām. 
 
 ## Iekļūšana privātīpašumā
 
@@ -806,7 +745,7 @@ PVD ir tiesības epizootiju uzliesmojuma gadījumā noteiktajā riska zonā bez 
 
 ## Iedzīvotāju tiesības un pienākumi CA 
 
- Iedzīvotāju tiesības: saņemt informāciju un brīdinājumu par katastrofām valstī vai attiecīgajā administratīvajā teritorijā un ieteikumus par rīcību katastrofu gadījumos; saņemt iespējamo palīdzību katastrofu gadījumos.     Iedzīvotāju pienākumi: nekavējoties ziņot attiecīgajām valsts iestādēm un pašvaldībai par katastrofu vai tās draudiem; katastrofas gadījumā rīkoties saskaņā ar plašsaziņas līdzekļu sniegto informāciju, kā arī operatīvo un avārijas dienestu amatpersonu norādījumiem notikuma vietā; līdz operatīvo un avārijas dienestu ierašanās brīdim iespēju robežās veikt darbības katastrofas seku mazināšanai.    
+ Iedzīvotāju tiesības: saņemt informāciju un brīdinājumu par katastrofām valstī vai attiecīgajā administratīvajā teritorijā un ieteikumus par rīcību katastrofu gadījumos; saņemt iespējamo palīdzību katastrofu gadījumos. Iedzīvotāju pienākumi: nekavējoties ziņot attiecīgajām valsts iestādēm un pašvaldībai par katastrofu vai tās draudiem; katastrofas gadījumā rīkoties saskaņā ar plašsaziņas līdzekļu sniegto informāciju, kā arī operatīvo un avārijas dienestu amatpersonu norādījumiem notikuma vietā; līdz operatīvo un avārijas dienestu ierašanās brīdim iespēju robežās veikt darbības katastrofas seku mazināšanai. 
 
 ## Civilās aizsardzības vadība un struktūra
 
@@ -818,11 +757,11 @@ Ministrijas nodrošina civilās aizsardzības uzdevumu izpildi, nozarei nepiecie
 
 Reaģēšanas un seku likvidēšanas neatliekamos pasākumus notikuma vietā vada glābšanas darbu vadītājs
 
-Glābšanas darbu vadītājs var būt: VUGD amatpersona Valsts CA plānā vai pašvaldību CA plānos norādītās valsts iestādes amatpersona    *Par CA iestādēs ir atbildīgs iestādes vadītājs!
+Glābšanas darbu vadītājs var būt: VUGD amatpersona Valsts CA plānā vai pašvaldību CA plānos norādītās valsts iestādes amatpersona *Par CA iestādēs ir atbildīgs iestādes vadītājs!
 
 ## Civilās aizsardzības plānošana
 
- Valsts CA plāns - izstrādā VUGD sadarbībā ar citām institūcijām. Sadarbības teritorijas CA plāns - pašvaldības dome apstiprina ne retāk kā 1 x 4 gados. Paaugstinātas bīstamības objekta CA plāns - objekta īpašnieks vai tiesiskais valdītājs apstiprina ne retāk kā 1 x 4 gados.  
+ Valsts CA plāns - izstrādā VUGD sadarbībā ar citām institūcijām. Sadarbības teritorijas CA plāns - pašvaldības dome apstiprina ne retāk kā 1 x 4 gados. Paaugstinātas bīstamības objekta CA plāns - objekta īpašnieks vai tiesiskais valdītājs apstiprina ne retāk kā 1 x 4 gados. 
 
 Plāni ir dokumenti, kuri sagatavoti, ņemot vērā risku novērtējumu, un kuros noteikti katastrofas pārvaldīšanas pasākumi un to īstenotāji.Civilās aizsardzības sistēmas finansēšana (CA uzdevumu izpildei)
 
@@ -842,17 +781,13 @@ CA sistēmas gatavības pārbaudes nodrošināšanai valsts un pašvaldību inst
 
 # Katastrofu pārvaldīšana, plānošana un pasākumu īstenošana
 
-## Kas ir katastrofas pārvaldīšana?
- 
+## Kas ir katastrofas pārvaldīšana? 
 
-Vadītu un koordinētu preventīvo, gatavības, reaģēšanas, seku likvidēšanas pasākumu, kā arī atjaunošanas pasākumu kopums, kuri tiek veikti, lai nodrošinātu civilās aizsardzības uzdevumu izpildi. Katastrofas pārvaldīšanas koordinēšana Ministrijas un pašvaldības īsteno katastrofu pārvaldīšanas koordinēšanu attiecīgajiem apdraudējumiem, sadarbībā ar citām ministrijām, valsts un pašvaldību institūcijām:Veic risku novērtēšanu (Riska novērtēšanas metodoloģiju izstrādā VUGD); Nosaka preventīvos, gatavības, reaģēšanas un seku likvidēšanas pasākumus, izstrādā tiesību aktus, attīstības plānošanas dokumentus un citus dokumentus; Apzina un plāno resursus.       function onChatOptions() { return { params: { }, style: { } }; };   
-
-
+Vadītu un koordinētu preventīvo, gatavības, reaģēšanas, seku likvidēšanas pasākumu, kā arī atjaunošanas pasākumu kopums, kuri tiek veikti, lai nodrošinātu civilās aizsardzības uzdevumu izpildi. Katastrofas pārvaldīšanas koordinēšana Ministrijas un pašvaldības īsteno katastrofu pārvaldīšanas koordinēšanu attiecīgajiem apdraudējumiem, sadarbībā ar citām ministrijām, valsts un pašvaldību institūcijām:Veic risku novērtēšanu (Riska novērtēšanas metodoloģiju izstrādā VUGD); Nosaka preventīvos, gatavības, reaģēšanas un seku likvidēšanas pasākumus, izstrādā tiesību aktus, attīstības plānošanas dokumentus un citus dokumentus; Apzina un plāno resursus. function onChatOptions() { return { params: { }, style: { } }; };  
 
 ## Valsts iestādes, kas veic katastrofu pārvaldīšanu
 
-## Katastrofas pārvaldīšanas vadība
-
+## Katastrofas pārvaldīšanas vadība 
 
 Aizsardzības ministrija – katastrofas jūrā vai valdījumā esošā militārā infrastruktūrā; valstī militāra iebrukuma vai kara gadījumā, kā arī incidentus, kas saistīti ar informācijas tehnoloģiju drošību.
 
@@ -878,25 +813,25 @@ Pašvaldības – katastrofas pašvaldības administratīvajā teritorijā, kura
 
 ## Riska novērtēšana
 
- Riska identificēšana  ir riska atklāšanas, apzināšanas un aprakstīšanas process.
+ Riska identificēšana ir riska atklāšanas, apzināšanas un aprakstīšanas process.
 
-Riska analīze  ir process, kas tiek veikts, lai saprastu riska būtību un noteiktu tā līmeni.
+Riska analīze ir process, kas tiek veikts, lai saprastu riska būtību un noteiktu tā līmeni.
 
 (Riska novērtēšana tiek veikta pamatojoties uz VUGD izdotajām rekomendācijām).
 
-Riska izvērtēšana  ir process, kurā riska analīzes rezultāti tiek salīdzināti ar riska kritērijiem , lai noteiktu, vai risks un tā līmenis ir pieņemams vai apmierinošs.  Riska novērtēšanas piemērs. Vētra: Parādās citi apdraudējumi, par kuru pārvaldīšanas koordinēšanu ir atbildīga cita ministrija (elektroenerģijas pārrāvumi un sabiedriskās nekārtības).
+Riska izvērtēšana ir process, kurā riska analīzes rezultāti tiek salīdzināti ar riska kritērijiem , lai noteiktu, vai risks un tā līmenis ir pieņemams vai apmierinošs. Riska novērtēšanas piemērs. Vētra: Parādās citi apdraudējumi, par kuru pārvaldīšanas koordinēšanu ir atbildīga cita ministrija (elektroenerģijas pārrāvumi un sabiedriskās nekārtības).
 
 Parādās citi apdraudējumi, kas raksturīgi tikai atsevišķām pašvaldībām, piemēram, plūdi, vētras gadījumā pie attiecīga vēja virziena var apdraudēt Rīgu.
 
 Pēc scenārija izstrādes ir skaidrs, kuras institūcijas jāiesaista riska novērtēšanas procesā.
 
-Riska novērtēšanas piemērs. Gripas vīrsuss:   Latvijas risku matrica  
+Riska novērtēšanas piemērs. Gripas vīrsuss: Latvijas risku matrica 
 
 ## Civilās aizsardzības plānu nepieciešamība
 
  Paaugstinātas bīstamības objektiem un Kritiskās infrastruktūras objektiem (PBO un KIO)
 
-Latvijā iedala A, B un C grupās:Valsts nozīmes paaugstinātas bīstamības objekti (A drošuma klase) A klase — būves, kuru avāriju rezultātā rodas draudi iedzīvotāju dzīvībai un veselībai, tiek nodarīts būtisks zaudējums fizisko un juridisko personu īpašumam un būtisks kaitējums videi.  Reģionālas nozīmes paaugstinātas bīstamības objekti (B drošuma klase) B klase — būves, kuru avāriju rezultātā nerodas draudi iedzīvotāju dzīvībai un veselībai, bet tiek nodarīts zaudējums fizisko un juridisko personu īpašumam un kaitējums videi. Vietējas nozīmes paaugstināts bīstamības objekti (C drošuma klase) C klase — būves, kuru avāriju rezultātā nerodas draudi iedzīvotāju dzīvībai un veselībai, bet zaudējums fizisko un juridisko personu īpašumam un kaitējums videi ir nenozīmīgs.  
+Latvijā iedala A, B un C grupās:Valsts nozīmes paaugstinātas bīstamības objekti (A drošuma klase) A klase — būves, kuru avāriju rezultātā rodas draudi iedzīvotāju dzīvībai un veselībai, tiek nodarīts būtisks zaudējums fizisko un juridisko personu īpašumam un būtisks kaitējums videi. Reģionālas nozīmes paaugstinātas bīstamības objekti (B drošuma klase) B klase — būves, kuru avāriju rezultātā nerodas draudi iedzīvotāju dzīvībai un veselībai, bet tiek nodarīts zaudējums fizisko un juridisko personu īpašumam un kaitējums videi. Vietējas nozīmes paaugstināts bīstamības objekti (C drošuma klase) C klase — būves, kuru avāriju rezultātā nerodas draudi iedzīvotāju dzīvībai un veselībai, bet zaudējums fizisko un juridisko personu īpašumam un kaitējums videi ir nenozīmīgs. 
 
 Paaugstinātas bīstamības objekti
 
@@ -910,8 +845,7 @@ C kategorijā (385 objekti) pārsvarā ietilpst degvielas uzpildes stacijas.
 
 468 objekti (2022.)
 
-informācija tiek aktualizēta katru gadu.Paaugstinātas bīstamības objekta īpašnieks vai tiesiskais valdītājs ir atbildīgs par civilās aizsardzības pasākumu plānošanu un īstenošanu, un nodrošina: paaugstinātas bīstamības objekta drošumu, kā arī uzturēšanu un ekspluatēšanu atbilstoši normatīvo aktu prasībām un tā, lai neradītu draudus cilvēku, vides un īpašuma drošībai; to, lai paaugstinātas bīstamības objektā varētu tikt veikta civilās aizsardzības prasību ievērošanas pārbaude; paaugstinātas bīstamības objektā nodarbināto iepazīstināšanu ar paaugstinātas bīstamības objekta civilās aizsardzības plānu, kā arī tā kopijas uzglabāšanu objektā un šā plāna ievērošanas kontroli; nodarbināto apmācību civilās aizsardzības un katastrofas pārvaldīšanas jomā.  PBO klasificējošie kritēriji Hidroelektrostacijas; Radioaktivitātes pieļaujamais limits; Bioloģisko aģentu riska grupas; Elektroenerģijas ražošanas jauda; Elektroenerģijas ražošanas jauda; Dzelzceļa stacijas; Bīstama ķīmiska viela; Bīstama ķīmiska viela.   
-
+informācija tiek aktualizēta katru gadu.Paaugstinātas bīstamības objekta īpašnieks vai tiesiskais valdītājs ir atbildīgs par civilās aizsardzības pasākumu plānošanu un īstenošanu, un nodrošina: paaugstinātas bīstamības objekta drošumu, kā arī uzturēšanu un ekspluatēšanu atbilstoši normatīvo aktu prasībām un tā, lai neradītu draudus cilvēku, vides un īpašuma drošībai; to, lai paaugstinātas bīstamības objektā varētu tikt veikta civilās aizsardzības prasību ievērošanas pārbaude; paaugstinātas bīstamības objektā nodarbināto iepazīstināšanu ar paaugstinātas bīstamības objekta civilās aizsardzības plānu, kā arī tā kopijas uzglabāšanu objektā un šā plāna ievērošanas kontroli; nodarbināto apmācību civilās aizsardzības un katastrofas pārvaldīšanas jomā. PBO klasificējošie kritēriji Hidroelektrostacijas; Radioaktivitātes pieļaujamais limits; Bioloģisko aģentu riska grupas; Elektroenerģijas ražošanas jauda; Elektroenerģijas ražošanas jauda; Dzelzceļa stacijas; Bīstama ķīmiska viela; Bīstama ķīmiska viela.  
 
 ## Nelaimes gadījumu iedalījums pēc traumēšanās faktora
 
@@ -965,17 +899,17 @@ Kas ir valsts materiālās rezerves?
 
 Materiālo un finanšu resursu kopums, kuru izmanto katastrofu pārvaldīšanā iesaistītās institūcijas, ja to rīcībā esošie resursi ir nepietiekami reaģēšanas pasākumu veikšanai (gan sev, gan humānai palīdzībai – ārzemēm).
 
-Rezerves veido, ja:   materiālie resursi, kas nav nepieciešami ikdienas darbībā, ir nepieciešami uzdevumu izpildei katastrofu pārvaldīšanā materiālie resursi, ko izmanto ikdienas darbībā, ir nepietiekoši uzdevumu izpildei katastrofu pārvaldīšanā     Valsts materiālo rezervju plānošana 
+Rezerves veido, ja: materiālie resursi, kas nav nepieciešami ikdienas darbībā, ir nepieciešami uzdevumu izpildei katastrofu pārvaldīšanā materiālie resursi, ko izmanto ikdienas darbībā, ir nepietiekoši uzdevumu izpildei katastrofu pārvaldīšanā Valsts materiālo rezervju plānošana 
 
 Kas iegādājas valsts materiālās rezerves? 
 
-Materiālo rezervju iegādi organizē  Nodrošinājuma valsts aģentūra
+Materiālo rezervju iegādi organizē Nodrošinājuma valsts aģentūra
 
 Kā izvēlas atbildīgos glabātājus? 
 
 Pieder nozares ministrijām. Turētāji – ministriju iestādes. 
 
-Izvēlas tā, lai attiecīgajā valsts teritorijā varētu iespējami īsākā laikā nodrošināt materiālo rezervju iesaistīšanu katastrofu pārvaldīšanā. Nodrošinātu materiālo rezervju glabāšanai piemērotus apstākļus un šo rezervju savlaicīgu atjaunināšanu.    Regulāra komunikācija starp valstīm. Valsts materiālos resursus nogādā ar loģistikas firmu (finansē Eiropas komisija). Piemērs: LV un LT ir modulis (specializācija) plūdu gadījumiemValsts materiālo rezervju izmantošana Materiālās rezerves izmanto:  katastrofu gadījumos veicamo reaģēšanas pasākumu izpildei, arī neatliekamo glābšanas un katastrofas seku likvidēšanas pasākumu izpildei; reaģēšanas pasākumos iesaistītā personāla individuālās aizsardzības nodrošināšanai; sabiedriskās drošības un kārtības nodrošināšanai; CA sistēmas mācībām un katastrofu pārvaldīšanā iesaistītā personāla apmācības nodrošināšanai; mobilizācijas nodrošināšanai atbilstoši mobilizācijas pieprasījumiem tautsaimniecības mobilizācijas plāna ietvaros; kārtējo tautsaimniecības jautājumu risināšanai, iznomājot vai aizdodot uz laiku valsts un pašvaldību institūcijām vai komersantiem; humānās palīdzības sniegšanai ārvalstīs.  
+Izvēlas tā, lai attiecīgajā valsts teritorijā varētu iespējami īsākā laikā nodrošināt materiālo rezervju iesaistīšanu katastrofu pārvaldīšanā. Nodrošinātu materiālo rezervju glabāšanai piemērotus apstākļus un šo rezervju savlaicīgu atjaunināšanu. Regulāra komunikācija starp valstīm. Valsts materiālos resursus nogādā ar loģistikas firmu (finansē Eiropas komisija). Piemērs: LV un LT ir modulis (specializācija) plūdu gadījumiemValsts materiālo rezervju izmantošana Materiālās rezerves izmanto: katastrofu gadījumos veicamo reaģēšanas pasākumu izpildei, arī neatliekamo glābšanas un katastrofas seku likvidēšanas pasākumu izpildei; reaģēšanas pasākumos iesaistītā personāla individuālās aizsardzības nodrošināšanai; sabiedriskās drošības un kārtības nodrošināšanai; CA sistēmas mācībām un katastrofu pārvaldīšanā iesaistītā personāla apmācības nodrošināšanai; mobilizācijas nodrošināšanai atbilstoši mobilizācijas pieprasījumiem tautsaimniecības mobilizācijas plāna ietvaros; kārtējo tautsaimniecības jautājumu risināšanai, iznomājot vai aizdodot uz laiku valsts un pašvaldību institūcijām vai komersantiem; humānās palīdzības sniegšanai ārvalstīs. 
 
 1.-5. Iesaista, pamatojoties uz pilnvarotas amatpersonas rakstveida atļauju.1., 2., 4. Iesaista, pamatojoties uz VUGD priekšnieka rakstveida atļauju.6.-7. Iesaista, pamatojoties uz VUGD priekšnieka rakstveida atļauju.
 
@@ -983,10 +917,9 @@ Izvēlas tā, lai attiecīgajā valsts teritorijā varētu iespējami īsākā l
 
  HES ir hidrotehniskās būve, kuras ūdenskrātuvēs ūdens uzkrāšanas tilpums ir 324,6 milj. m³.
 
-Bīstamās iekārtas:  celšanas iekārtas;  spiedieniekārtu kompleksi;  stacionāri rezervuāri un to grupas.    Tehnoloģiskajā apritē atrodas turbīnu eļļas, transformatoru eļļa un dīzeļdegviela  būvkonstrukciju deformācijas šuvju bojājums;  būvju nobīdes un sēšanās;  filtrācija caur zemes dambjiem;  ugunsgrēks;  pamatiekārtas atteikums vai tā bojājumi;  cilvēku kļūdas vai sabotāža.   Latvijā: "Latvenergo" Pļaviņu HES "Latvenergo" Rīgas HES "Latvenergo" Ķeguma HES  
+Bīstamās iekārtas: celšanas iekārtas; spiedieniekārtu kompleksi; stacionāri rezervuāri un to grupas. Tehnoloģiskajā apritē atrodas turbīnu eļļas, transformatoru eļļa un dīzeļdegviela būvkonstrukciju deformācijas šuvju bojājums; būvju nobīdes un sēšanās; filtrācija caur zemes dambjiem; ugunsgrēks; pamatiekārtas atteikums vai tā bojājumi; cilvēku kļūdas vai sabotāža. Latvijā: "Latvenergo" Pļaviņu HES "Latvenergo" Rīgas HES "Latvenergo" Ķeguma HES 
 
-## Radioaktivitātes pieļaujamais limits
-
+## Radioaktivitātes pieļaujamais limits 
 
 Latvijas teritorijā atrodas tikai 3 objekti, kuriem ir noteikts valsts nozīmes jonizējošā starojuma objekta statuss:
 
@@ -994,7 +927,7 @@ Pieredzes apmaiņa, VUGD mācības Baldonē, 14.10.2020.:
 
 Mācību scenārijs paredz, ka pamestā noliktavā jaunieši nejauši sagāž sastatnes, kurām sabrūkot, tiek apgāztas mucas, kurās atrodas nātrija cianīds un vēl cita muca ar nezināmu šķidrumu. Vielām saskaroties, notiek reakcija un sāk izdalīties zilskābe. Jaunieši ziņo par notikumu, zvanot 112, papildus informējot, ka nespēj izkļūt no telpas.
 
-Ierodas VUGD: Glābēji veic ēkas apsekošanu, neapdraudot sevi, speciālos tērpos (ar IAL):  https://stream.lu.lv/digitek_civilaaizs_knv_media4miqige9m4cpm4hbj96q5nkf7m.mp4   Cietušos nogādā svaigā gaisā:  Jautājums – Kādam nolūkam uzbūvēja šo telti? https://stream.lu.lv/digitek_civilaaizs_knv_media5motuy96b9b5nfbyv8fznoajfx.mp4https://stream.lu.lv/digitek_civilaaizs_knv_media624ch4qp78mi4ushpxta3bcgaj.mp4 Preventīvais pasākums -  Latvijā ir izveidota automātiskā valsts nozīmes jonizējošā starojuma monitoringa un radiācijas negadījumu agrās brīdināšanas sistēma, kurā ietilpst 16 stacijas
+Ierodas VUGD: Glābēji veic ēkas apsekošanu, neapdraudot sevi, speciālos tērpos (ar IAL): https://stream.lu.lv/digitek_civilaaizs_knv_media4miqige9m4cpm4hbj96q5nkf7m.mp4 Cietušos nogādā svaigā gaisā: Jautājums – Kādam nolūkam uzbūvēja šo telti? https://stream.lu.lv/digitek_civilaaizs_knv_media5motuy96b9b5nfbyv8fznoajfx.mp4https://stream.lu.lv/digitek_civilaaizs_knv_media624ch4qp78mi4ushpxta3bcgaj.mp4 Preventīvais pasākums - Latvijā ir izveidota automātiskā valsts nozīmes jonizējošā starojuma monitoringa un radiācijas negadījumu agrās brīdināšanas sistēma, kurā ietilpst 16 stacijas
 
 Radiācijas drošības centrs nodrošinās 24 stundu gatavību, lai sniegtu konsultācijas Latvijas robežsardzei, muitai, drošības struktūrām un piedalītos atklāto radioaktīvo materiālu izpētē.
 
@@ -1002,21 +935,21 @@ Izvērtējot visu iepriekš minēto, Latviju var uzskatīt kā salīdzinoši dro
 
 ## Bioloģisko aģentu riska grupas
 
- Valsts teritorijā ir izvietotas tikai 2 laboratorijas, kurās var tikt izmeklēti paraugi 3. riska grupas bioloģisko aģentu noteikšanai –  Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts «BIOR»; SIA "Rīgas Austrumu klīniskā universitātes slimnīca" stacionāra "Latvijas Infektoloģijas centrs" Nacionālā mikrobioloģijas references laboratorija.  Vietējas nozīmes paaugstinātas bīstamības objekti, kuros elektroenerģijas ražošanas uzstādītā jauda pārsniedz 100MW.
+ Valsts teritorijā ir izvietotas tikai 2 laboratorijas, kurās var tikt izmeklēti paraugi 3. riska grupas bioloģisko aģentu noteikšanai – Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts «BIOR»; SIA "Rīgas Austrumu klīniskā universitātes slimnīca" stacionāra "Latvijas Infektoloģijas centrs" Nacionālā mikrobioloģijas references laboratorija. Vietējas nozīmes paaugstinātas bīstamības objekti, kuros elektroenerģijas ražošanas uzstādītā jauda pārsniedz 100MW.
 
-Piemēri: AS "Latvenergo" Rīgas TEC-1 AS "Latvenergo" Rīgas TEC-2      
+Piemēri: AS "Latvenergo" Rīgas TEC-1 AS "Latvenergo" Rīgas TEC-2 
 
 ## Gāzes darba spiediens gāzes apgādes sistēmā
 
- Vietējas nozīmes paaugstinātas bīstamības objekti, kuros veic darbības ar dabasgāzi (izņemot patērēšanu) un kuru gāzes cauruļvados spiediens pārsniedz 1,6 MPa, sašķidrinātās ogļūdeņražu gāzes balonu noliktavas un tirdzniecības punkti, automobīļu gāzes uzpildes stacijas:  AS "Conexus Baltic Grid" dabasgāzes pārvades sistēma DUS   Gāzes vadi Latvijā:Šķērso Alūksnes, Valkas, Cēsu, Valmieras, Rīgas, Bauskas, Jelgavas, Dobeles, Saldus, Tukuma, Kuldīgas, Liepājas, Ogres, Jēkabpils, Aizkraukles, Preiļu un Daugavpils teritorijas. Kopējais garums ar 45 gāzes sadales stacijām Latvijā ir 1216 km Max darba spiediens 55 atm. Sajaucoties ar gaisu (5-15%) dabasgāze veido sprādzienbīstamu maisījumu Ik pēc 20-25 km ierīkotu aizvari gāzes padeves pārtraukšanai!    
+ Vietējas nozīmes paaugstinātas bīstamības objekti, kuros veic darbības ar dabasgāzi (izņemot patērēšanu) un kuru gāzes cauruļvados spiediens pārsniedz 1,6 MPa, sašķidrinātās ogļūdeņražu gāzes balonu noliktavas un tirdzniecības punkti, automobīļu gāzes uzpildes stacijas: AS "Conexus Baltic Grid" dabasgāzes pārvades sistēma DUS Gāzes vadi Latvijā:Šķērso Alūksnes, Valkas, Cēsu, Valmieras, Rīgas, Bauskas, Jelgavas, Dobeles, Saldus, Tukuma, Kuldīgas, Liepājas, Ogres, Jēkabpils, Aizkraukles, Preiļu un Daugavpils teritorijas. Kopējais garums ar 45 gāzes sadales stacijām Latvijā ir 1216 km Max darba spiediens 55 atm. Sajaucoties ar gaisu (5-15%) dabasgāze veido sprādzienbīstamu maisījumu Ik pēc 20-25 km ierīkotu aizvari gāzes padeves pārtraukšanai! 
 
 ## Dzelzceļa stacijas
 
- Valsts nozīmes paaugstinātas bīstamības objekti (8) – dzelzceļa infrastruktūras objekti:  VAS "Latvijas dzelzceļš" Daugavpils dzelzceļa stacija VAS "Latvijas dzelzceļš" Jelgavas dzelzceļa stacija VAS "Latvijas dzelzceļš" Liepājas dzelzceļa stacija VAS "Latvijas dzelzceļš" Rēzeknes dzelzceļa stacija VAS "Latvijas dzelzceļš" Ventspils dzelzceļa stacija VAS "Latvijas dzelzceļš" Bolderājas dzelzceļa stacija VAS "Latvijas dzelzceļš" Mangaļu dzelzceļa stacija VAS "Latvijas dzelzceļš" Šķirotavas dzelzceļa stacija AS "Pasažieru vilciens"    
+ Valsts nozīmes paaugstinātas bīstamības objekti (8) – dzelzceļa infrastruktūras objekti: VAS "Latvijas dzelzceļš" Daugavpils dzelzceļa stacija VAS "Latvijas dzelzceļš" Jelgavas dzelzceļa stacija VAS "Latvijas dzelzceļš" Liepājas dzelzceļa stacija VAS "Latvijas dzelzceļš" Rēzeknes dzelzceļa stacija VAS "Latvijas dzelzceļš" Ventspils dzelzceļa stacija VAS "Latvijas dzelzceļš" Bolderājas dzelzceļa stacija VAS "Latvijas dzelzceļš" Mangaļu dzelzceļa stacija VAS "Latvijas dzelzceļš" Šķirotavas dzelzceļa stacija AS "Pasažieru vilciens" 
 
 ## Bīstama ķīmiska viela
 
- Vielu grupas:  sprādzienbīstamas, oksidējošas, uzliesmojošas (t.sk., viegli uzliesmojošas, īpaši viegli uzliesmojošas), toksiskas, kodīgas, saspiestās gāzes, šķidrās gāzes u.c.    Ķīmisko vielu reģistrēšanu, marķēšanu, risku apzināšanu un pārvaldīšanu regulē REACH regula.
+ Vielu grupas: sprādzienbīstamas, oksidējošas, uzliesmojošas (t.sk., viegli uzliesmojošas, īpaši viegli uzliesmojošas), toksiskas, kodīgas, saspiestās gāzes, šķidrās gāzes u.c. Ķīmisko vielu reģistrēšanu, marķēšanu, risku apzināšanu un pārvaldīšanu regulē REACH regula.
 
 REACH (ķimikāliju reģistrēšana, vērtēšana, licencēšana un ierobežošana) ir Eiropas Kopienas regula (EK 1907/2006) par ķimikālijām un to drošu lietošanu.
 
@@ -1024,203 +957,43 @@ REACH attiecas uz visām ķīmiskajām vielām — gan tām, kuras izmanto ražo
 
 Nereģistrētas vielas ir aizliegts laist tirgū un lietot.
 
-Drošības datu lapas – ķīmiskas vielas «tehniskā pase», piemērs:No 2010. gada jaunas piktogrammas:
+Drošības datu lapas – ķīmiskas vielas «tehniskā pase», piemērs:No 2010. gada jaunas piktogrammas: 
 
- 
+ H200 Nestabili sprādzienbīstami materiāli.  
 
+ H221 Uzliesmojoša gāze.  
 
+ H223 Uzliesmojošs aerosols.  
 
- 
+ H300 Norijot iestājas nāve.  
 
- 
+ H301 Toksisks, ja norij.  
 
-  H200    Nestabili sprādzienbīstami materiāli.      
+ H312 Kaitīgs, ja nonāk saskarē ar ādu.  
 
+ H400 Ļoti toksisks ūdens organismiem.  
 
+ H314 Izraisa smagus ādas apdegumus un acu bojājumus.  
 
- 
+ H315 Kairina ādu.  
 
+ P232 Aizsargāt no mitruma.  
 
+ P233 Tvertni stingri noslēgt.  
 
- 
+ P234 Turēt tikai oriģinālā iepakojumā.  
 
- 
+ P235 Turēt vēsumā.  
 
-  H221    Uzliesmojoša gāze.      
+ P402 Glabāt sausā vietā.  
 
+ P402 Glabāt sausā vietā.  
 
+ P404 Glabāt slēgtā tvertnē.  
 
- 
+ P405 Glabāt slēgtā veidā.  
 
-
-
- 
-
- 
-
-  H223    Uzliesmojošs aerosols.      
-
-
-
- 
-
-
-
- 
-
- 
-
-  H300    Norijot iestājas nāve.      
-
-
-
- 
-
-
-
- 
-
- 
-
-  H301    Toksisks, ja norij.      
-
-
-
- 
-
-
-
- 
-
- 
-
-  H312    Kaitīgs, ja nonāk saskarē ar ādu.      
-
-
-
- 
-
-
-
- 
-
- 
-
-  H400    Ļoti toksisks ūdens organismiem.      
-
-
-
- 
-
-
-
- 
-
- 
-
-   H314     Izraisa smagus ādas apdegumus un acu bojājumus.      
-
-
-
- 
-
-
-
- 
-
- 
-
-  H315    Kairina ādu.      
-
-
-
- 
-
-
-
- 
-
-  P232 Aizsargāt no mitruma.       
-
-
-
- 
-
-
-
- 
-
-  P233 Tvertni stingri noslēgt.       
-
-
-
- 
-
-
-
- 
-
-  P234 Turēt tikai oriģinālā iepakojumā.       
-
-
-
- 
-
-
-
- 
-
-  P235 Turēt vēsumā.       
-
-
-
- 
-
-
-
- 
-
-  P402 Glabāt sausā vietā.       
-
-
-
- 
-
-
-
- 
-
-  P402 Glabāt sausā vietā.       
-
-
-
- 
-
-
-
- 
-
-  P404 Glabāt slēgtā tvertnē.       
-
-
-
- 
-
-
-
- 
-
-  P405 Glabāt slēgtā veidā.       
-
-
-
- 
-
-
-
- 
-
-  P406 Glabāt tvertnē, kas aizsargā pret koroziju       
+ P406 Glabāt tvertnē, kas aizsargā pret koroziju 
 
 Viegli uzliesmojošas vielas Ja darba vai ražošanas procesā rodas vai tiek izmantotas viegli uzliesmojošas vielas, tad var notikt sprādziens vai vielu aizdegšanās (gāzes, tvaiki un putekļi)
 
@@ -1228,7 +1001,7 @@ Viegli uzliesmojošas vielas var rasties arī blakusreakcijās, piemēram, kad v
 
 Sprāgstvielas - nestabili sprādzienbīstami materiāli
 
-Uzliesmojošo vielu grupas   Uzliesmojošas gāzes un gāzu maisījumi, piemēram, sašķidrinātā gāze (butāns, propāns, propilēns), dabasgāze, degošas gāzes (oglekļa monoksīds vai metāns) vai uzliesmojošas gāzveida ķīmiskās vielas (acetilēns, etilēna oksīds). Komposta gāzes, siens. Uzliesmojoši šķidrumi (šķīdinātāji, degvielas, nafta, kurināmie, krāsas, ūdenī nešķīstošas un šķīstošas ķīmiskās vielas, butillitijs, smēreļļas vai izlietotā eļļa) – sajaucoties ar gaisu, rada uzliesmot spējīgu maisījumu! Uzliesmojošu cieto vielu putekļi (akmeņogļu, koka). Metālu (Al, Mg, Ca u.c.) un lopbarības putekļi (piemēram, cukura, miltu vai graudaugu), plastmasas, metālu vai citu ķīmisko vielu putekļi. Vielas: baltais fosfors, sārmu metāli, metālu hidrīdi u.c.   Daudzas vielas normālos apstākļos nav viegli uzliesmojošas,
+Uzliesmojošo vielu grupas Uzliesmojošas gāzes un gāzu maisījumi, piemēram, sašķidrinātā gāze (butāns, propāns, propilēns), dabasgāze, degošas gāzes (oglekļa monoksīds vai metāns) vai uzliesmojošas gāzveida ķīmiskās vielas (acetilēns, etilēna oksīds). Komposta gāzes, siens. Uzliesmojoši šķidrumi (šķīdinātāji, degvielas, nafta, kurināmie, krāsas, ūdenī nešķīstošas un šķīstošas ķīmiskās vielas, butillitijs, smēreļļas vai izlietotā eļļa) – sajaucoties ar gaisu, rada uzliesmot spējīgu maisījumu! Uzliesmojošu cieto vielu putekļi (akmeņogļu, koka). Metālu (Al, Mg, Ca u.c.) un lopbarības putekļi (piemēram, cukura, miltu vai graudaugu), plastmasas, metālu vai citu ķīmisko vielu putekļi. Vielas: baltais fosfors, sārmu metāli, metālu hidrīdi u.c. Daudzas vielas normālos apstākļos nav viegli uzliesmojošas,
 
 bet tās kļūst sprādzienbīstamas, kad sajaucas ar gaisu, ja to daļiņu izmērs ir īpaši mazs vai aizdegšanās enerģija ir pietiekami augsta (piemēram, metāla putekļi, aerosols).
 
@@ -1236,35 +1009,35 @@ Jāstrādā argona vai slāpekļa atmosfērā
 
 Sprādzienbīstamību un ugunsnedrošību raksturo – H200 – H299 fizikālie (briesmu) bīstamības apzīmējumi.Oksidētāji Vielas un produkti, kas kontaktā ar citām vielām, īpaši ar uzliesmojošām vielām var izraisīt eksotermisku reakciju (sprādzienu).
 
-Vielas iedala: H270 - oksidētājs, var izraisīt intensīvu degšanu, H271 - spēcīgs oksidētājs, var izraisīt ļoti intensīvu degšanu, H272 - oksidētājs var pastiprināt degšanu     Piemēram: peroksīdi, kālija permanganāts u.c.Degšanas process Ķīmiska pārvērtība, kuras gaitā izdalās daudz siltuma un parasti veidojas arī liesma.
+Vielas iedala: H270 - oksidētājs, var izraisīt intensīvu degšanu, H271 - spēcīgs oksidētājs, var izraisīt ļoti intensīvu degšanu, H272 - oksidētājs var pastiprināt degšanu Piemēram: peroksīdi, kālija permanganāts u.c.Degšanas process Ķīmiska pārvērtība, kuras gaitā izdalās daudz siltuma un parasti veidojas arī liesma.
 
 Degšanas pamatā ir degtspējīgas vielas (degvielas) un oksidētāju (skābekļa, ozona, peroksīdu, perhlorātu u.c.) savstarpējas eksotermiskas oksidēšanās reakcijas.
 
-Dūmi - degšanas produktu maisījums, kura sastāvs ir atkarīgs no:   degošā materiāla temperatūras;  skābekļa pieejamības.   Temperatūras degošā telpā: Karsto gāzu slānis 600°-1000° Grīdas temperatūra &amp;gt;180° Kvēlojoši pelni 600° Kvēlojošas ogles 1300°   Dūmu toksicitātes mehānismi Intoksikācija - mehānisms, ko izraisa akūts skābekļa trūkums (indīgās vielas nokļūšana organismā)
+Dūmi - degšanas produktu maisījums, kura sastāvs ir atkarīgs no: degošā materiāla temperatūras; skābekļa pieejamības. Temperatūras degošā telpā: Karsto gāzu slānis 600°-1000° Grīdas temperatūra &amp;gt;180° Kvēlojoši pelni 600° Kvēlojošas ogles 1300° Dūmu toksicitātes mehānismi Intoksikācija - mehānisms, ko izraisa akūts skābekļa trūkums (indīgās vielas nokļūšana organismā)
 
 Sodrēju ieelpošana:
 
 Oglekļa daļiņas ilgstoši deponējas uz alveolu un bronhiolu virsmas =&amp;gt; Intensīvs kairinājums Gāzu iedarbība Labi šķīst ūdenī! =&amp;gt; absorbējas augšējos elpceļos un rada kairinājumu
 
-Mazšķīstošās gāzes – inhalējas plaušās! =&amp;gt; izraisa plaušu toksicitāti  Mazas devas: konjunktivīts, laringīts, klepus, trokšņi elpceļos Lielas devas: balsenes tūska, plaušu tūska, ķīmiskā pneimonija u.c.   Kodīgas vielas Ķīmiskās vielas un ķīmiskie produkti ir kodīgi, ja, nokļūstot uz veselas ādas, tie rada bojājumus visā ādas slāņa dziļumā.
+Mazšķīstošās gāzes – inhalējas plaušās! =&amp;gt; izraisa plaušu toksicitāti Mazas devas: konjunktivīts, laringīts, klepus, trokšņi elpceļos Lielas devas: balsenes tūska, plaušu tūska, ķīmiskā pneimonija u.c. Kodīgas vielas Ķīmiskās vielas un ķīmiskie produkti ir kodīgi, ja, nokļūstot uz veselas ādas, tie rada bojājumus visā ādas slāņa dziļumā.
 
-Piemēram: skābes, kurām pH ir 2 vai mazāks,  sārmu šķīdumi, kuriem pH ir 11,5 vai lielāks  Sārmu un skābju izraisīto apdegumu piemēri: Kairinošas vielas ķīmiskas vielas un produkti, kas 24 stundu vai īsākā laika posmā pēc kontakta rada būtisku ādas iekaisumu, redzes traucējumus, elpceļu kairinājumu;  H315 - kairina ādu, ķīmiskas vielas un produkti, kas rada būtisku acu iekaisumu. H319 – kairina acis. H335 – var izraisīt elpceļu kairinājumu.  
+Piemēram: skābes, kurām pH ir 2 vai mazāks, sārmu šķīdumi, kuriem pH ir 11,5 vai lielāks Sārmu un skābju izraisīto apdegumu piemēri: Kairinošas vielas ķīmiskas vielas un produkti, kas 24 stundu vai īsākā laika posmā pēc kontakta rada būtisku ādas iekaisumu, redzes traucējumus, elpceļu kairinājumu; H315 - kairina ādu, ķīmiskas vielas un produkti, kas rada būtisku acu iekaisumu. H319 – kairina acis. H335 – var izraisīt elpceļu kairinājumu. 
 
 Sensibilizējošas vielas 
 
-Izraisa paaugstinātu jutīgumu un alerģiskas reakcijas (astmu, kontaktdermatītu); Aroda alergēni – daži piemēri Kancerogēnās vielas  izraisa audzēju attīstīšanos, nonākot saskarē ar cilvēku; policikliskie aromātiskie ogļūdeņraži: akmeņogļu, darvas, naftas produkti – benzpirēns u.c; aromātiskie amīni: anilīnkrāsvielu rūpniecības blakusprodukti - β-naftilamīni un α-naftilamīni u.c, aminoazosavienojumi (dažas pārtikas krāsvielas u.c); nitrozamīni un dažas dabas vielas: aflatoksīni, ko izdala dažas pelējumsēnes.  
+Izraisa paaugstinātu jutīgumu un alerģiskas reakcijas (astmu, kontaktdermatītu); Aroda alergēni – daži piemēri Kancerogēnās vielas izraisa audzēju attīstīšanos, nonākot saskarē ar cilvēku; policikliskie aromātiskie ogļūdeņraži: akmeņogļu, darvas, naftas produkti – benzpirēns u.c; aromātiskie amīni: anilīnkrāsvielu rūpniecības blakusprodukti - β-naftilamīni un α-naftilamīni u.c, aminoazosavienojumi (dažas pārtikas krāsvielas u.c); nitrozamīni un dažas dabas vielas: aflatoksīni, ko izdala dažas pelējumsēnes. 
 
 Mutagēnās vielas 
 
 izraisa pārmantojamus ģenētiskus bojājumus 
 
-mutagēnas vielas rodas, nepareizi termiski apstrādājot olbaltumiem bagātus produktus.    
+mutagēnas vielas rodas, nepareizi termiski apstrādājot olbaltumiem bagātus produktus. 
 
 Reproduktīvajai sistēmai toksiskas vielas 
 
 ietekmē auglību un normālu attīstību (pirms un pēc dzimšanas)
 
-ftalāti, svins, dzīvsudrabs, formamīds    
+ftalāti, svins, dzīvsudrabs, formamīds 
 
 ## Bīstama ķīmiska viela
 
@@ -1284,13 +1057,13 @@ Vietējas nozīmes paaugstinātas bīstamības objekts4. solis ja bīstamā ķī
 
 ## Kas ir katastrofa?
 
- Katastrofa ir negadījums, kas apdraud:  cilvēku dzīvību vai veselību; izraisa cilvēku upurus; nodara materiālos zaudējumus vai kaitējumu videi; pārsniedz skartās sabiedrības spēju novērst sekas ar attiecīgajā teritorijā esošo, reaģēšanā iesaistīto operatīvo dienestu resursiem.    Ārkārtējā situācija ir īpašs tiesiskais režīms, kura laikā Ministru kabinetam ir tiesības likumā noteiktajā kārtībā un apjomā ierobežot valsts pārvaldes un pašvaldību institūciju, fizisko un juridisko personu tiesības un brīvības, kā arī uzlikt tām papildu pienākumus.
+ Katastrofa ir negadījums, kas apdraud: cilvēku dzīvību vai veselību; izraisa cilvēku upurus; nodara materiālos zaudējumus vai kaitējumu videi; pārsniedz skartās sabiedrības spēju novērst sekas ar attiecīgajā teritorijā esošo, reaģēšanā iesaistīto operatīvo dienestu resursiem. Ārkārtējā situācija ir īpašs tiesiskais režīms, kura laikā Ministru kabinetam ir tiesības likumā noteiktajā kārtībā un apjomā ierobežot valsts pārvaldes un pašvaldību institūciju, fizisko un juridisko personu tiesības un brīvības, kā arī uzlikt tām papildu pienākumus.
 
 Ārkārtējo situāciju var izsludināt tāda valsts apdraudējuma gadījumā, kas saistīts ar katastrofu, tās draudiem vai kritiskās infrastruktūras apdraudējumu, ja būtiski apdraudēta valsts, sabiedrības, vides, saimnieciskās darbības drošība vai cilvēku veselība un dzīvība.
 
 Izņēmuma stāvoklis ir īpašs tiesiskais režīms, kas izsludināms, ja:
 
-valsti apdraud ārējais ienaidnieks; valstī vai tās daļā ir izcēlušies vai draud izcelties iekšēji nemieri, kas apdraud demokrātisko valsts iekārtu.  
+valsti apdraud ārējais ienaidnieks; valstī vai tās daļā ir izcēlušies vai draud izcelties iekšēji nemieri, kas apdraud demokrātisko valsts iekārtu. 
 
 (2) Izņēmuma stāvoklis ļauj likumā noteiktajā apjomā un kārtībā ierobežot fizisko un juridisko personu tiesības un brīvības, kā arī uzlikt tām papildu pienākumus. 
 
@@ -1300,41 +1073,41 @@ valsti apdraud ārējais ienaidnieks; valstī vai tās daļā ir izcēlušies va
 
 1.vietēja mēroga katastrofas – katastrofas radīto postījumu apjoms nepārsniedz vienas pašvaldības administratīvās teritorijas robežas:
 
-Katastrofas radīto postījumu apjoms nepārsniedz novada teritoriju2.reģionāla mēroga katastrofas – katastrofas radīto postījumu apjoms pārsniedz vienas pašvaldības administratīvās teritorijas robežas:  Katastrofas radīto postījumu apjoms skar blakus pašvaldību teritorijas.   3.valsts mēroga katastrofas – katastrofas radītie postījumi ietekmē visu valsts teritoriju vai nozīmīgu tās daļu. Piemēri: Daugavas piesārņojums, 2007. gads Dabas katastrofa mežsaimniecības nozarē, 2017. gads   
+Katastrofas radīto postījumu apjoms nepārsniedz novada teritoriju2.reģionāla mēroga katastrofas – katastrofas radīto postījumu apjoms pārsniedz vienas pašvaldības administratīvās teritorijas robežas: Katastrofas radīto postījumu apjoms skar blakus pašvaldību teritorijas. 3.valsts mēroga katastrofas – katastrofas radītie postījumi ietekmē visu valsts teritoriju vai nozīmīgu tās daļu. Piemēri: Daugavas piesārņojums, 2007. gads Dabas katastrofa mežsaimniecības nozarē, 2017. gads 
 
 ## Dabas katastrofas
 
- ģeofiziskās — zemestrīces, zemes nogruvumi hidroloģiskās — pali, plūdi, ledus sastrēgumi meteoroloģiskās — lietusgāzes, krusa, sniega sanesumi, vētras, viesuļi klimatoloģiskās — stiprs sals vai karstums, apledojums, sausums, mežu un kūdras purvu ugunsgrēki bioloģiskās — epidēmijas, epizootijas, epifitotijas  kosmiskās — meteorītu nokrišana, ģeomagnētiskās vētras.   Dabas katastrofas ir visi tie dabā noritošie procesi, kas apdraud cilvēku dzīvību un iznīcina cilvēku radīto vidi. Nenovēršami Zemes garozas kustības, atmosfēras cirkulācijas vai hidrosfēras procesi. Jāiemācās tos paredzēt, dzīvot un darboties tā, lai katastrofu postījumi būtu pēc iespējas mazāki.
+ ģeofiziskās — zemestrīces, zemes nogruvumi hidroloģiskās — pali, plūdi, ledus sastrēgumi meteoroloģiskās — lietusgāzes, krusa, sniega sanesumi, vētras, viesuļi klimatoloģiskās — stiprs sals vai karstums, apledojums, sausums, mežu un kūdras purvu ugunsgrēki bioloģiskās — epidēmijas, epizootijas, epifitotijas kosmiskās — meteorītu nokrišana, ģeomagnētiskās vētras. Dabas katastrofas ir visi tie dabā noritošie procesi, kas apdraud cilvēku dzīvību un iznīcina cilvēku radīto vidi. Nenovēršami Zemes garozas kustības, atmosfēras cirkulācijas vai hidrosfēras procesi. Jāiemācās tos paredzēt, dzīvot un darboties tā, lai katastrofu postījumi būtu pēc iespējas mazāki.
 
-Latvijā biežāk iespējamās dabas stihiskās nelaimes:Vētras, viesuļvētras, virpuļviesuļi; Plūdi; Masveidīgas ugunsnelaimes – mežu un kūdras purvu degšana, kūlas degšana; Sniega sanesumi, sniega vētras, stiprs sals, apledojumi.   
+Latvijā biežāk iespējamās dabas stihiskās nelaimes:Vētras, viesuļvētras, virpuļviesuļi; Plūdi; Masveidīgas ugunsnelaimes – mežu un kūdras purvu degšana, kūlas degšana; Sniega sanesumi, sniega vētras, stiprs sals, apledojumi. 
 
 ## Cilvēku izraisītas jeb antropogēnās katastrofas
 
- tehnogēnās katastrofas, kuras rodas ķīmisko, radioaktīvo un bioloģisko vielu noplūdes, ēkās un būvēs izcēlušos ugunsgrēku, sprādzienu, dambju un citu hidrotehnisko būvju pārrāvumu, elektrotīklu bojājumu, komunālo tīklu avāriju, ēku un būvju sabrukuma vai transporta avāriju rezultātā.  sabiedriskās nekārtības, terora akti un iekšējie nemieri.   Piemēri: Daugavas piesārņojumshttps://stream.lu.lv/digitek_civilaaizs_knv_media7qi9zf9xcp476jb8twowranojy.mp4Masu nekārtībashttps://stream.lu.lv/digitek_civilaaizs_knv_media8q74cxwcfwjgwdrn9bocz3m75z.mp4   
+ tehnogēnās katastrofas, kuras rodas ķīmisko, radioaktīvo un bioloģisko vielu noplūdes, ēkās un būvēs izcēlušos ugunsgrēku, sprādzienu, dambju un citu hidrotehnisko būvju pārrāvumu, elektrotīklu bojājumu, komunālo tīklu avāriju, ēku un būvju sabrukuma vai transporta avāriju rezultātā. sabiedriskās nekārtības, terora akti un iekšējie nemieri. Piemēri: Daugavas piesārņojumshttps://stream.lu.lv/digitek_civilaaizs_knv_media7qi9zf9xcp476jb8twowranojy.mp4Masu nekārtībashttps://stream.lu.lv/digitek_civilaaizs_knv_media8q74cxwcfwjgwdrn9bocz3m75z.mp4 
 
 ## Rīcība plūdu laikā
 
- Rīcība plūdu laikā  
+ Rīcība plūdu laikā 
 
- https://youtu.be/TqCewTZAWdU  Plūdu apdraudēto teritoriju iedzīvotājiem jāklausās meteo ziņas, brīdināt kaimiņus. Ūdens līmeņa strauja celšanās visbīstamākā ir naktīs; Savlaicīgi parūpēties par veciem cilvēkiem, bērniem, invalīdiem un slimniekiem; Jāparūpējas par mājdzīvniekiem; Jāsagatavo dokumenti, nepieciešamie medikamenti, nauda, apģērbi un apavi, pārtikas rezerves – ja būs nepieciešama evakuācija vai glābšana; Jāuzlādē mobilais telefons, jāsagatavo kabatas lukturīši vai sveces.   Pirms:
+ https://youtu.be/TqCewTZAWdU Plūdu apdraudēto teritoriju iedzīvotājiem jāklausās meteo ziņas, brīdināt kaimiņus. Ūdens līmeņa strauja celšanās visbīstamākā ir naktīs; Savlaicīgi parūpēties par veciem cilvēkiem, bērniem, invalīdiem un slimniekiem; Jāparūpējas par mājdzīvniekiem; Jāsagatavo dokumenti, nepieciešamie medikamenti, nauda, apģērbi un apavi, pārtikas rezerves – ja būs nepieciešama evakuācija vai glābšana; Jāuzlādē mobilais telefons, jāsagatavo kabatas lukturīši vai sveces. Pirms:
 
-https://videscentrs.lvgmc.lv/ jāveic novēršanas pasākumi –vērtīgās mantas jāpārvieto augšējos stāvos,  jānodrošina, lai ķīmiskās vielas un produkti atrastos drošās vietās,  jānorobežo vai jāizved atkritumi u.c.    Ogres plūdi   https://stream.lu.lv/digitek_civilaaizs_knv_media9dpxe75eykgohnsrk79xjpsk3d.mp4  Citi ledus sastrēguma postījumi: https://stream.lu.lv/digitek_civilaaizs_knv_pludi_kent_ledus_nones_tiltus6bf29draz8eagtajugq.mp4  Preventīvie pasākumi - kūdras kaisīšana
+https://videscentrs.lvgmc.lv/ jāveic novēršanas pasākumi –vērtīgās mantas jāpārvieto augšējos stāvos, jānodrošina, lai ķīmiskās vielas un produkti atrastos drošās vietās, jānorobežo vai jāizved atkritumi u.c. Ogres plūdi https://stream.lu.lv/digitek_civilaaizs_knv_media9dpxe75eykgohnsrk79xjpsk3d.mp4 Citi ledus sastrēguma postījumi: https://stream.lu.lv/digitek_civilaaizs_knv_pludi_kent_ledus_nones_tiltus6bf29draz8eagtajugq.mp4 Preventīvie pasākumi - kūdras kaisīšana
 
 Preventīvie pasākumi – ledus uzlaušana, spridzināšanahttps://stream.lu.lv/digitek_civilaaizs_knv_media102tmdbqczsptrbpbs38dedun97.mp4
 
 ## Katastrofu piemēri, rīcība un preventīvie pasākumi
 
- Plūdi; Masveida mežu, purvu un kūlas ugunsgrēki; Ugunsgrēki telpās Vētra; Lietusgāzes; Pērkons, zibens; Stipra snigšana un aukstums; Zemestrīce; Epidēmija; Terora akts.  
+ Plūdi; Masveida mežu, purvu un kūlas ugunsgrēki; Ugunsgrēki telpās Vētra; Lietusgāzes; Pērkons, zibens; Stipra snigšana un aukstums; Zemestrīce; Epidēmija; Terora akts. 
 
 ## Rīcība meža (kūdras) ugunsgrēka laikā
 
- Masveida mežu, purvu un kūlas ugunsgrēku cēloņi:Pērkona negaisi 8%; Dzelzceļa un auto transports 5%; Kūlas dedzināšana 10%; Uzņēmumu vainas dēļ 18%; Neuzmanība un ļaunprātība 59%.    Uguns izplatīšanas vidējais ātrums stipra vēja laikā līdz 24 km/h. Fiziski normāli attīstīta cilvēka vidējais skriešanas ātrums – 12 km/h.
+ Masveida mežu, purvu un kūlas ugunsgrēku cēloņi:Pērkona negaisi 8%; Dzelzceļa un auto transports 5%; Kūlas dedzināšana 10%; Uzņēmumu vainas dēļ 18%; Neuzmanība un ļaunprātība 59%. Uguns izplatīšanas vidējais ātrums stipra vēja laikā līdz 24 km/h. Fiziski normāli attīstīta cilvēka vidējais skriešanas ātrums – 12 km/h.
 
-Rīcība meža (kūdras) ugunsgrēka laikā : Ja mežu ugunsgrēks izcēlies ugunskura kurināšanas rezultātā, uzreiz mēģiniet to nodzēst, sitot liesmas ar zariem, segu vai citu pieejamu priekšmetu; Uguns jādzēš slīpiem sitieniem izdegušā laukuma virzienā; Ja uguni nodzēst nav iespējams, nekavējoties brīdiniet pārējos un ejiet prom no ugunsgrēka vietas uz ceļu, meža stigu, lauku vai ūdenskrātuves krastu; Virzieties perpendikulāri uguns izplatīšanās virzienam; Ja Jūs esat meža laukumiņā, noliecieties tuvāk zemei. Gaiss pie zemes ir mazāk sadūmots.    Izejot laukā no ugunsgrēka vietas, paziņojiet par to, zvanot uz tālruni 112. Lielu meža ugunsgrēku dzēsīs ugunsdzēsēji.
+Rīcība meža (kūdras) ugunsgrēka laikā : Ja mežu ugunsgrēks izcēlies ugunskura kurināšanas rezultātā, uzreiz mēģiniet to nodzēst, sitot liesmas ar zariem, segu vai citu pieejamu priekšmetu; Uguns jādzēš slīpiem sitieniem izdegušā laukuma virzienā; Ja uguni nodzēst nav iespējams, nekavējoties brīdiniet pārējos un ejiet prom no ugunsgrēka vietas uz ceļu, meža stigu, lauku vai ūdenskrātuves krastu; Virzieties perpendikulāri uguns izplatīšanās virzienam; Ja Jūs esat meža laukumiņā, noliecieties tuvāk zemei. Gaiss pie zemes ir mazāk sadūmots. Izejot laukā no ugunsgrēka vietas, paziņojiet par to, zvanot uz tālruni 112. Lielu meža ugunsgrēku dzēsīs ugunsdzēsēji.
 
 ## Rīcība ugunsgrēka laikā (telpās)
 
- Rīcība ugunsgrēka laikā (telpās) : Nekrītiet panikā, jo objektīvs situācijas novērtējums un pareizas rīcības izvēle palielina Jūsu iespējas izglābties; Ja pamostaties un konstatējat, ka izcēlies ugunsgrēks, rāpojiet uz durvju pusi. Turoties tuvāk grīdai iespējams paglābties no bojāejas; Mēģiniet uztaustīt durvis ar roku; Necentieties paņemt kādas drēbes vai vērtslietas.   KĻŪDAS:Ja mēģina dzēst saviem spēkiem:ūdens liešana uz elektroierīcēm; ūdens liešana uz karstas pannas.  Ja liesmas nav iespējams apdzēst:skriešana stāvus pozā cauri dūmiem; strauja loga atvēršana. Dūmu detektora neesamība.  PAREIZI:Ja mēģina dzēst saviem spēkiem:elektroierīces jāatvieno no strāvas; pannu dzēš ar mitrām lupatām;  Ja liesmas nav iespējams apdzēst:rāpus pamest piedūmotas telpas; glābties tālākajā telpā no uguns; durvju noblīvēšana; lēna loga atvēršana; saukšana palīgā.  
+ Rīcība ugunsgrēka laikā (telpās) : Nekrītiet panikā, jo objektīvs situācijas novērtējums un pareizas rīcības izvēle palielina Jūsu iespējas izglābties; Ja pamostaties un konstatējat, ka izcēlies ugunsgrēks, rāpojiet uz durvju pusi. Turoties tuvāk grīdai iespējams paglābties no bojāejas; Mēģiniet uztaustīt durvis ar roku; Necentieties paņemt kādas drēbes vai vērtslietas. KĻŪDAS:Ja mēģina dzēst saviem spēkiem:ūdens liešana uz elektroierīcēm; ūdens liešana uz karstas pannas. Ja liesmas nav iespējams apdzēst:skriešana stāvus pozā cauri dūmiem; strauja loga atvēršana. Dūmu detektora neesamība. PAREIZI:Ja mēģina dzēst saviem spēkiem:elektroierīces jāatvieno no strāvas; pannu dzēš ar mitrām lupatām; Ja liesmas nav iespējams apdzēst:rāpus pamest piedūmotas telpas; glābties tālākajā telpā no uguns; durvju noblīvēšana; lēna loga atvēršana; saukšana palīgā. 
 
 ## Rīcība vētras laikā
 
@@ -1342,34 +1115,33 @@ Rīcība meža (kūdras) ugunsgrēka laikā : Ja mežu ugunsgrēks izcēlies ugu
 
 Bez īpašas nepieciešamības centieties neiet ārpus telpām , atturiet no pastaigām bērnus, vecus cilvēkus un invalīdus.
 
-Esiet gatavi elektroenerģijas padeves pārtraukumiem. Savlaicīgi  sagatavojiet kabatas lukturus un ievietojiet baterijas radiouztvērējos.
+Esiet gatavi elektroenerģijas padeves pārtraukumiem. Savlaicīgi sagatavojiet kabatas lukturus un ievietojiet baterijas radiouztvērējos.
 
-Aizveriet  logus, durvis, bēniņu lūkas. Daudzdzīvokļu mājās nostipriniet priekšmetus uz balkoniem.Lauku mājās nostipriniet saimniecības priekšmetus, nevediet laukā mājlopus.
+Aizveriet logus, durvis, bēniņu lūkas. Daudzdzīvokļu mājās nostipriniet priekšmetus uz balkoniem.Lauku mājās nostipriniet saimniecības priekšmetus, nevediet laukā mājlopus.
 
-Telpās neuzturieties logu tuvumā . Blakus esošo koku zari un citi priekšmeti vētras laikā var izsist logu rūtis un izraisīt traumas.Ja vētra pārsteigusi ārpus telpām, neuzturieties  un nenovietojiet transporta līdzekļus zem vientuļiem kokiem, celtniecības sastatnēm, reklāmas stendiem, elektropārvades līnijām.Nelietojiet  lietussargus, tie apgrūtina redzamību, pastiprināti uztver vēja brāzmas un var savainot citus cilvēkus.Atrodoties klajā laukā sameklējiet vietu  kur patverties, piemēram, grāvi vai ieplaku. Ja tādas nav, tad stipras vēja brāzmas gadījumā nogulieties zemē .Atrodoties uz ūdens mēģiniet nokļūt krastā . Vislabāk, ja laivu var izvilkt no ūdens, klajā vietā apgāzt un nogulties zem tās.Atrodoties mežā, ieejiet dziļāk biezoknī. Biezoknī koki ir vairāk aizsargāti no vēja brāzmām un pastāv mazāks risks tikt savainotam zem lūstošiem kokiem vai zariem.Nešķērsojiet tiltus. Nepieciešamības gadījumā var zem tiem paslēpties un nogaidīt līdz pāriet stiprās vēja brāzmas.Ja ir nogāzušies koki, pārrauti vadi, notikusi avārija vai cits negadījums, zvaniet  Valsts ugunsdzēsības un glābšanas dienestam pa tālruņa numuru 112  vai 01 .Lai savlaicīgi saņemtu papildus informāciju, atstājiet ieslēgtu televizoru vai radiouztvērēju Infografika:   
+Telpās neuzturieties logu tuvumā . Blakus esošo koku zari un citi priekšmeti vētras laikā var izsist logu rūtis un izraisīt traumas.Ja vētra pārsteigusi ārpus telpām, neuzturieties un nenovietojiet transporta līdzekļus zem vientuļiem kokiem, celtniecības sastatnēm, reklāmas stendiem, elektropārvades līnijām.Nelietojiet lietussargus, tie apgrūtina redzamību, pastiprināti uztver vēja brāzmas un var savainot citus cilvēkus.Atrodoties klajā laukā sameklējiet vietu kur patverties, piemēram, grāvi vai ieplaku. Ja tādas nav, tad stipras vēja brāzmas gadījumā nogulieties zemē .Atrodoties uz ūdens mēģiniet nokļūt krastā . Vislabāk, ja laivu var izvilkt no ūdens, klajā vietā apgāzt un nogulties zem tās.Atrodoties mežā, ieejiet dziļāk biezoknī. Biezoknī koki ir vairāk aizsargāti no vēja brāzmām un pastāv mazāks risks tikt savainotam zem lūstošiem kokiem vai zariem.Nešķērsojiet tiltus. Nepieciešamības gadījumā var zem tiem paslēpties un nogaidīt līdz pāriet stiprās vēja brāzmas.Ja ir nogāzušies koki, pārrauti vadi, notikusi avārija vai cits negadījums, zvaniet Valsts ugunsdzēsības un glābšanas dienestam pa tālruņa numuru 112 vai 01 .Lai savlaicīgi saņemtu papildus informāciju, atstājiet ieslēgtu televizoru vai radiouztvērēju Infografika: 
 
 ## Rīcība lietusgāžu laikā
 
- Rīcība lietusgāžu laikāatrodoties auto – apzināt vai pievērst uzmanību tām vietām, kuras applūst – zem viaduktiem, zemākās pilsētas vietas (zīmes «Uzmanību! Stipra lietus laikā brauktuve applūdināta!»); Pilsētvidē applūst ielu posmi (kolektoru sistēmas netiek galā); Izvairīties no applūstošo ceļu šķērsošanas (var tikt izskalotas ietvju vai ielu pamatnes); Jāpārliecinās par drošību (vasarā vētras laikā var tikt bojāti vai appludināti elektrotīkli) u.c.    
+ Rīcība lietusgāžu laikāatrodoties auto – apzināt vai pievērst uzmanību tām vietām, kuras applūst – zem viaduktiem, zemākās pilsētas vietas (zīmes «Uzmanību! Stipra lietus laikā brauktuve applūdināta!»); Pilsētvidē applūst ielu posmi (kolektoru sistēmas netiek galā); Izvairīties no applūstošo ceļu šķērsošanas (var tikt izskalotas ietvju vai ielu pamatnes); Jāpārliecinās par drošību (vasarā vētras laikā var tikt bojāti vai appludināti elektrotīkli) u.c. 
 
 ## Rīcība pērkona (zibens) laikā
 
- Rīcība pērkona (zibens) laikāNeiet ārpus telpām; Izvairīties no caurvēja telpās (var iekļūt lodveida zibens); Nekurināt kamīnu/krāsni (pieaug risks, ka ēkā var iespert zibens); Neuzturieties pie elektroinstalācijām, antenām, logiem, durvīm, ūdens krāniem un radiatoriem, kā arī citiem metāla priekšmetiem; Atvienot radio un TV no elektriskā tīkla un neizmantot elektrotehniku; Nepalikt atklātās augstienēs; Neslēpties zem augstiem, atsevišķi augošiem kokiem; Neatrasties uz ezera vai citas ūdenskrātuves.   
+ Rīcība pērkona (zibens) laikāNeiet ārpus telpām; Izvairīties no caurvēja telpās (var iekļūt lodveida zibens); Nekurināt kamīnu/krāsni (pieaug risks, ka ēkā var iespert zibens); Neuzturieties pie elektroinstalācijām, antenām, logiem, durvīm, ūdens krāniem un radiatoriem, kā arī citiem metāla priekšmetiem; Atvienot radio un TV no elektriskā tīkla un neizmantot elektrotehniku; Nepalikt atklātās augstienēs; Neslēpties zem augstiem, atsevišķi augošiem kokiem; Neatrasties uz ezera vai citas ūdenskrātuves. 
 
-## Stipra snigšana un aukstums
+## Stipra snigšana un aukstums 
 
-
-gaisa t° &amp;lt; 0  Var izraisīt hipotermiju (drebuļi, koordinācijas traucējumi, palēnināta sirdsdarbība, paplašinātas acu zīlītes, ķermeņa refleksi, samaņas zudums u.c.), var veidoties apsaldējumi; Bez īpašas vajadzības neizejiet no mājas; Sagatavojieties elektroenerģijas padeves traucējumiem; Sekot https://videscentrs.lvgmc.lv/ brīdinājumiem; Informēt 112 vai pašvaldību, ja esat zaudējis pajumti vai ilgstoši atrodaties bez elektrības un siltuma; Padomājiet par savu mājdzīvnieku drošību un vajadzībām.     Apsaldēšanas sekas: 
+gaisa t° &amp;lt; 0 Var izraisīt hipotermiju (drebuļi, koordinācijas traucējumi, palēnināta sirdsdarbība, paplašinātas acu zīlītes, ķermeņa refleksi, samaņas zudums u.c.), var veidoties apsaldējumi; Bez īpašas vajadzības neizejiet no mājas; Sagatavojieties elektroenerģijas padeves traucējumiem; Sekot https://videscentrs.lvgmc.lv/ brīdinājumiem; Informēt 112 vai pašvaldību, ja esat zaudējis pajumti vai ilgstoši atrodaties bez elektrības un siltuma; Padomājiet par savu mājdzīvnieku drošību un vajadzībām. Apsaldēšanas sekas: 
 
 ## Rīcība zemestrīces gadījumā
 
  iekštelpās:
 
-slēpties ieteicams pie iekšējām sienām vai zem masīviem galdiem; izvairieties atrasties stūros, kas izvietoti pie logiem, priekšmetiem, kas karājas, smagām mēbelēm, kamīniem un krāsnīm; atslēdziet plīti un gāzes padevi.  
+slēpties ieteicams pie iekšējām sienām vai zem masīviem galdiem; izvairieties atrasties stūros, kas izvietoti pie logiem, priekšmetiem, kas karājas, smagām mēbelēm, kamīniem un krāsnīm; atslēdziet plīti un gāzes padevi. 
 
 ārpusē:
 
-pārvietojieties uz atklātu teritoriju, prom no ēkām, elektrības līnijām un kokiem; nemēģiniet izkļūt no ēkas zemestrīces laikā; izvairieties no panikas; Ja brauciet ar auto, apstājieties ielas pusē; Izvairieties no apstāšanās uz un zem tiltiem un ceļu pārvadiem, zem elektrības līnijām, kokiem un lielām izkārtnēm; Palieciet mašīnā!   
+pārvietojieties uz atklātu teritoriju, prom no ēkām, elektrības līnijām un kokiem; nemēģiniet izkļūt no ēkas zemestrīces laikā; izvairieties no panikas; Ja brauciet ar auto, apstājieties ielas pusē; Izvairieties no apstāšanās uz un zem tiltiem un ceļu pārvadiem, zem elektrības līnijām, kokiem un lielām izkārtnēm; Palieciet mašīnā! 
 
 ## Rīcība epidēmijas laikā
 
@@ -1417,7 +1189,7 @@ Jautājums ir:
 
 ## Civilās trauksmes un apziņošanas sistēma 
 
- Kā iedzīvotāji uzzina par apdraudējumu? ES valstīs  trauksmes un apziņošanas sistēma ietver šādus komponentus:  - Trauksmes sirēnas (25)- TV (25)- Radio (26) - Internets (14) - Mobilie sakari (10)Sistēmas mērķis: 
+ Kā iedzīvotāji uzzina par apdraudējumu? ES valstīs trauksmes un apziņošanas sistēma ietver šādus komponentus: - Trauksmes sirēnas (25)- TV (25)- Radio (26) - Internets (14) - Mobilie sakari (10)Sistēmas mērķis: 
 
 - civilās aizsardzības sistēmas ietvaros brīdināt un informēt iedzīvotājus katastrofas vai tās draudu gadījumā
 
@@ -1425,27 +1197,25 @@ Civilās trauksmes uzdevums:
 
 - nodrošināt trauksmes sirēnu darbību iedzīvotāju brīdināšanai
 
-Apziņošanas uzdevums:   -ziņot par katastrofu, izsludinātu ārkārtējo situāciju, izņēmuma stāvokli vai mobilizāciju  -informēt iedzīvotājus par rīcību katastrofas, izsludinātas ārkārtējās situācijas, izņēmuma stāvokļa vai mobilizācijas gadījumā Sistēmā ietilpst:   -republikas pilsētās, novadu pilsētās un novadu pagastos izvietotas trauksmes sirēnas -164, ko kontrolē un iedarbina no centrālās vadības pults izmantojot Motorola radio sakaru tīklu  Sistēmā ietilpst:   - mobilais trauksmes sirēnu komandcentrs ar akustiskās sirēnas iekārtu   -IEM padotībā esošo valsts pārvaldes iestāžu un citu valsts un pašvaldību institūciju, kā arī komersantu elektronisko sakaru, trauksmes un apziņošanas iekārtas  un NBS trauksmes un apziņošanas iekārtas   -elektroniskie plašsaziņas līdzekļi (piemēram, radio, televīzija) 
+Apziņošanas uzdevums: -ziņot par katastrofu, izsludinātu ārkārtējo situāciju, izņēmuma stāvokli vai mobilizāciju -informēt iedzīvotājus par rīcību katastrofas, izsludinātas ārkārtējās situācijas, izņēmuma stāvokļa vai mobilizācijas gadījumā Sistēmā ietilpst: -republikas pilsētās, novadu pilsētās un novadu pagastos izvietotas trauksmes sirēnas -164, ko kontrolē un iedarbina no centrālās vadības pults izmantojot Motorola radio sakaru tīklu Sistēmā ietilpst: - mobilais trauksmes sirēnu komandcentrs ar akustiskās sirēnas iekārtu -IEM padotībā esošo valsts pārvaldes iestāžu un citu valsts un pašvaldību institūciju, kā arī komersantu elektronisko sakaru, trauksmes un apziņošanas iekārtas un NBS trauksmes un apziņošanas iekārtas -elektroniskie plašsaziņas līdzekļi (piemēram, radio, televīzija) 
 
--raidorganizācijas un elektronisko sakaru komersanti, kas nodrošina elektronisko sakaru tīklu    Sistēmu aktivizē un tā darbojas šādā kārtībā: 
+-raidorganizācijas un elektronisko sakaru komersanti, kas nodrošina elektronisko sakaru tīklu Sistēmu aktivizē un tā darbojas šādā kārtībā: 
 
-1) pirms trauksmes sirēnu ieslēgšanas VUGD saskaņā ar līgumiem vai starpresoru vienošanos nosūta elektroniskajiem plašsaziņas līdzekļiem informāciju:  -par apdraudējumu, izsludināto īpašo tiesisko režīmu vai mobilizāciju   -par ieteicamo rīcību iedzīvotājiem  2) attiecīgajā teritorijā ieslēdz trauksmes sirēnas un raida 3 min. ilgu skaņas signālu
+1) pirms trauksmes sirēnu ieslēgšanas VUGD saskaņā ar līgumiem vai starpresoru vienošanos nosūta elektroniskajiem plašsaziņas līdzekļiem informāciju: -par apdraudējumu, izsludināto īpašo tiesisko režīmu vai mobilizāciju -par ieteicamo rīcību iedzīvotājiem 2) attiecīgajā teritorijā ieslēdz trauksmes sirēnas un raida 3 min. ilgu skaņas signālu
 
 3) elektroniskie plašsaziņas līdzekļi pārraida ēterā VUGD sagatavoto informāciju
 
-4) dzirdot trauksmes sirēnu signālu, iedzīvotāji ieslēdz radiouztvērējus un televizorus, lai saņemtu nepieciešamo informāciju
+4) dzirdot trauksmes sirēnu signālu, iedzīvotāji ieslēdz radiouztvērējus un televizorus, lai saņemtu nepieciešamo informāciju 
 
- 
+Lēmumu par sistēmas aktivizēšanu pieņem: -visā valstī vai vairāku republikas pilsētu un novadu teritorijā – VUGD priekšnieks vai amatpersona, kas viņu aizvieto -republikas pilsētas vai novada teritorijā – VUGD teritoriālās struktūrvienības vadītājs (komandieris) vai amatpersona, kas viņu aizvieto Sistēmas pārbaudi veic: 
 
-Lēmumu par sistēmas aktivizēšanu pieņem:   -visā valstī vai vairāku republikas pilsētu un novadu teritorijā – VUGD priekšnieks  vai amatpersona, kas viņu aizvieto  -republikas pilsētas vai novada teritorijā – VUGD teritoriālās struktūrvienības vadītājs  (komandieris) vai amatpersona, kas viņu aizvieto  Sistēmas pārbaudi veic: 
-
-- ne retāk kā 2 reizes gadā (parasti maijā un novembrī), ieslēdzot visas sirēnas uz 3 min., lai varētu pārbaudīt to tehnisko stāvokli un pārraidītā signāla dzirdamību Problēmas:  - Pētījums par iedzīvotāju zināšanām par rīcību – ja dzird sirēnas  - Ilgs lēmumu pieņemšanas laiks, jo nepieciešams pēc iespējas precīzāks apdraudējuma raksturojums, un lēmuma pieņemšanas gadījumā no tā izriet sekas par tālāko rīcību no operatīvajiem dienestiem u.c.  - Smagnēja sistēma, ietverot vairākus soļus, līdz informācijas nosūtīšanai iedzīvotājiem par apdraudējumu (trūkst informācijas ātruma)  - Ņemot vērā biežāk notikušās katastrofas LV (plūdi, epizotijas, elektroenerģijas ilglaicīgi pārtraukumi), tam raksturīgs lokāls raksturs – nav nepieciešams “tracināt” sabiedrību    - Problēmas ar trauksmes sirēnu pakalpojumu sniedzēju – netiek nodrošināta savlaicīga uzstādīšana, apkope un remontu    - Pēdējā trauksmes sirēnu apkope organizēta 2011.gadā    - Uz doto brīdi konstatēti traucējumi 23 trauksmes sirēnām      
+- ne retāk kā 2 reizes gadā (parasti maijā un novembrī), ieslēdzot visas sirēnas uz 3 min., lai varētu pārbaudīt to tehnisko stāvokli un pārraidītā signāla dzirdamību Problēmas: - Pētījums par iedzīvotāju zināšanām par rīcību – ja dzird sirēnas - Ilgs lēmumu pieņemšanas laiks, jo nepieciešams pēc iespējas precīzāks apdraudējuma raksturojums, un lēmuma pieņemšanas gadījumā no tā izriet sekas par tālāko rīcību no operatīvajiem dienestiem u.c. - Smagnēja sistēma, ietverot vairākus soļus, līdz informācijas nosūtīšanai iedzīvotājiem par apdraudējumu (trūkst informācijas ātruma) - Ņemot vērā biežāk notikušās katastrofas LV (plūdi, epizotijas, elektroenerģijas ilglaicīgi pārtraukumi), tam raksturīgs lokāls raksturs – nav nepieciešams “tracināt” sabiedrību - Problēmas ar trauksmes sirēnu pakalpojumu sniedzēju – netiek nodrošināta savlaicīga uzstādīšana, apkope un remontu - Pēdējā trauksmes sirēnu apkope organizēta 2011.gadā - Uz doto brīdi konstatēti traucējumi 23 trauksmes sirēnām 
 
 ## Citas apziņošanas iespējas – šūnu apraide (Cell broadcast)
 
  Līdz 2021.g. visās valstīs obligāti!
 
-Izmanto:plūdu gadījumos; vētras gadījumā; pandēmijas gadījumā; masu nekārtību; terorisma gadījumos izbēgušu cietumnieku gadījumos; lielu mežu, purvu vai kūdras ugunsgrēku gadījumos; ķīmiskās avārijas apdraudējumos; dzelzceļa, aviācijas vai autotransporta avārijas gadījumā; nekontrolētu bēgļu vai migrācijas plūsmas gadījumā; pārrobežu apdraudējuma gadījumā; u.c. situācijās.   Šūnu apraides piemērs publicitātē:      Vairāk par sistēmas darbību:  http://www.one2many.eu/en/cell-broadcast/how-it-works 
+Izmanto:plūdu gadījumos; vētras gadījumā; pandēmijas gadījumā; masu nekārtību; terorisma gadījumos izbēgušu cietumnieku gadījumos; lielu mežu, purvu vai kūdras ugunsgrēku gadījumos; ķīmiskās avārijas apdraudējumos; dzelzceļa, aviācijas vai autotransporta avārijas gadījumā; nekontrolētu bēgļu vai migrācijas plūsmas gadījumā; pārrobežu apdraudējuma gadījumā; u.c. situācijās. Šūnu apraides piemērs publicitātē: Vairāk par sistēmas darbību: http://www.one2many.eu/en/cell-broadcast/how-it-works 
 
 ## Šūnu apraides ziņu piemēri
 
@@ -1453,13 +1223,13 @@ Izmanto:plūdu gadījumos; vētras gadījumā; pandēmijas gadījumā; masu nek�
 
 ## Rīcība ķīmiskās vielas noplūdes gadījumā (traucējošas smakas)
 
- Saindēšanās gadījumā: jānogādā svaigā gaisā un 113.    Saskarē ar ādu: jāskalo āda ar ūdeni;  piesārņotais apģērbs jānovelk.    Kur iegūt informāciju: uzklausīt operatīvo dienestu informāciju un rīkoties; evakuācijas laikā –virzīties perpendikulāri vēja virzienam.   Ķīmiskā gaisa piesārņojuma pārvadīšanas shēma:  
+ Saindēšanās gadījumā: jānogādā svaigā gaisā un 113. Saskarē ar ādu: jāskalo āda ar ūdeni; piesārņotais apģērbs jānovelk. Kur iegūt informāciju: uzklausīt operatīvo dienestu informāciju un rīkoties; evakuācijas laikā –virzīties perpendikulāri vēja virzienam. Ķīmiskā gaisa piesārņojuma pārvadīšanas shēma: 
 
 ## Rīcība radiācijas gadījumā
 
- Radiācijas noplūdes gadījumā:Kāpēc radiācija ir bīstama? Radiācija:izraisa neauglību; lēcas apduļķošanās – kataraktu; pie lielākām apstarošanas dozām apstarotais cilvēks mirst divu dienu laikā.    Tabulā apkopotas sekas pie dažādām radiācijas apstarošanas dozām (mSV):Tāpēc svarīgi neuzkavēties radiācijas noplūdes zonā un pēc iespējas ātrāk doties tālāk no apdraudētās zonas. Video no apmācībām - kā novērst radiācijas avotu:https://stream.lu.lv/digitek_civilaaizs_knv_media11rv5v6xfbdzqh7c3ahyektbqps.mp4
+ Radiācijas noplūdes gadījumā:Kāpēc radiācija ir bīstama? Radiācija:izraisa neauglību; lēcas apduļķošanās – kataraktu; pie lielākām apstarošanas dozām apstarotais cilvēks mirst divu dienu laikā. Tabulā apkopotas sekas pie dažādām radiācijas apstarošanas dozām (mSV):Tāpēc svarīgi neuzkavēties radiācijas noplūdes zonā un pēc iespējas ātrāk doties tālāk no apdraudētās zonas. Video no apmācībām - kā novērst radiācijas avotu:https://stream.lu.lv/digitek_civilaaizs_knv_media11rv5v6xfbdzqh7c3ahyektbqps.mp4
 
-Gamma starojumu mazina: Automašīnas virsbūve par 40%; Koka ēka par 50%; Mūra ēka par 70%; Vairākstāvu mūra ēkas pagrabstāvs par 95%.   
+Gamma starojumu mazina: Automašīnas virsbūve par 40%; Koka ēka par 50%; Mūra ēka par 70%; Vairākstāvu mūra ēkas pagrabstāvs par 95%. 
 
 # Rīcība ugunsgrēka gadījumā un evakuācija
 
@@ -1469,22 +1239,21 @@ Jautājums ir:
 
  Degšanas nosacījumi:
 
-Temperatūra + skābeklis + materiāls = Bīstamākās vielas dūmos:oglekļa monoksīds – rodas parastā uguns-grēkā (koks, papīrs) (0,02% nāve); sērūdeņradis – rodas parastā ugunsgrēkā (koks, papīrs) 0,08% (nāve); zilskābe - degot porolonam, plastmasai, sintētikai (0,01% nāve); akroleins – nepilnīgi sadegot ziepēm (trietanolamīns (0,003% nāve).  Ugunsdzēsības signalizācijas sistēma:Dūmu detektors:Autonoms, ar bateriju   ŪdensIekšējais ugunsdzēsības krānsSkābekļa atņemšanaar pulveriSkābekļa atņemšanaAtdzesēšana ar CO2 gāziGāze Ugunsgrēka izcelšanas iespējamie iemesli: Remonta/ugunsbīstamie darbiTīša dedzināšana
+Temperatūra + skābeklis + materiāls = Bīstamākās vielas dūmos:oglekļa monoksīds – rodas parastā uguns-grēkā (koks, papīrs) (0,02% nāve); sērūdeņradis – rodas parastā ugunsgrēkā (koks, papīrs) 0,08% (nāve); zilskābe - degot porolonam, plastmasai, sintētikai (0,01% nāve); akroleins – nepilnīgi sadegot ziepēm (trietanolamīns (0,003% nāve). Ugunsdzēsības signalizācijas sistēma:Dūmu detektors:Autonoms, ar bateriju ŪdensIekšējais ugunsdzēsības krānsSkābekļa atņemšanaar pulveriSkābekļa atņemšanaAtdzesēšana ar CO2 gāziGāze Ugunsgrēka izcelšanas iespējamie iemesli: Remonta/ugunsbīstamie darbiTīša dedzināšana
 
 ## Rīcība ārkārtējā situācijā
 
- Katrs, kas pamana aizdegšanos, zvana uz telefonu 112 (VUGD).  Var mēģināt nodzēst aizdegšanos.  Uzsākt evakuāciju.  Atslēgt elektroenerģiju/ventilāciju.  Sagaidīt ugunsdzēsējus uz ielas.  Izpildīt VUGD glābšanas darbu vadītāja rīkojumus.   
+ Katrs, kas pamana aizdegšanos, zvana uz telefonu 112 (VUGD). Var mēģināt nodzēst aizdegšanos. Uzsākt evakuāciju. Atslēgt elektroenerģiju/ventilāciju. Sagaidīt ugunsdzēsējus uz ielas. Izpildīt VUGD glābšanas darbu vadītāja rīkojumus. 
 
 ## Kā glābties, ja uguns nosprostojusi izeju no telpas?
 
- Durvis pārbaudīt ar plaukstas virspusi – nevērt vaļā, ja tās ir karstas.  1970 Atvērt logu un atrasties ar seju pie palodzes, kur telpā vienmēr ieplūst gaiss. Paziņot par savu atrašanās vietu, izmantojot tālruni vai auduma gabalu vicinot pa logu. Elpošanas ceļus no dūmiem var mēģināt aizsargāt ar slapju drēbi, lupatiņu vai citu mīkstu materiālu.  ja telpā kļūst neciešami karsts un griesti piepildās ar dūmiem, tad pieliekties tuvāk grīdai, jo tur ir vēsāks un paliks beidzamais skābeklis.    
+ Durvis pārbaudīt ar plaukstas virspusi – nevērt vaļā, ja tās ir karstas. 1970 Atvērt logu un atrasties ar seju pie palodzes, kur telpā vienmēr ieplūst gaiss. Paziņot par savu atrašanās vietu, izmantojot tālruni vai auduma gabalu vicinot pa logu. Elpošanas ceļus no dūmiem var mēģināt aizsargāt ar slapju drēbi, lupatiņu vai citu mīkstu materiālu. ja telpā kļūst neciešami karsts un griesti piepildās ar dūmiem, tad pieliekties tuvāk grīdai, jo tur ir vēsāks un paliks beidzamais skābeklis. 
 
 ## Evakuācija
 
- Evakuācija  ir patstāvīga pārvietošanās norādītajā drošajā virzienā vai pārvietošana uz drošu vietu pirms katastrofas vai katastrofas laikā no teritorijas vai telpas, kur izveidojušies apstākļi rada apdraudējumu cilvēku dzīvībai un veselībai.
+ Evakuācija ir patstāvīga pārvietošanās norādītajā drošajā virzienā vai pārvietošana uz drošu vietu pirms katastrofas vai katastrofas laikā no teritorijas vai telpas, kur izveidojušies apstākļi rada apdraudējumu cilvēku dzīvībai un veselībai.
 
-Lēmumu par iedzīvotāju evakuāciju pieņem katastrofu pārvaldīšanas subjekts, reaģēšanas un seku likvidēšanas darbu vadītājs vai objekta īpašnieks vai tiesiskais valdītājs, pamatojoties uz:   informāciju par katastrofas draudiem informāciju par katastrofas sekām, kuras var radīt apdraudējumu cilvēka dzīvībai un veselībai.  Tātad, evakuācija nepieciešama, ja: Ēkas nestspēja un noturība apdraud cilvēku drošību, bet tā vēl nav sabrukusi (lēmumu pieņems katastrofu pārvaldīšanas subjekts – pašvaldība vai objekta īpašnieks vai tiesiskais valdītājs).  Notikusi bīstamo ķīmisko vielu noplūde, kas rada draudus cilvēkiem (lēmumu pieņems reaģēšanas un seku likvidēšanas darbu vadītājs – VUGD).  Droša pulcēšanās vieta: 
-
+Lēmumu par iedzīvotāju evakuāciju pieņem katastrofu pārvaldīšanas subjekts, reaģēšanas un seku likvidēšanas darbu vadītājs vai objekta īpašnieks vai tiesiskais valdītājs, pamatojoties uz: informāciju par katastrofas draudiem informāciju par katastrofas sekām, kuras var radīt apdraudējumu cilvēka dzīvībai un veselībai. Tātad, evakuācija nepieciešama, ja: Ēkas nestspēja un noturība apdraud cilvēku drošību, bet tā vēl nav sabrukusi (lēmumu pieņems katastrofu pārvaldīšanas subjekts – pašvaldība vai objekta īpašnieks vai tiesiskais valdītājs). Notikusi bīstamo ķīmisko vielu noplūde, kas rada draudus cilvēkiem (lēmumu pieņems reaģēšanas un seku likvidēšanas darbu vadītājs – VUGD). Droša pulcēšanās vieta:  
 
 # Pirmā palīdzība un neatliekama medicīniskā palīdzība. Katastrofu medicīnas organizēšana valstī
 
@@ -1512,7 +1281,7 @@ Pirmā palīdzība ir tūlītēja, mērķtiecīga un precīza darbība dzīvību
 
 48. pants. Ārstniecības personai ir pienākums regulāri pilnveidot savu profesionālo kvalifikāciju un iegūt izglītību neatliekamās medicīniskās palīdzības sniegšanā.
 
-Ārstniecības likums, VIII nodaļa, Ārstniecības personu pienākumi un tiesības ārstniecībā, 46. un 48.pants. https://likumi.lv/ta/en/en/id/44108-medical-treatment-law  
+Ārstniecības likums, VIII nodaļa, Ārstniecības personu pienākumi un tiesības ārstniecībā, 46. un 48.pants. https://likumi.lv/ta/en/en/id/44108-medical-treatment-law 
 
 Lai veidotu vienādu izpratni par pirmās palīdzības pasākumiem un veicinātu to kvalitāti, valsts nosaka pirmās palīdzības apmācības kārtību:
 
@@ -1536,11 +1305,9 @@ Lai uzlabotu pirmās palīdzības kvalitāti, tiek veicināta apmācība pirmās
 
 Darba aizsardzības likumā teikts, ka darba devējiem jānorīko darbinieki, kuri ir apmācīti pirmās palīdzības sniegšanā, un jānodrošina, lai šie darbinieki būtu pietiekamā skaitā, atbilstoši apmācīti un apgādāti ar nepieciešamo aprīkojumu.
 
-Darba aizsardzības likums. 2. nodaļa. 12. panta 2. punkts. https://likumi.lv/ta/lv/lv/id/26020-darba-aizsardzības-likums  
+Darba aizsardzības likums. 2. nodaļa. 12. panta 2. punkts. https://likumi.lv/ta/lv/lv/id/26020-darba-aizsardzības-likums 
 
-Palīdzības sniedzējs negaidīti un neplānoti ierauga cietušo, kuram ir jāsniedz pirmā palīdzība. Viņš nav tam sagatavots, viņam nav nekāda speciāla aprīkojuma vai palīglīdzekļu. Notikuma vietā var nebūt arī palīgu. Apmācot pirmās palīdzības sniegšanā tiek uzsvērts, ka viss, kas nepieciešams, ir divas rokas:
-
-  
+Palīdzības sniedzējs negaidīti un neplānoti ierauga cietušo, kuram ir jāsniedz pirmā palīdzība. Viņš nav tam sagatavots, viņam nav nekāda speciāla aprīkojuma vai palīglīdzekļu. Notikuma vietā var nebūt arī palīgu. Apmācot pirmās palīdzības sniegšanā tiek uzsvērts, ka viss, kas nepieciešams, ir divas rokas: 
 
 Ja ir iespējams izmantot pirmās palīdzības aptieciņa atrodamos palīglīdzekļus, tie ir jāizmanto, taču ir jābūt gataviem iztikt arī bez tiem.
 
@@ -1548,9 +1315,9 @@ Izdzīvošanas ķēde uz ielas ietver sevī gan pirmo palīdzību, gan tās loģ
 
 Piemērs: pirmā palīdzība, veicot atdzīvināšanas pasākumus uz ielas un tos turpinot neatliekamās medicīniskās palīdzības gaitā.
 
-  Izdzīvošanas ķēdē uz ielas
+ Izdzīvošanas ķēdē uz ielas
 
-Pirmā palīdzība I Neatliekamā medicīniskā palīdzība     Pirmā palīdzība    Neatliekamā medicīniskā palīdzība       Agrīna atpazīšana un palīdzības izsaukšana    Agrīnie atdzīvināšanas pasākumi    Agrīna defibrilācija    Aprūpe pēc reanimācijas       Novērst sirds apstāšanos    Vinnēt laiku    Iedarbināt sirdi    Atjaunot dzīves kvalitāti       
+Pirmā palīdzība I Neatliekamā medicīniskā palīdzība Pirmā palīdzība Neatliekamā medicīniskā palīdzība Agrīna atpazīšana un palīdzības izsaukšana Agrīnie atdzīvināšanas pasākumi Agrīna defibrilācija Aprūpe pēc reanimācijas Novērst sirds apstāšanos Vinnēt laiku Iedarbināt sirdi Atjaunot dzīves kvalitāti 
 
 ## Katastrofu medicīnas izveidošanas iemesli un tapšanas grūtības
 
@@ -1566,7 +1333,7 @@ Lai varētu vienlaicīgi, kopdarbībā ar pārējām katastrofu pārvaldīšanā
 
 ## Pieaugošā aktualitāte
 
- Veselības aprūpes speciālistam palielinās iespēja saskarties ar katastrofu un tās sekām. Starptautiskā statistika liecina, ka pēdējo desmitgadu laikā katastrofu biežums un/vai ietekme ir ievērojami palielinājusies. Šī pieauguma iemesli ir atkarīgi no daudziem faktoriem. Literatūrā ir iespējams identificēt sešus iemeslus:Pēdējo 100 gadu laikā pasaules iedzīvotāju skaits ir pieaudzis ar nesamērīgu pieaugumu jaunattīstības valstīs. Pirmo reizi pasaules vēsturē iedzīvotāju skaits pārsvarā būs pilsētās un pieaugs lielākajās pilsētās. Šis pieaugums notiek augsta riska zonās, piemēram, zemestrīces, plūdu līdzenumos, viesuļvētru zonās un teritorijās, kas atrodas blakus bīstamiem augiem, un tas atspoguļojas pieaugošā upuru skaitā. Pieaug ķīmisko vielu rūpniecība, kas ietver toksisku un sprādzienbīstamu vielu ražošanu, uzglabāšanu un transportēšanu, īpaši caur blīvi apdzīvotam vietām un ar nepietiekamiem drošības pasākumiem. Pilsētu graustu koncentrācija, īpaši mazāk attīstītajās valstīs, bieži atrodas netālu no netīrākajām un darbietilpīgākajām pārstrādes rūpnīcām, kuras ir pārvietotas no attīstītajām valstīm, lai atrastos lēta darbaspēka avotu tuvumā. Palielinās cilvēku un preču satiksmes blīvums ātrākos un jaudīgākos transporta veidos. Pieaugošā starptautiskā tirdzniecība un ceļošana sniedz neskaitāmas iespējas palielināties un rasties infekcijas slimību draudiem un citiem sabiedrības veselības apdraudējumu gadījumiem.  Globālās klimata pārmaiņas liek cilvēkiem ciest no smagiem laikapstākļiem, jo ​​īpaši piekrastes rajonos visā pasaulē. Pastāvīgi terora aktu draudi. Bruņoto konfliktu pieaugums ar draudiem īpaši neaizsargātiem iedzīvotājiem piespiedu migrācijai vai pārvietošanai, palielinot infekcijas slimību epidēmiju risku. Bruņotu konfliktu blakusiedarbība bieži ir veselības sistēmu iznīcināšana vai tās traucējoša darbība.  Latvijā izplatītākās krīzes ir dabas katastrofas. Lielākās piedzīvotās briesmas ir ekstremālas temperatūras, vētras un plūdi, taču reģistrētas arī citas katastrofas, piemēram, spēcīga snigšana, ķīmiskās un infrastruktūras avārijas, naftas noplūdes, ēku sabrukšana un savvaļas ugunsgrēki.
+ Veselības aprūpes speciālistam palielinās iespēja saskarties ar katastrofu un tās sekām. Starptautiskā statistika liecina, ka pēdējo desmitgadu laikā katastrofu biežums un/vai ietekme ir ievērojami palielinājusies. Šī pieauguma iemesli ir atkarīgi no daudziem faktoriem. Literatūrā ir iespējams identificēt sešus iemeslus:Pēdējo 100 gadu laikā pasaules iedzīvotāju skaits ir pieaudzis ar nesamērīgu pieaugumu jaunattīstības valstīs. Pirmo reizi pasaules vēsturē iedzīvotāju skaits pārsvarā būs pilsētās un pieaugs lielākajās pilsētās. Šis pieaugums notiek augsta riska zonās, piemēram, zemestrīces, plūdu līdzenumos, viesuļvētru zonās un teritorijās, kas atrodas blakus bīstamiem augiem, un tas atspoguļojas pieaugošā upuru skaitā. Pieaug ķīmisko vielu rūpniecība, kas ietver toksisku un sprādzienbīstamu vielu ražošanu, uzglabāšanu un transportēšanu, īpaši caur blīvi apdzīvotam vietām un ar nepietiekamiem drošības pasākumiem. Pilsētu graustu koncentrācija, īpaši mazāk attīstītajās valstīs, bieži atrodas netālu no netīrākajām un darbietilpīgākajām pārstrādes rūpnīcām, kuras ir pārvietotas no attīstītajām valstīm, lai atrastos lēta darbaspēka avotu tuvumā. Palielinās cilvēku un preču satiksmes blīvums ātrākos un jaudīgākos transporta veidos. Pieaugošā starptautiskā tirdzniecība un ceļošana sniedz neskaitāmas iespējas palielināties un rasties infekcijas slimību draudiem un citiem sabiedrības veselības apdraudējumu gadījumiem. Globālās klimata pārmaiņas liek cilvēkiem ciest no smagiem laikapstākļiem, jo ​​īpaši piekrastes rajonos visā pasaulē. Pastāvīgi terora aktu draudi. Bruņoto konfliktu pieaugums ar draudiem īpaši neaizsargātiem iedzīvotājiem piespiedu migrācijai vai pārvietošanai, palielinot infekcijas slimību epidēmiju risku. Bruņotu konfliktu blakusiedarbība bieži ir veselības sistēmu iznīcināšana vai tās traucējoša darbība. Latvijā izplatītākās krīzes ir dabas katastrofas. Lielākās piedzīvotās briesmas ir ekstremālas temperatūras, vētras un plūdi, taču reģistrētas arī citas katastrofas, piemēram, spēcīga snigšana, ķīmiskās un infrastruktūras avārijas, naftas noplūdes, ēku sabrukšana un savvaļas ugunsgrēki.
 
 ## Katastrofu medicīna kā viena no ārstu medicīniskās specializācijas jomām
 
@@ -1600,19 +1367,19 @@ Pēdējo divu gadu desmitu laikā praktiski visās valstīs, arī Latvijā, noti
 
 Lai palīdzētu skartajām valstīm, ir izveidots arvien lielāks skaits starptautisko neatliekamās medicīniskās palīdzības komandu. Neatliekamās medicīniskās palīdzības komandu – Emergency Medical Teams (EMT) – iniciatīva attīstījās 2010. gadā Pasaules Veselības organizācijas (PVO) paspārnē ar mērķi uzlabot starptautisko neatliekamās medicīniskās palīdzības komandu kvalitāti un atbildību, kas reaģē uz katastrofām, definējot spējas, pakalpojumus un minimumu EMT noteiktajos standartos.
 
-2016. gada februārī ES izveidoja Eiropas Medicīnas korpusu – European Medical Corps  (EMC), – lai palīdzētu mobilizēt medicīnas komandas un aprīkojumu ārkārtas situācijām ES un ārpus tās. Šī iniciatīva atbilst PVO neatliekamās medicīniskās palīdzības komandu (EMT) ceļvedim, lai uzlabotu to medicīnas komandu kvalitāti, atbildību un koordināciju, kas reaģē uz katastrofām.
+2016. gada februārī ES izveidoja Eiropas Medicīnas korpusu – European Medical Corps (EMC), – lai palīdzētu mobilizēt medicīnas komandas un aprīkojumu ārkārtas situācijām ES un ārpus tās. Šī iniciatīva atbilst PVO neatliekamās medicīniskās palīdzības komandu (EMT) ceļvedim, lai uzlabotu to medicīnas komandu kvalitāti, atbildību un koordināciju, kas reaģē uz katastrofām.
 
 TEAMS ir Eiropas Savienības humānās palīdzības un civilās aizsardzības finansēts projekts, kura mērķis ir izstrādāt, izmēģināt un novērtēt standartizētu, apstiprinātu un rentablu apmācību paketi, kas vērsta uz operatīvo komandu apmācību EMC/EMT, kas ir pielāgojama dažāda veida EMC/EMT valstīs ar zemiem ienākumiem un nabadzīgos apstākļos.
 
 Katastrofu medicīnas sistēma Latvijā ir valsts koordinētu pasākumu kopums, ko veic ārstniecības iestādes un citas veselības aprūpes nozares institūcijas, lai ārkārtas situācijās glābtu cilvēku dzīvību un mazinātu postošo ietekmi uz sabiedrības veselību. Katastrofu medicīnas sistēma ir pasākumu kopums, ko īsteno iesaistītās institūcijas un dienesti, ar mērķi nodrošināt ārkārtas situāciju pārvaldīšanu veselības nozarē. Latvijā Katastrofu medicīnas sistēmu plāno, vada un koordinē Neatliekamās medicīniskās palīdzības dienesta Katastrofu medicīnas centrs.
 
-Katastrofu medicīnas sistēma Latvijā ir civilās aizsardzības sistēmas un nacionālās drošības sistēmas sastāvdaļa.  
+Katastrofu medicīnas sistēma Latvijā ir civilās aizsardzības sistēmas un nacionālās drošības sistēmas sastāvdaļa. 
 
 # Labās prakses piemēri un pieredze no starptautiskajām operācijām
 
 ## Praktiskās pieredzes atziņas no starptautiskām misijām, misiju iespējām, kompetences prasībām, mandātu problēmām un izaicinājumiem
 
- Termins "Miera uzturēšanas operācija vai misija" (Peace Support Operations  – PSO) apzīmē organizētas starptautiskās palīdzības iniciatīvas, lai atbalstītu miera uzturēšanu, uzraudzību un veidošanu, kā arī atdzimstošu vardarbīgu konfliktu novēršanu.
+ Termins "Miera uzturēšanas operācija vai misija" (Peace Support Operations – PSO) apzīmē organizētas starptautiskās palīdzības iniciatīvas, lai atbalstītu miera uzturēšanu, uzraudzību un veidošanu, kā arī atdzimstošu vardarbīgu konfliktu novēršanu.
 
 Pētījumos pierādīts, ka miera uzturētāji jeb "zilās ķiveres", kā tiek dēvēti karavīri – miera uzturētāji ar ANO mandātu, – ievērojami samazina civiliedzīvotāju upuru skaitu, saīsina konfliktu un palīdz panākt miera līgumu esamību.
 
@@ -1622,11 +1389,11 @@ Miera uzturēšana operācija, lai gan ANO statūtos nav skaidri paredzēta, ir 
 
 Statūti uzliek ANO Drošības padomei galveno atbildību par starptautiskā miera un drošības uzturēšanu. Pildot šo pienākumu, Padome var pieņemt virkni pasākumu, tostarp izveidot ANO miera operāciju.
 
-ANO miera operācijas tiek izvietotas, pamatojoties uz Apvienoto Nāciju Organizācijas Drošības padomes mandātiem. Viņu uzdevumi dažādās situācijās atšķiras atkarībā no konflikta rakstura un konkrētajiem izaicinājumiem, ko tas rada. Lai gan katra ANO miera uzturēšanas operācija ir atšķirīga, pastāv ievērojama konsekvences pakāpe starp Drošības padomes uzticēto uzdevumu veidiem. Atkarībā no viņu mandāta miera operācijām var būt nepieciešamas: izvērst operācijā iesaistītos spēkus, lai novērstu konflikta uzliesmojumu vai konflikta izplatīšanos pāri robežām; stabilizēt konfliktsituācijas pēc pamiera, lai iesaistītajām pusēm radītu vidi ilgstoša miera līguma noslēgšanai; palīdzēt īstenot visaptverošus miera līgumus; vadīt valstis vai teritorijas, pārejot uz stabilu valdību, kuras pamatā ir demokrātijas principi, laba pārvaldība un ekonomikas attīstība.  Mūsdienu miera uzturēšanas operācijās tiek aicināts ne tikai stabilizēt konfliktu zonas un atdalīt karojošās puses, bet arī aizsargāt civiliedzīvotājus, palīdzēt bijušo kaujinieku atbruņošanā, demobilizācijā un reintegrācijā, atbalstīt vēlēšanu organizēšanu, aizsargāt un veicināt cilvēktiesības, kā arī palīdzēt veidot ilgtspējīgu valsts ekonomisko attīstību.
+ANO miera operācijas tiek izvietotas, pamatojoties uz Apvienoto Nāciju Organizācijas Drošības padomes mandātiem. Viņu uzdevumi dažādās situācijās atšķiras atkarībā no konflikta rakstura un konkrētajiem izaicinājumiem, ko tas rada. Lai gan katra ANO miera uzturēšanas operācija ir atšķirīga, pastāv ievērojama konsekvences pakāpe starp Drošības padomes uzticēto uzdevumu veidiem. Atkarībā no viņu mandāta miera operācijām var būt nepieciešamas: izvērst operācijā iesaistītos spēkus, lai novērstu konflikta uzliesmojumu vai konflikta izplatīšanos pāri robežām; stabilizēt konfliktsituācijas pēc pamiera, lai iesaistītajām pusēm radītu vidi ilgstoša miera līguma noslēgšanai; palīdzēt īstenot visaptverošus miera līgumus; vadīt valstis vai teritorijas, pārejot uz stabilu valdību, kuras pamatā ir demokrātijas principi, laba pārvaldība un ekonomikas attīstība. Mūsdienu miera uzturēšanas operācijās tiek aicināts ne tikai stabilizēt konfliktu zonas un atdalīt karojošās puses, bet arī aizsargāt civiliedzīvotājus, palīdzēt bijušo kaujinieku atbruņošanā, demobilizācijā un reintegrācijā, atbalstīt vēlēšanu organizēšanu, aizsargāt un veicināt cilvēktiesības, kā arī palīdzēt veidot ilgtspējīgu valsts ekonomisko attīstību.
 
 Pašlaik 12 ANO miera operācijas ir izvietotas 3 dažādos reģionos: septiņas Āfrikā, trīs Tuvajos Austrumos, divas Eiropā un viena Āzijā.
 
-Avots: https://www.un.org/globalcall/content/field-missionsMINURSO ANO misija referenduma sarīkošanai Rietumsahārā  MINUSCA ANO stabilizēšanas misija Centrālāfrikas Republikā  MINUSMA ANO daudzdimensiju integrētā stabilizācijas misija Mali  MONUSCO ANO stabilizēšanas misija Kongo Demokrātiskajā Republikā  UNDOF ANO atdalīšanās stabilizācijas spēki (starp Izraēlu un Sīriju)  UNFICYP ANO Miera uzturēšanas spēki Kiprā  UNIFIL ANO pagaidu spēki Libānā  UNISFA ANO pagaidu drošības spēki Abejā (Sudāna)  UNMIK ANO pagaidu administrācijas misija Kosovā  UNMISS ANO misija Dienvidsudānā  UNMOGIP ANO militāro novērotāju grupa Indijā un Pakistānā  UNTSO ANO pamiera uzraudzības organizācija (Jeruzalemē)    
+Avots: https://www.un.org/globalcall/content/field-missionsMINURSO ANO misija referenduma sarīkošanai Rietumsahārā MINUSCA ANO stabilizēšanas misija Centrālāfrikas Republikā MINUSMA ANO daudzdimensiju integrētā stabilizācijas misija Mali MONUSCO ANO stabilizēšanas misija Kongo Demokrātiskajā Republikā UNDOF ANO atdalīšanās stabilizācijas spēki (starp Izraēlu un Sīriju) UNFICYP ANO Miera uzturēšanas spēki Kiprā UNIFIL ANO pagaidu spēki Libānā UNISFA ANO pagaidu drošības spēki Abejā (Sudāna) UNMIK ANO pagaidu administrācijas misija Kosovā UNMISS ANO misija Dienvidsudānā UNMOGIP ANO militāro novērotāju grupa Indijā un Pakistānā UNTSO ANO pamiera uzraudzības organizācija (Jeruzalemē) 
 
 Attēlā: ANO miera uzturēšanas misijas
 
@@ -1650,7 +1417,7 @@ ES finansētā humānā palīdzība tiek sniegta sadarbībā ar ANO aģentūrām
 
 Finansējums humānās palīdzības operācijām paredzēts valstīm ārpus ES. Eiropas Komisija var arī finansēt ārkārtas atbalsta operācijas, lai reaģētu uz ārkārtas mēroga katastrofām Eiropas Savienībā un ārpus tās.
 
-Visas NATO militārās operācijas ir notikušas pēc Aukstā kara, kad NATO ietekme kļuva ievērojama Bosnijā, kur NATO pakāpeniski pastiprināja savus centienus, lai izbeigtu karadarbību un civiliedzīvotāju bojāeju un ciešanas. 1995. gadā tas vainagojās ar NATO pirmo gaisa kampaņu – operāciju Apzināts spēks (Deliberate Force) . NATO mērķis bija trieciens Serbu Republikas armijai, kuras klātbūtne Bosnijā apdraudēja Apvienoto Nāciju Organizācijas noteiktās drošās zonas, un galu galā NATO spēku veiktā Serbijas militāro struktūru bombardēšana palīdzēja panākt Deitonas vienošanos (līgums par uguns pārtraukšanu starp naidīgajām pusēm Bosnijas karā (1992—1995) un teritorijas sadalīšanu Bosnijas un Hercegovinas Republikā  ).
+Visas NATO militārās operācijas ir notikušas pēc Aukstā kara, kad NATO ietekme kļuva ievērojama Bosnijā, kur NATO pakāpeniski pastiprināja savus centienus, lai izbeigtu karadarbību un civiliedzīvotāju bojāeju un ciešanas. 1995. gadā tas vainagojās ar NATO pirmo gaisa kampaņu – operāciju Apzināts spēks (Deliberate Force) . NATO mērķis bija trieciens Serbu Republikas armijai, kuras klātbūtne Bosnijā apdraudēja Apvienoto Nāciju Organizācijas noteiktās drošās zonas, un galu galā NATO spēku veiktā Serbijas militāro struktūru bombardēšana palīdzēja panākt Deitonas vienošanos (līgums par uguns pārtraukšanu starp naidīgajām pusēm Bosnijas karā (1992—1995) un teritorijas sadalīšanu Bosnijas un Hercegovinas Republikā ).
 
 NATO bija ievērojama loma Afganistānā pēc 2001. gada 11. septembra teroraktiem ASV, jo ​​ASV atsaucās uz Ziemeļatlantijas līguma 5. pantu, kurš saka, ka uzbrukums vienai NATO dalībvalstij ir ārējs uzbrukums visām NATO dalībvalstīm kolektīvās aizsardzības idejas ietvaros. Papildus centieniem Afganistānā, NATO ir piedalījusies daudzās dažādās jomās, tostarp palīdzības pasākumos, pirātisma apkarošanā, lidojumu aizlieguma zonu ieviešanā un jūras blokādēs.
 
@@ -1714,17 +1481,17 @@ Attēlā: Ebolas vīrusa aprite dabā: parastā uzturēšanās vide – sikspār
 
 Ebola izplatās tiešā saskarē (caur bojātu ādu vai neaizsargātām gļotādām) ar slima cilvēka asinīm vai ķermeņa šķidrumiem, piemēram, urīnu, siekalām, fekālijām, vemšanas masām un spermu. Tā izplatās arī saskarē ar piesārņotiem priekšmetiem (piemēram, šļircēm) vai inficētiem dzīvniekiem, piemēram, apstrādājot gaļu.
 
-Ebolas vīrusa pazīme ir drudzis, kas pārsniedz 38,6 °C, un ir šādi papildu simptomi: smagas galvassāpes; muskuļu sāpes; vemšana; caureja; sāpes vēderā; neizskaidrojama asiņošana (asiņošana vai zilumi).  Inkubācijas periods no saskares līdz pazīmju vai simptomu parādīšanās brīdim svārstās no 2 līdz 21 dienai, vidēji no 8 līdz 10 dienām. Persona ar Ebolas vīrusu nav lipīga, līdz parādās simptomi.
+Ebolas vīrusa pazīme ir drudzis, kas pārsniedz 38,6 °C, un ir šādi papildu simptomi: smagas galvassāpes; muskuļu sāpes; vemšana; caureja; sāpes vēderā; neizskaidrojama asiņošana (asiņošana vai zilumi). Inkubācijas periods no saskares līdz pazīmju vai simptomu parādīšanās brīdim svārstās no 2 līdz 21 dienai, vidēji no 8 līdz 10 dienām. Persona ar Ebolas vīrusu nav lipīga, līdz parādās simptomi.
 
-Līdz 5. septembrim kopumā tika ziņots par 3967 iespējamiem un apstiprinātiem Ebolas saslimšanas gadījumiem un 2105 nāves gadījumiem – mirstība 50%. Inficēšanas tika vērota Gvinejā, Sjerraleonē, Libērijā, Nigērijā, Senegālā un Kongo Demokrātiskajā Republikā. Uz 25. augustu vairāk nekā 240 veselības aprūpes darbinieku bija inficēti, viņu vidū vairāk nekā 120 nāves gadījumu. Inficēto skaits auga strauji, epidēmija izplatījās, tika konstatēti atsevišķi saslimšanas gadījumi ASV un Eiropā. Epidēmijas ierobežošanai traucēja sociālie aspekti mazattīstītajās Rietumāfrikas valstīs:pārslogotas sabiedrības veselības un veselības aprūpes sistēmas; neapmaksāti veselības aprūpes darbinieki; nepietiekams ārstniecības centru/gultu skaits; nepietiekams individuālo aizsarglīdzekļu daudzums; nepietiekams medicīniskais aprīkojums.  Lai apturētu epidēmijas izplatību, PVO noteica galvenos starptautiskās misijas rīcības pamatprincipus, kuru pamatā ir uzdevums pārtraukt infekcijas pārnešanu no cilvēka uz cilvēku:gadījuma identifikācija; kontaktpersonu izsekošana; infekcijas kontrole; riska faktoru identificēšana un mazināšana; veselības aprūpes darbinieku aizsardzība; apbedīšanas un pārapbedīšanas droša prakse; izplatīšanos uz citām valstīm nepieļaušana; sabiedrības izglītība; sabiedrības izglītošana – skrejlapas, veselības plakāti, brošūras, radio klipi, video vietējās valodās.  Starptautiskā misijā PVO vadībā pakāpeniski ierobežoja epidēmijas izplatību un panāca tās izbeigšanos. 2016. gada 9. jūnijā Libērija tika pasludināta par brīvu no Ebolas vīrusa, tanī laikā arī citviet Rietumāfrikas valstīs tika panākta atbrīvošanās no Ebolas epidēmijas briesmām.
+Līdz 5. septembrim kopumā tika ziņots par 3967 iespējamiem un apstiprinātiem Ebolas saslimšanas gadījumiem un 2105 nāves gadījumiem – mirstība 50%. Inficēšanas tika vērota Gvinejā, Sjerraleonē, Libērijā, Nigērijā, Senegālā un Kongo Demokrātiskajā Republikā. Uz 25. augustu vairāk nekā 240 veselības aprūpes darbinieku bija inficēti, viņu vidū vairāk nekā 120 nāves gadījumu. Inficēto skaits auga strauji, epidēmija izplatījās, tika konstatēti atsevišķi saslimšanas gadījumi ASV un Eiropā. Epidēmijas ierobežošanai traucēja sociālie aspekti mazattīstītajās Rietumāfrikas valstīs:pārslogotas sabiedrības veselības un veselības aprūpes sistēmas; neapmaksāti veselības aprūpes darbinieki; nepietiekams ārstniecības centru/gultu skaits; nepietiekams individuālo aizsarglīdzekļu daudzums; nepietiekams medicīniskais aprīkojums. Lai apturētu epidēmijas izplatību, PVO noteica galvenos starptautiskās misijas rīcības pamatprincipus, kuru pamatā ir uzdevums pārtraukt infekcijas pārnešanu no cilvēka uz cilvēku:gadījuma identifikācija; kontaktpersonu izsekošana; infekcijas kontrole; riska faktoru identificēšana un mazināšana; veselības aprūpes darbinieku aizsardzība; apbedīšanas un pārapbedīšanas droša prakse; izplatīšanos uz citām valstīm nepieļaušana; sabiedrības izglītība; sabiedrības izglītošana – skrejlapas, veselības plakāti, brošūras, radio klipi, video vietējās valodās. Starptautiskā misijā PVO vadībā pakāpeniski ierobežoja epidēmijas izplatību un panāca tās izbeigšanos. 2016. gada 9. jūnijā Libērija tika pasludināta par brīvu no Ebolas vīrusa, tanī laikā arī citviet Rietumāfrikas valstīs tika panākta atbrīvošanās no Ebolas epidēmijas briesmām.
 
-Starptautiskās misijas dalībnieki:ANO un tās aģentūras; PVO un tās aģentūras; ES civilās aizsardzības mehānisma spējas, piemēram, mobilā laboratorija; ASV Slimību kontroles un profilakses centrs; USAID – Amerikas Savienoto Valstu Starptautiskās attīstības aģentūra; UNICEF – ANO Bērnu fonds; NVO “Ārsti bez robežām”; Apvienotās Karalistes, Kanādas un citu valstu naudas ziedojumi.  
+Starptautiskās misijas dalībnieki:ANO un tās aģentūras; PVO un tās aģentūras; ES civilās aizsardzības mehānisma spējas, piemēram, mobilā laboratorija; ASV Slimību kontroles un profilakses centrs; USAID – Amerikas Savienoto Valstu Starptautiskās attīstības aģentūra; UNICEF – ANO Bērnu fonds; NVO “Ārsti bez robežām”; Apvienotās Karalistes, Kanādas un citu valstu naudas ziedojumi. 
 
 ## Dalība kādā no starptautiskajām misijām – katastrofu palīdzības sniegšanas misija, misija karadarbības zonā, miera uzturēšanas misija, humānās palīdzības misija, brīvprātīgais darbs ANO sistēmā vai citā organizācijā
 
  Neraugoties uz dažādiem starptautisko operāciju mērķiem un to panākšanas līdzekļiem, izdalāmi pieci galvenie šādu misiju veidi.Starptautiskās operācijas (misijas) un dalība tajās 1) Starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos. Tiek ievēroti trīs principi, kas ir savstarpēji saistīti un viens otru pastiprina: pušu piekrišana, objektivitāte, spēka nelietošana, izņemot pašaizsardzību un pilnvaru aizstāvību. Piemēram, SFOR, KFOR.
 
-SFOR – Stabilizācijas spēki Bosnijā un Hercegovinā (Stabilization Force in Bosnia and Herzegovina )  bija NATO vadīti daudznacionāli miera uzturēšanas spēki, kas tika izvietoti Bosnijā un Hercegovinā pēc Bosnijas kara. Lai gan SFOR vadīja NATO, vairākas valstis, kas nav NATO sastāvā, piešķīra karaspēku. 2004. gada decembrī to aizstāja EUFOR Althea, ES misija, kas ar ANO mandātu ir pilnvarota palīdzēt īstenot 1995. gada Vispārējā nolīguma par mieru Bosnijā un Hercegovinā militāros aspektus.
+SFOR – Stabilizācijas spēki Bosnijā un Hercegovinā (Stabilization Force in Bosnia and Herzegovina ) bija NATO vadīti daudznacionāli miera uzturēšanas spēki, kas tika izvietoti Bosnijā un Hercegovinā pēc Bosnijas kara. Lai gan SFOR vadīja NATO, vairākas valstis, kas nav NATO sastāvā, piešķīra karaspēku. 2004. gada decembrī to aizstāja EUFOR Althea, ES misija, kas ar ANO mandātu ir pilnvarota palīdzēt īstenot 1995. gada Vispārējā nolīguma par mieru Bosnijā un Hercegovinā militāros aspektus.
 
 Avots: http://www.cotf.edu/earthinfo/balkans/bosnia/BNpolset.html
 
@@ -1744,13 +1511,13 @@ Avots: https://www.nato.int/docu/review/articles/2019/01/24/nato-ready-for-anyth
 
 Attēlā: ISAF miera uzturēšanas operācija ar NATO sabiedroto un partnervalstu spēku izvietošanu un karavīru skaitu Afganistānas teritorijā 2009. gadā. Latvija piedalījās ar 160 karavīriem.
 
-2015. gada janvārī NATO uzsāka Apņēmīga atbalsta misija (Resolute Support Mission  – RSM), lai apmācītu, konsultētu un palīdzētu Afganistānas drošības spēkiem un iestādēm cīnīties pret terorismu un nodrošināt savas valsts drošību. Pēc tam, kad 2021. gada augustā tika pabeigta visu RSM spēku izvešana, misija tika pārtraukta 2021. gada septembra sākumā.
+2015. gada janvārī NATO uzsāka Apņēmīga atbalsta misija (Resolute Support Mission – RSM), lai apmācītu, konsultētu un palīdzētu Afganistānas drošības spēkiem un iestādēm cīnīties pret terorismu un nodrošināt savas valsts drošību. Pēc tam, kad 2021. gada augustā tika pabeigta visu RSM spēku izvešana, misija tika pārtraukta 2021. gada septembra sākumā.
 
 3) Starptautiskās glābšanas operācijas, kuru mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana. Piemērām, TRITON.
 
 Vidusjūras vidieni visvairāk ietekmē migrācijas plūsmas, kas pieauga līdz milzīgiem apjomiem, 2014. gadā attīstoties kara darbībai Sīrijā un Lībijā.
 
-Lai gan operācijas Triton, kuru Frontex – Eiropas Robežu un krasta apsardzes aģentūra (European Border and Coast Guard Agency ), –  uzsāka 2014. gada novembrī, galvenais mērķis ir robežkontrole un uzraudzība, aģentūras prioritāte joprojām ir meklēšana un glābšana. Kopš operācijas sākuma Itālijas krasta apsardze regulāri ir novirzījusi Frontex kuģus un lidmašīnas, lai palīdzētu nelaimē nonākušiem migrantiem. Aģentūras norīkotie darbinieki arī atbalsta Itālijas varas iestādes ienākošo migrantu reģistrācijā. Aptauju veicēji vāc izlūkdatus par cilvēku kontrabandas tīkliem, kas darbojas Lībijā un citās Āfrikas valstīs kontrabandas maršrutos.
+Lai gan operācijas Triton, kuru Frontex – Eiropas Robežu un krasta apsardzes aģentūra (European Border and Coast Guard Agency ), – uzsāka 2014. gada novembrī, galvenais mērķis ir robežkontrole un uzraudzība, aģentūras prioritāte joprojām ir meklēšana un glābšana. Kopš operācijas sākuma Itālijas krasta apsardze regulāri ir novirzījusi Frontex kuģus un lidmašīnas, lai palīdzētu nelaimē nonākušiem migrantiem. Aģentūras norīkotie darbinieki arī atbalsta Itālijas varas iestādes ienākošo migrantu reģistrācijā. Aptauju veicēji vāc izlūkdatus par cilvēku kontrabandas tīkliem, kas darbojas Lībijā un citās Āfrikas valstīs kontrabandas maršrutos.
 
 TRITON darbības joma ir paplašināta, iekļaujot citus pārrobežu noziedzības veidus. Neskaitot daudzos cilvēku kontrabandistu arestus, aģentūras izvietotie līdzekļi arvien vairāk palīdz atklāt narkotiku kontrabandu, nelegālu zveju un jūras piesārņojumu. Kopumā operācijā TRITON piedalās 26 ES valstis, ieskaitot Latviju, izvietojot tehnisko aprīkojumu vai robežsargus.
 
