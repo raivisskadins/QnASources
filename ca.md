@@ -1572,5 +1572,3 @@ Love Volunteers – organizē uzticamas un drošas brīvprātīgo programmas Āf
 Voluntary Service Overseas – bezpeļņas starptautiska attīstības organizācija ar vīziju par "godīgu pasauli ikvienam" un misiju "radīt ilgstošas ​​pārmaiņas, izmantojot brīvprātīgo darbu". VSO nodrošina attīstības ietekmi, izmantojot jauktu brīvprātīgo modeli, kas sastāv no starptautiskiem, valsts un kopienas brīvprātīgajiem, kuri strādā kopā, lai izstrādātu sistēmas un nosacījumus pozitīvām sociālajām pārmaiņām. 2018.–2019. gadā VSO strādāja 23 Āfrikas un Āzijas valstīs. VSO pašlaik strādā šādās programmas pamatjomās: iekļaujoša izglītība, veselība, iztikas līdzekļi.
 
 Médecins Sans Frontières, pazīstams arī kā Ārsti bez robežām – franču izcelsmes humanitārās medicīnas nevalstiska organizācija vai labdarības organizācija, kas pazīstama ar saviem projektiem konflikta zonās un valstīs, kuras skarušās endēmiskas slimības, sniedzot profesionālu palīdzību veselības aprūpes organizēšanā un sniegšanā.
-
-
