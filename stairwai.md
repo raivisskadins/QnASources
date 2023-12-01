@@ -1,4 +1,4 @@
-Work programme topic: H2020-ICT-49-2020: Artificial Intelligence on demand platform
+# Work programme topic: H2020-ICT-49-2020: Artificial Intelligence on demand platform
 Innovation Action
 Project Number: 101017142
 Project Acronym: StairwAI
@@ -14,7 +14,7 @@ Coordinated by: ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA
 Fixed EC keywords: Artificial intelligence, intelligent systems, multi agent systems
 Free keywords: Natural multi-language processing, matchmaking, hardware dimensioning and provisioning, Low-tech SMEs
 
-Abstract
+# Abstract
 The most fundamental need of the AI4EU on-demand Platform at this stage in its development is the introduction of improved functionality to allow for the easy engagements of its core targets stakeholders, namely SMEs. While additional resources and strong domain-specific solutions are also needed, it will be a wasted enterprise without a simple mechanism to match users to these assets. What is needed is a Stairway to AI, a linking bridge between users in a low-tech level to the higher-level AI resources that have the potential to transform both their business.
 
 The StairwAI project targets low-tech users with the goal of facilitating their engagement on the AI on-demand Platform. This will be achieved through a new service layer enriching the functionalities of the on-demand platform and containing: (1) a multi-lingual interaction layer enabling conversations with the Platform in the user’s own language, (2) a horizontal matchmaking service for the automatic discovery of AI assets (tools, data sets, AI experts, consultants, papers, courses etc.) meeting the user business needs and, (3) a vertical matchmaking service that will dimension and provision hardware resources through a proper hardware provider (HPC, Cloud and Edge infrastructures).
@@ -22,7 +22,7 @@ The StairwAI project targets low-tech users with the goal of facilitating their 
 These services are designed and implemented by using techniques in an AI for AI fashion. The AI techniques deployed in the development of the services are natural language processing for the multi-lingual interaction, constraint solving, optimization and machine learning for horizontal and vertical matchmaking, knowledge representation for organizing the platform AI assets, reputation and fairness mechanisms to improve the matching results.
 StairwAI will have a tremendous impact on the sustainability, collaboration opportunities, accessibility and fairness of the AI on-demand Platform, enabling the definition of proper business models for the uptake of AI bringing new value for EU industry.
 
-1.1 List of beneficiaries
+# 1.1 List of beneficiaries
 ALMA MATER STUDIORUM – Università di Bologna
 University College Cork
 Universitat Politècnica de Catalunya
@@ -35,7 +35,7 @@ Tilde SIA
 Stichting EGI
 Thales
 
-WP1: Project management
+# WP1: Project management
 The objective of the WP1 is the smooth implementation of the project, and in particular:
 * To coordinate and supervise activities to be carried out
 * To carry out the overall administrative and financial management of the project
